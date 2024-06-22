@@ -1,0 +1,682 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="99. Headers">
+      <UniqueIdentifier>{573a8d06-cba9-402d-8c09-d412c6356d04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Default">
+      <UniqueIdentifier>{7fe8c2d9-8a09-40e4-9a29-9d78b37f315a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MainApp">
+      <UniqueIdentifier>{85b767a7-7bc7-4319-aaac-e9c300ca372e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. ImGui">
+      <UniqueIdentifier>{40709277-66e8-46e5-a3d8-5594fa5aeffe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. ImGui\Default">
+      <UniqueIdentifier>{a9363415-cf2c-4e80-80b5-2c50ce85bde3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. ImGui\ImGuiMgr">
+      <UniqueIdentifier>{b60291ae-04cf-4e92-9c82-85546f8d1770}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Level">
+      <UniqueIdentifier>{0afa4d59-9744-43c9-ab8c-f54ec7dc76b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject">
+      <UniqueIdentifier>{29cd4d7c-92bc-43d9-ad34-0fc796a1023b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\00. Camera">
+      <UniqueIdentifier>{01f1a87d-6a23-4288-85e8-7c17687eb308}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\00. Camera\00. FreeCamera">
+      <UniqueIdentifier>{3fe1d0cf-7c79-4e9e-bd4a-c65bf012f499}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI">
+      <UniqueIdentifier>{a53ed149-e945-4671-81e9-5b78425f6710}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIIcon">
+      <UniqueIdentifier>{f8dc068d-ac09-424b-ab28-f5b256c91f79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIMgr">
+      <UniqueIdentifier>{bb58af3a-c0c0-4eae-9268-8f7e71ed9256}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIButton">
+      <UniqueIdentifier>{a1d230a6-a4ca-4d5f-8225-95823e2ddf23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUISlider">
+      <UniqueIdentifier>{c4b57a3e-895e-43c5-b4a2-c9de8bc3c460}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIBar">
+      <UniqueIdentifier>{38c11b73-8c5e-4967-b08d-8b1d574c1759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIScroll">
+      <UniqueIdentifier>{a899a463-716d-4f3a-ab87-7da3174fe13c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUISlot">
+      <UniqueIdentifier>{a64457cf-c1b1-4aa4-bf6f-4eb943aaf38b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIPanel">
+      <UniqueIdentifier>{48bbad63-8276-497f-b8da-d501de9a5c89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUICoolTime">
+      <UniqueIdentifier>{ec84796a-f6cc-45aa-b687-23c47d772ca4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIUV">
+      <UniqueIdentifier>{8b88acb9-7d1f-471c-81fa-285a52041bb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIVisible">
+      <UniqueIdentifier>{1d0923b7-4351-4439-845f-2984ba822ab6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIBackGround">
+      <UniqueIdentifier>{bb73c4dc-20a2-4f08-aa45-0fd1d22bb04b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIScrollBG">
+      <UniqueIdentifier>{7178baec-1591-4241-b924-c45be0953621}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIHover">
+      <UniqueIdentifier>{41de4c05-c457-4ed7-8d89-7cd4a61082f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUICover">
+      <UniqueIdentifier>{400016cf-44a3-4777-89d9-e9ced38df9ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIItemBackGround">
+      <UniqueIdentifier>{96ab0dce-6b62-4139-8f60-8c69ffd43ffb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIItemIcon">
+      <UniqueIdentifier>{10272083-73cb-4555-a782-361ef583c0da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIItemHover">
+      <UniqueIdentifier>{5ea36cbd-d80a-4806-8e7b-7eccc536c031}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIItemTab">
+      <UniqueIdentifier>{b6055168-fc5c-4e5e-85c1-b55340d42de1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUILockOn">
+      <UniqueIdentifier>{1ae36e43-79a8-4f2b-8cbf-a49ff0eae1ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIText">
+      <UniqueIdentifier>{13e8154e-f69d-441a-bfbf-4986c3bfa839}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstance">
+      <UniqueIdentifier>{5505f8a3-c891-4129-9f98-2761f2ddaa1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceItemBG">
+      <UniqueIdentifier>{04447969-0f8e-4164-b704-92de7d6bd90e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceItemSlot">
+      <UniqueIdentifier>{0016e243-1c42-438e-8b2a-1a971d6c5e37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceItemIcon">
+      <UniqueIdentifier>{6119e0c4-d9db-4a58-8a0d-35de12366b79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceItemCoolTime">
+      <UniqueIdentifier>{db17498e-2f87-4eb9-9ce9-6940de1afe7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceItemHover">
+      <UniqueIdentifier>{2645f0ae-66ca-4b63-ab68-4147c79db95e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceQuickBG">
+      <UniqueIdentifier>{0fea30c8-6975-4771-8f72-e74bf25fb21d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceQuickSlot">
+      <UniqueIdentifier>{56109ad8-ac3c-4bf0-aee1-1ec9cb7b2c48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceParring">
+      <UniqueIdentifier>{6e52202b-d254-4d81-ac0a-91ea7d4b5b2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceAbnormalSlot">
+      <UniqueIdentifier>{7d962652-9739-476b-80fa-682a6fa343ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceWorldHP">
+      <UniqueIdentifier>{f97c6d46-8a0e-426f-8cdb-5744f7f3a6c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceBossHP">
+      <UniqueIdentifier>{88cc0ec8-664a-4c24-b7a4-42bb2381efb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUINormalText">
+      <UniqueIdentifier>{5e970cf2-c8df-425f-aa32-a27b48a9fe13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceBossAbnormal">
+      <UniqueIdentifier>{bcd1e7aa-27e3-4b97-8276-8cb9e4d3df3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceQuest">
+      <UniqueIdentifier>{f5a964f8-f750-44e2-af8e-dc5760fc2f14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceQuestIndicator">
+      <UniqueIdentifier>{7684a5d9-cda7-4c2f-9172-0e6398c70302}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceDialogue">
+      <UniqueIdentifier>{c7f2a479-4b26-427d-a0f0-f1f44b5b7d5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceCraftBG">
+      <UniqueIdentifier>{9ec933f4-4e99-4c0f-8c6c-a4263e98330c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceCraftHover">
+      <UniqueIdentifier>{845c6936-906e-410b-ad65-1ed5ee8ba9c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceCraftTab">
+      <UniqueIdentifier>{62356ef5-c030-463b-bc6b-81f933e54e3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceCraftSlot">
+      <UniqueIdentifier>{87d2586a-9cba-44df-ba0d-0825b8685b09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUITradeBG">
+      <UniqueIdentifier>{f661678e-8cad-4591-8321-10ed96f5b5bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUITradeSlot">
+      <UniqueIdentifier>{3f5f4757-cc4e-4b08-beb6-c21d88e7326a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUITradeTab">
+      <UniqueIdentifier>{896ff871-d0a9-40cd-b571-c73ba085cd96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUITradeHover">
+      <UniqueIdentifier>{ee675ebb-0569-4582-beed-a0250106eaaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIQuestComplete">
+      <UniqueIdentifier>{ca8040f4-570d-45cc-ac9f-4d980ac26cc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIItemToolTip">
+      <UniqueIdentifier>{2d5b41e8-a268-4348-a605-5d842a65bd42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUISpeechBallon">
+      <UniqueIdentifier>{e7bca3fb-26ee-4c43-b38f-98855a0a9e3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIStarForce">
+      <UniqueIdentifier>{c0767595-3935-4f68-bb65-2abbd7c19306}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIOptionBG">
+      <UniqueIdentifier>{e8c04032-e43c-4994-9ea7-93d264d79bb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIOptionTab">
+      <UniqueIdentifier>{eaa5af61-6956-411a-9795-ebd86d629cbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIOptionHover">
+      <UniqueIdentifier>{64d99d34-cf99-492c-bd1e-18790cd33117}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIOptionSlider">
+      <UniqueIdentifier>{d0b41d28-9fae-4034-97ce-2510d3676f95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIInstanceInteraction">
+      <UniqueIdentifier>{4222381a-2274-47ee-beb3-4a1af2531313}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUIOptionCheckBox">
+      <UniqueIdentifier>{3dfde9a7-1411-4247-9425-76149e78570f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUICraftResult">
+      <UniqueIdentifier>{ef5bdec1-2421-4dc2-9eaa-0b7e58d743cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUILoading">
+      <UniqueIdentifier>{76fd2311-7691-4632-b88a-d59e4d40afe0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. UI\ToolUITutorial">
+      <UniqueIdentifier>{f3b96b52-8235-47a5-b88d-a63e82b1ea96}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tool_UI.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_Defines.h">
+      <Filter>99. Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imgui\imconfig.h">
+      <Filter>97. ImGui\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imgui\imgui.h">
+      <Filter>97. ImGui\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imgui\imgui_impl_dx11.h">
+      <Filter>97. ImGui\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imgui\imgui_impl_win32.h">
+      <Filter>97. ImGui\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imgui\imgui_internal.h">
+      <Filter>97. ImGui\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imgui\imstb_rectpack.h">
+      <Filter>97. ImGui\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imgui\imstb_textedit.h">
+      <Filter>97. ImGui\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imgui\imstb_truetype.h">
+      <Filter>97. ImGui\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ImGuiMgr.h">
+      <Filter>97. ImGui\ImGuiMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMain.h">
+      <Filter>00. MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelDev.h">
+      <Filter>01. Level</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolFreeCamera.h">
+      <Filter>02. GameObject\00. Camera\00. FreeCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIBase.h">
+      <Filter>02. GameObject\01. UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIIcon.h">
+      <Filter>02. GameObject\01. UI\ToolUIIcon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIMgr.h">
+      <Filter>02. GameObject\01. UI\ToolUIMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIButton.h">
+      <Filter>02. GameObject\01. UI\ToolUIButton</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUISlider.h">
+      <Filter>02. GameObject\01. UI\ToolUISlider</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIBar.h">
+      <Filter>02. GameObject\01. UI\ToolUIBar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIScroll.h">
+      <Filter>02. GameObject\01. UI\ToolUIScroll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUISlot.h">
+      <Filter>02. GameObject\01. UI\ToolUISlot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIPanel.h">
+      <Filter>02. GameObject\01. UI\ToolUIPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUICoolTime.h">
+      <Filter>02. GameObject\01. UI\ToolUICoolTime</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIUV.h">
+      <Filter>02. GameObject\01. UI\ToolUIUV</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIBG.h">
+      <Filter>02. GameObject\01. UI\ToolUIScrollBG</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIVisible.h">
+      <Filter>02. GameObject\01. UI\ToolUIVisible</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIBackGround.h">
+      <Filter>02. GameObject\01. UI\ToolUIBackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIHover.h">
+      <Filter>02. GameObject\01. UI\ToolUIHover</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUICover.h">
+      <Filter>02. GameObject\01. UI\ToolUICover</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIItemBackGround.h">
+      <Filter>02. GameObject\01. UI\ToolUIItemBackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIItemIcon.h">
+      <Filter>02. GameObject\01. UI\ToolUIItemIcon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIItemHover.h">
+      <Filter>02. GameObject\01. UI\ToolUIItemHover</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIItemTab.h">
+      <Filter>02. GameObject\01. UI\ToolUIItemTab</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUILockOn.h">
+      <Filter>02. GameObject\01. UI\ToolUILockOn</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIText.h">
+      <Filter>02. GameObject\01. UI\ToolUIText</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstance.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceItemBG.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemBG</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui_stdlib.h">
+      <Filter>97. ImGui\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceItemSlot.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceItemIcon.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemIcon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceItemCoolTime.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemCoolTime</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceItemHover.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemHover</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceQuickBG.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceQuickBG</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceQuickSlot.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceQuickSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceParring.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceParring</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceAbnormalSlot.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceAbnormalSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceWorldHP.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceWorldHP</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceBossHP.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceBossHP</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUINormalText.h">
+      <Filter>02. GameObject\01. UI\ToolUINormalText</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceBossAbnormal.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceBossAbnormal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceQuest.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceQuest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceQuestIndicator.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceQuestIndicator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceInteraction.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceInteraction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceDialogue.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceDialogue</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUICraftBG.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceCraftBG</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUICraftHover.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceCraftHover</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIInstanceCraftTab.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceCraftTab</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUICraftSlot.h">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceCraftSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUITradeBG.h">
+      <Filter>02. GameObject\01. UI\ToolUITradeBG</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUITradeSlot.h">
+      <Filter>02. GameObject\01. UI\ToolUITradeSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUITradeTab.h">
+      <Filter>02. GameObject\01. UI\ToolUITradeTab</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUITradeHover.h">
+      <Filter>02. GameObject\01. UI\ToolUITradeHover</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIQuestComplete.h">
+      <Filter>02. GameObject\01. UI\ToolUIQuestComplete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIItemToolTip.h">
+      <Filter>02. GameObject\01. UI\ToolUIItemToolTip</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUISpeechBallon.h">
+      <Filter>02. GameObject\01. UI\ToolUISpeechBallon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIStarForce.h">
+      <Filter>02. GameObject\01. UI\ToolUIStarForce</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIOptionBG.h">
+      <Filter>02. GameObject\01. UI\ToolUIOptionBG</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIOptionTab.h">
+      <Filter>02. GameObject\01. UI\ToolUIOptionTab</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIOptionHover.h">
+      <Filter>02. GameObject\01. UI\ToolUIOptionHover</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIOptionSlider.h">
+      <Filter>02. GameObject\01. UI\ToolUIOptionSlider</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIOptionCheckBox.h">
+      <Filter>02. GameObject\01. UI\ToolUIOptionCheckBox</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUICraftResult.h">
+      <Filter>02. GameObject\01. UI\ToolUICraftResult</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUITutorial.h">
+      <Filter>02. GameObject\01. UI\ToolUITutorial</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tool_UI.cpp">
+      <Filter>98. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>98. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Imgui\imgui.cpp">
+      <Filter>97. ImGui\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Imgui\imgui_demo.cpp">
+      <Filter>97. ImGui\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Imgui\imgui_draw.cpp">
+      <Filter>97. ImGui\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Imgui\imgui_impl_dx11.cpp">
+      <Filter>97. ImGui\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Imgui\imgui_impl_win32.cpp">
+      <Filter>97. ImGui\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Imgui\imgui_tables.cpp">
+      <Filter>97. ImGui\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Imgui\imgui_widgets.cpp">
+      <Filter>97. ImGui\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ImGuiMgr.cpp">
+      <Filter>97. ImGui\ImGuiMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolMain.cpp">
+      <Filter>00. MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelDev.cpp">
+      <Filter>01. Level</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolFreeCamera.cpp">
+      <Filter>02. GameObject\00. Camera\00. FreeCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIBase.cpp">
+      <Filter>02. GameObject\01. UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIIcon.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIIcon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIMgr.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIButton.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIButton</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUISlider.cpp">
+      <Filter>02. GameObject\01. UI\ToolUISlider</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIBar.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIBar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIScroll.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIScroll</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUISlot.cpp">
+      <Filter>02. GameObject\01. UI\ToolUISlot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIPanel.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUICoolTime.cpp">
+      <Filter>02. GameObject\01. UI\ToolUICoolTime</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIUV.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIUV</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIBG.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIScrollBG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIVisible.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIVisible</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIBackGround.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIBackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIHover.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIHover</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUICover.cpp">
+      <Filter>02. GameObject\01. UI\ToolUICover</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIItemBackGround.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIItemBackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIItemIcon.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIItemIcon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIItemHover.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIItemHover</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIItemTab.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIItemTab</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUILockOn.cpp">
+      <Filter>02. GameObject\01. UI\ToolUILockOn</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIText.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIText</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstance.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstance</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceItemBG.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemBG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_stdlib.cpp">
+      <Filter>97. ImGui\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceItemSlot.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceItemIcon.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemIcon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceItemCoolTime.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemCoolTime</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceItemHover.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceItemHover</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceQuickBG.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceQuickBG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceQuickSlot.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceQuickSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceParring.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceParring</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceAbnormalSlot.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceAbnormalSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceWorldHP.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceWorldHP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceBossHP.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceBossHP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUINormalText.cpp">
+      <Filter>02. GameObject\01. UI\ToolUINormalText</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceBossAbnormal.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceBossAbnormal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceQuest.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceQuest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceQuestIndicator.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceQuestIndicator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceInteraction.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceInteraction</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceDialogue.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceDialogue</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUICraftBG.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceCraftBG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUICraftHover.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceCraftHover</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIInstanceCraftTab.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceCraftTab</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUICraftSlot.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIInstanceCraftSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUITradeBG.cpp">
+      <Filter>02. GameObject\01. UI\ToolUITradeBG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUITradeSlot.cpp">
+      <Filter>02. GameObject\01. UI\ToolUITradeSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUITradeTab.cpp">
+      <Filter>02. GameObject\01. UI\ToolUITradeTab</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUITradeHover.cpp">
+      <Filter>02. GameObject\01. UI\ToolUITradeHover</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIQuestComplete.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIQuestComplete</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIItemToolTip.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIItemToolTip</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUISpeechBallon.cpp">
+      <Filter>02. GameObject\01. UI\ToolUISpeechBallon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIStarForce.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIStarForce</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIOptionBG.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIOptionBG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIOptionTab.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIOptionTab</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIOptionHover.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIOptionHover</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIOptionSlider.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIOptionSlider</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIOptionCheckBox.cpp">
+      <Filter>02. GameObject\01. UI\ToolUIOptionCheckBox</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUICraftResult.cpp">
+      <Filter>02. GameObject\01. UI\ToolUICraftResult</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUITutorial.cpp">
+      <Filter>02. GameObject\01. UI\ToolUITutorial</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+    <Image Include="Tool_UI.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool_UI.rc">
+      <Filter>98. Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

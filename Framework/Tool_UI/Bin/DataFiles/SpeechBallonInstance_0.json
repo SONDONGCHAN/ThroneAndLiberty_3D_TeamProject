@@ -1,0 +1,259 @@
+{
+	"SpeechBallonInstance" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				96.0,
+				96.0
+			],
+			"SizeY" : 38.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					42.0
+				],
+				"InstanceSize" : 
+				[
+					96.0,
+					38.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					21.5
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					13.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-23.5
+				],
+				"InstanceSize" : 
+				[
+					15.0,
+					18.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					0.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					30.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					-73.0,
+					-18.0
+				],
+				"InstanceSize" : 
+				[
+					130.0,
+					6.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					72.5,
+					-18.0
+				],
+				"InstanceSize" : 
+				[
+					130.0,
+					6.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				96.0,
+				38.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Dialouge_SpeechB_TitleBG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 16,
+			"UISlotType" : 6,
+			"UITag" : "SpeechBallonInstance",
+			"UITexType" : 8,
+			"UIType" : 60,
+			"UIZOrder" : 0.20000000298023224
+		}
+	},
+	"SpeechBallonInstance_0" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"SpeechBallonInstance"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				50.0,
+				50.0
+			],
+			"SizeY" : 50.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				50.0,
+				50.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Dialouge_SpeechB_NPC_Tail_B"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "SpeechBallonBGs",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.20999999344348907
+		}
+	}
+}

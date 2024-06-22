@@ -1,0 +1,439 @@
+{
+	"OptionABG0" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				741.0,
+				741.0
+			],
+			"SizeY" : 564.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				741.0,
+				564.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"IMG_Journal_BG_G"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "OptionABG0",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.30000001192092896
+		}
+	},
+	"OptionABG1" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				700.0,
+				700.0
+			],
+			"SizeY" : 106.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				210.0
+			],
+			"Scale" : 
+			[
+				700.0,
+				106.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_Title_DecoBack_Long_R"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "OptionABG1",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.28999999165534973
+		}
+	},
+	"OptionABG2" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				714.0,
+				714.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				190.0
+			],
+			"Scale" : 
+			[
+				714.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_SmallTab_H56_Modified_0"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "OptionABG2",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.28999999165534973
+		}
+	},
+	"OptionABG3" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				0.69999998807907104
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				714.0,
+				714.0
+			],
+			"SizeY" : 400.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				-40.0
+			],
+			"Scale" : 
+			[
+				714.0,
+				400.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"FrameBack"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "OptionABG3",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.28999999165534973
+		}
+	},
+	"OptionABGsReady" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"OptionABG0",
+				"OptionABG1",
+				"OptionABG2",
+				"OptionABG3"
+			],
+			"NumChildren" : 4
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				50.0,
+				50.0
+			],
+			"SizeY" : 50.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				50.0,
+				50.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_SubTab_S_UnCheck"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "OptionABGs",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.30000001192092896
+		}
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"TradeEItemTabs" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				160.0,
+				160.0
+			],
+			"SizeY" : 68.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					-390.0,
+					273.5
+				],
+				"Scale" : 
+				[
+					160.0,
+					68.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					-245.5,
+					273.5
+				],
+				"Scale" : 
+				[
+					160.0,
+					68.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_BTN_TextBox_01_Normal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 13,
+			"UISlotType" : 6,
+			"UITag" : "TradeEItemTabs",
+			"UIType" : 56,
+			"UIZOrder" : 0.25999999046325684
+		}
+	}
+}

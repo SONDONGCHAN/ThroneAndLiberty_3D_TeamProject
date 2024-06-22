@@ -1,0 +1,85 @@
+{
+	"25" : 
+	{
+		"AnimName" : "M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgA",
+		"SoundName" : 
+		[
+			"LM_Fury"
+		],
+		"TrackPos" : 
+		[
+			51.747001647949219
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"26" : 
+	{
+		"AnimName" : "M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgB",
+		"SoundName" : 
+		[
+			"LM_ATT1"
+		],
+		"TrackPos" : 
+		[
+			19.367000579833984
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"27" : 
+	{
+		"AnimName" : "M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgC",
+		"SoundName" : 
+		[
+			"LM_ENERGY"
+		],
+		"TrackPos" : 
+		[
+			37.206920623779297
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"28" : 
+	{
+		"AnimName" : "M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgD",
+		"SoundName" : 
+		[
+			"LM_FIELD"
+		],
+		"TrackPos" : 
+		[
+			53.611328125
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"29" : 
+	{
+		"AnimName" : "M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgE",
+		"SoundName" : 
+		[
+			"LM_FIELD",
+			"LM_SFX_Field"
+		],
+		"TrackPos" : 
+		[
+			67.282997131347656,
+			70.7239990234375
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	}
+}

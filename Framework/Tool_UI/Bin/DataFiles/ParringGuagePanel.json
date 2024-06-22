@@ -1,0 +1,115 @@
+{
+	"ParringGuagePanel" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				18.0,
+				18.0
+			],
+			"SizeY" : 168.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					253.0,
+					-103.0
+				],
+				"Scale" : 
+				[
+					18.0,
+					168.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					253.0,
+					-103.0
+				],
+				"Scale" : 
+				[
+					18.0,
+					168.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					253.0,
+					-103.0
+				],
+				"Scale" : 
+				[
+					18.0,
+					168.0
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					253.0,
+					-103.0
+				],
+				"Scale" : 
+				[
+					28.5,
+					182.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse": [
+				"Tex_HUD_Stamina_Base",
+				"Tex_HUD_Stamina_Gauge_Base",
+				"Tex_HUD_Stamina_Gauge_Low",
+				"Tex_HUD_Stamina_Frame"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 5,
+			"UISlotType" : 6,
+			"UITag" : "InstanceParring",
+			"UIType" : 40,
+			"UIZOrder" : 0.37999999523162842
+		}
+	}
+}

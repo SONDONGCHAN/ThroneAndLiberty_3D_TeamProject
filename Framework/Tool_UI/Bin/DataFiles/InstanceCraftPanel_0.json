@@ -1,0 +1,1476 @@
+{
+	"CraftABGs" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				2000.0,
+				2000.0
+			],
+			"SizeY" : 2000.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-29.0,
+					-6.0
+				],
+				"InstanceSize" : 
+				[
+					2000.0,
+					2000.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-29.0,
+					-6.0
+				],
+				"InstanceSize" : 
+				[
+					1280.0,
+					720.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					-9.0,
+					-56.0
+				],
+				"InstanceSize" : 
+				[
+					1280.0,
+					720.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-9.0,
+				-56.0
+			],
+			"Scale" : 
+			[
+				2000.0,
+				2000.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Panel_BG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "CraftABGs",
+			"UITexType" : 8,
+			"UIType" : 50,
+			"UIZOrder" : 0.31999999284744263
+		}
+	},
+	"CraftBBGs" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				290.0,
+				290.0
+			],
+			"SizeY" : 74.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					182.0
+				],
+				"InstanceSize" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					114.0
+				],
+				"InstanceSize" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					-20.0,
+					5.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					52.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					-20.0,
+					-50.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					52.0
+				]
+			},
+			"InstanceValue12" : 
+			{
+				"InstancePos" : 
+				[
+					-20.0,
+					-105.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					52.0
+				]
+			},
+			"InstanceValue13" : 
+			{
+				"InstancePos" : 
+				[
+					-20.0,
+					-160.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					52.0
+				]
+			},
+			"InstanceValue14" : 
+			{
+				"InstancePos" : 
+				[
+					-20.0,
+					-215.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					52.0
+				]
+			},
+			"InstanceValue15" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					320.0
+				],
+				"InstanceSize" : 
+				[
+					137.0,
+					24.0
+				]
+			},
+			"InstanceValue16" : 
+			{
+				"InstancePos" : 
+				[
+					420.0,
+					-120.0
+				],
+				"InstanceSize" : 
+				[
+					137.0,
+					24.0
+				]
+			},
+			"InstanceValue17" : 
+			{
+				"InstancePos" : 
+				[
+					240.0,
+					-200.0
+				],
+				"InstanceSize" : 
+				[
+					200.0,
+					74.0
+				]
+			},
+			"InstanceValue18" : 
+			{
+				"InstancePos" : 
+				[
+					440.0,
+					-200.0
+				],
+				"InstanceSize" : 
+				[
+					200.0,
+					74.0
+				]
+			},
+			"InstanceValue19" : 
+			{
+				"InstancePos" : 
+				[
+					580.0,
+					310.0
+				],
+				"InstanceSize" : 
+				[
+					58.0,
+					58.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					46.0
+				],
+				"InstanceSize" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					-22.0
+				],
+				"InstanceSize" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					-90.0
+				],
+				"InstanceSize" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					-158.0
+				],
+				"InstanceSize" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					258.0
+				],
+				"InstanceSize" : 
+				[
+					714.0,
+					56.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					-450.0,
+					240.0
+				],
+				"InstanceSize" : 
+				[
+					490.0,
+					490.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					-449.0,
+					240.0
+				],
+				"InstanceSize" : 
+				[
+					490.0,
+					490.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					-20.0,
+					56.0
+				],
+				"InstanceSize" : 
+				[
+					290.0,
+					48.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				580.0,
+				310.0
+			],
+			"Scale" : 
+			[
+				290.0,
+				74.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_Table_Back"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "CraftBBGs",
+			"UITexType" : 8,
+			"UIType" : 50,
+			"UIZOrder" : 0.28999999165534973
+		}
+	},
+	"CraftCBGs" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					181.0
+				],
+				"InstanceSize" : 
+				[
+					52.0,
+					52.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					5.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					-160.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					-215.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			},
+			"InstanceValue12" : 
+			{
+				"InstancePos" : 
+				[
+					-130.0,
+					56.0
+				],
+				"InstanceSize" : 
+				[
+					34.0,
+					34.0
+				]
+			},
+			"InstanceValue13" : 
+			{
+				"InstancePos" : 
+				[
+					365.0,
+					-120.0
+				],
+				"InstanceSize" : 
+				[
+					18.0,
+					18.0
+				]
+			},
+			"InstanceValue14" : 
+			{
+				"InstancePos" : 
+				[
+					-55.0,
+					320.0
+				],
+				"InstanceSize" : 
+				[
+					18.0,
+					18.0
+				]
+			},
+			"InstanceValue15" : 
+			{
+				"InstancePos" : 
+				[
+					580.0,
+					310.0
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					36.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					115.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					47.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					-21.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					-89.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					-157.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					336.25,
+					69.5
+				],
+				"InstanceSize" : 
+				[
+					142.0,
+					142.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					-50.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					-105.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				580.0,
+				310.0
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_05_AA2"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "CraftCBGs",
+			"UITexType" : 8,
+			"UIType" : 50,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"CraftDSlots" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					181.0
+				],
+				"InstanceSize" : 
+				[
+					52.0,
+					52.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					115.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					-160.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					-215.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					47.0
+				],
+				"InstanceSize" : 
+				[
+					52.0,
+					52.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					-21.0
+				],
+				"InstanceSize" : 
+				[
+					52.0,
+					52.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					-89.0
+				],
+				"InstanceSize" : 
+				[
+					52.0,
+					52.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					-446.0,
+					-157.0
+				],
+				"InstanceSize" : 
+				[
+					52.0,
+					52.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					336.0,
+					69.0
+				],
+				"InstanceSize" : 
+				[
+					116.0,
+					116.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					5.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					-50.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					-125.0,
+					-105.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-125.0,
+				-215.0
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"P_BM_M_00003A"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "CraftDSlots",
+			"UITexType" : 8,
+			"UIType" : 53,
+			"UIZOrder" : 0.27000001072883606
+		}
+	},
+	"CraftEHovers" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				280.0,
+				280.0
+			],
+			"SizeY" : 70.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					182.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					70.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					114.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					70.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					-72.0,
+					258.0
+				],
+				"InstanceSize" : 
+				[
+					150.0,
+					60.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					46.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					70.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					-219.0,
+					258.0
+				],
+				"InstanceSize" : 
+				[
+					150.0,
+					60.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					-22.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					70.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					-90.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					70.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					-342.0,
+					-158.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					70.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					76.0,
+					258.0
+				],
+				"InstanceSize" : 
+				[
+					150.0,
+					60.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					224.0,
+					258.0
+				],
+				"InstanceSize" : 
+				[
+					152.0,
+					60.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				224.0,
+				258.0
+			],
+			"Scale" : 
+			[
+				280.0,
+				70.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Lobby_TextBTN_Frame_Normal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "CraftEHovers",
+			"UITexType" : 8,
+			"UIType" : 51,
+			"UIZOrder" : 0.25999999046325684
+		}
+	},
+	"CraftFTabs" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				64.0,
+				64.0
+			],
+			"SizeY" : 64.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-220.0,
+					257.5
+				],
+				"InstanceSize" : 
+				[
+					64.0,
+					64.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-70.0,
+					257.5
+				],
+				"InstanceSize" : 
+				[
+					64.0,
+					64.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					80.0,
+					257.5
+				],
+				"InstanceSize" : 
+				[
+					64.0,
+					64.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					257.5
+				],
+				"InstanceSize" : 
+				[
+					64.0,
+					64.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				230.0,
+				257.5
+			],
+			"Scale" : 
+			[
+				64.0,
+				64.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_BTNIcon_Level_01_Normal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "CraftFTabs",
+			"UITexType" : 8,
+			"UIType" : 52,
+			"UIZOrder" : 0.25
+		}
+	},
+	"InstanceCraftPanel_0" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"CraftABGs",
+				"CraftDSlots",
+				"CraftBBGs",
+				"CraftCBGs",
+				"CraftEHovers",
+				"CraftFTabs"
+			],
+			"NumChildren" : 6
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				74.0,
+				74.0
+			],
+			"SizeY" : 74.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				74.0,
+				74.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_BTNICon_CLOSE_BTN_NOMAL"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "CraftAllPanel",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.27000001072883606
+		}
+	}
+}

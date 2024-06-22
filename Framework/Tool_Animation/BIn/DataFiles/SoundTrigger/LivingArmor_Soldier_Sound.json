@@ -1,0 +1,56 @@
+{
+	"25" : 
+	{
+		"AnimName" : "M_LivingArmor_Soldier_SK.ao|M_LivingArmor_Soldier_SkdmgA",
+		"SoundName" : 
+		[
+			"LA_Fury"
+		],
+		"TrackPos" : 
+		[
+			45.624000549316406
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"26" : 
+	{
+		"AnimName" : "M_LivingArmor_Soldier_SK.ao|M_LivingArmor_Soldier_SkdmgB",
+		"SoundName" : 
+		[
+			"LS_Att1",
+			"LS_Sword"
+		],
+		"TrackPos" : 
+		[
+			17.981000900268555,
+			18.135000228881836
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"27" : 
+	{
+		"AnimName" : "M_LivingArmor_Soldier_SK.ao|M_LivingArmor_Soldier_SkdmgC",
+		"SoundName" : 
+		[
+			"LS_Att1",
+			"LS_Fist"
+		],
+		"TrackPos" : 
+		[
+			27.290000915527344,
+			27.482999801635742
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	}
+}

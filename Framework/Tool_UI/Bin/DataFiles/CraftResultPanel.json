@@ -1,0 +1,207 @@
+{
+	"CraftResultInstance" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				400.0,
+				400.0
+			],
+			"SizeY" : 59.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					280.0
+				],
+				"InstanceSize" : 
+				[
+					400.0,
+					59.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					280.0
+				],
+				"InstanceSize" : 
+				[
+					376.0,
+					92.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				400.0,
+				59.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEXT_Craft_Result_SLOT_BG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 17,
+			"UISlotType" : 6,
+			"UITag" : "CraftResultInstance",
+			"UITexType" : 8,
+			"UIType" : 67,
+			"UIZOrder" : 0.2199999988079071
+		}
+	},
+	"CraftResultPanel" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"CraftResultInstance"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				50.0,
+				50.0
+			],
+			"SizeY" : 50.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				50.0,
+				50.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Rune_6001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "CraftResultPanel",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.2199999988079071
+		}
+	}
+}

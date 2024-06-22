@@ -1,0 +1,191 @@
+{
+	"BossAbnormalSlots" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				28.0,
+				28.0
+			],
+			"SizeY" : 28.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					-94.0,
+					231.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					-62.0,
+					231.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					-30.0,
+					231.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					2.0,
+					231.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			},
+			"SRT4" : 
+			{
+				"Pos" : 
+				[
+					34.0,
+					231.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			},
+			"SRT5" : 
+			{
+				"Pos" : 
+				[
+					-94.0,
+					199.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			},
+			"SRT6" : 
+			{
+				"Pos" : 
+				[
+					-62.0,
+					199.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			},
+			"SRT7" : 
+			{
+				"Pos" : 
+				[
+					-30.0,
+					199.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			},
+			"SRT8" : 
+			{
+				"Pos" : 
+				[
+					2.0,
+					199.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			},
+			"SRT9" : 
+			{
+				"Pos" : 
+				[
+					34.0,
+					199.0
+				],
+				"Scale" : 
+				[
+					28.0,
+					28.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Abnormal_Stack_buff"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "BossAbnormalSlot0",
+			"UIType" : 45,
+			"UIZOrder" : 0.10000000149011612
+		}
+	}
+}

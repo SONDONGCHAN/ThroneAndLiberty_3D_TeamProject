@@ -1,0 +1,634 @@
+{
+	"EquipTab" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-32.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_Tab_Weapon_Off_Normal",
+				"Tex_Common_Tab_Weapon_Off_Hover",
+				"Tex_Common_Tab_Weapon_On_Normal",
+				"Tex_Common_Tab_Weapon_On_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "EquipTab",
+			"UITexType" : 0,
+			"UIType" : 21,
+			"UIZOrder" : 0.44999998807907104
+		}
+	},
+	"InventoryEquipTabBG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"EquipTab"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-32.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_IconUnCheck_01_Small",
+				"Tex_Common_IconCheck_01_Small"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "InventoryEquipTabBG",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.49000000953674316
+		}
+	},
+	"InventoryMiscTabBG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscTab"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				32.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_IconUnCheck_01_Small",
+				"Tex_Common_IconCheck_01_Small"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "InventoryMiscTabBG",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.44999998807907104
+		}
+	},
+	"InventoryTabPanel" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"InventoryEquipTabBG",
+				"InventoryUsableTabBG",
+				"InventoryMiscTabBG"
+			],
+			"NumChildren" : 3
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				172.0,
+				172.0
+			],
+			"SizeY" : 42.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-1.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				172.0,
+				42.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_SubFilter_Back_01"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "InventoryTabPanel",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.5
+		}
+	},
+	"InventoryUsableTabBG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"UsableTab"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_IconUnCheck_01_Small",
+				"Tex_Common_IconCheck_01_Small"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "InventoryUsableTabBG",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.49000000953674316
+		}
+	},
+	"MiscTab" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				32.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_Tab_Etc_Off_Normal",
+				"Tex_Common_Tab_Etc_Off_Hover",
+				"Tex_Common_Tab_Etc_On_Normal",
+				"Tex_Common_Tab_Etc_On_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "MiscTab",
+			"UITexType" : 0,
+			"UIType" : 21,
+			"UIZOrder" : 0.44999998807907104
+		}
+	},
+	"UsableTab" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_Tab_Usable_Off_Normal",
+				"Tex_Common_Tab_Usable_Off_Hover",
+				"Tex_Common_Tab_Usable_On_Normal",
+				"Tex_Common_Tab_Usable_On_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "UsableTab",
+			"UITexType" : 0,
+			"UIType" : 21,
+			"UIZOrder" : 0.44999998807907104
+		}
+	}
+}

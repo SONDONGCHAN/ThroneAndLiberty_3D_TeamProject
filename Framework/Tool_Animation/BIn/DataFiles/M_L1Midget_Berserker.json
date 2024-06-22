@@ -1,0 +1,180 @@
+{
+	"30" : 
+	{
+		"AnimName" : "M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkdmgA.001",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.125,
+				3.25
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					1.82,
+					2.925,
+					3.9
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 7.9619998931884766,
+			"StartPos" : 3.6830000877380371
+		}
+	},
+	"33" : 
+	{
+		"AnimName" : "M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkdmgA2.001",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.125,
+				4
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize": [
+					1.82,
+					2.925,
+					3.9
+				]
+			},
+			"TargetFlag" : 2,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 39.3489990234375,
+			"StartPos" : 3.8289999961853027
+		}
+	},
+	"40" : 
+	{
+		"AnimName" : "M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkdmgD.001",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.125,
+				4.75
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					1.82,
+					2.925,
+					3.9
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 8.444000244140625,
+			"StartPos" : 5.6189999580383301
+		}
+	},
+	"42" : 
+	{
+		"AnimName" : "M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkmovAE",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.75,
+				0.15
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.9,
+					1.95,
+					4.875
+				]
+			},
+			"TargetFlag" : 2,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 2.4289999008178711,
+			"StartPos" : 0.0
+		}
+	},
+	"45" : 
+	{
+		"AnimName" : "M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkmovBE",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.75,
+				3.1
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize": [
+					1.82,
+					1.95,
+					3.9
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 10.555999755859375,
+			"StartPos" : 0.0
+		}
+	}
+}

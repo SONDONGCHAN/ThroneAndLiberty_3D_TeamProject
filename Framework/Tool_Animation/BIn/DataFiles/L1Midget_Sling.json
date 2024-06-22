@@ -1,0 +1,38 @@
+{
+	"52" : 
+	{
+		"AnimName" : "M_L1Midget_Sling_SK.ao|M_L1Midget_Sling_USkdmgA",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				0.30000001192092896
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.0,
+					2.0,
+					2.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 27.570999145507812,
+			"StartPos" : 16.801934242248535
+		}
+	}
+}

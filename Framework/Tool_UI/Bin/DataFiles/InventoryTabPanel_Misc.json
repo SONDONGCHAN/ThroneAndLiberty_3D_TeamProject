@@ -1,0 +1,5566 @@
+{
+	"InventoryTabPanel_Misc" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot0BG",
+				"MiscSlot1BG",
+				"MiscSlot2BG",
+				"MiscSlot3BG",
+				"MiscSlot4BG",
+				"MiscSlot5BG",
+				"MiscSlot6BG",
+				"MiscSlot7BG",
+				"MiscSlot8BG",
+				"MiscSlot9BG",
+				"MiscSlot10BG",
+				"MiscSlot11BG",
+				"MiscSlot12BG",
+				"MiscSlot13BG",
+				"MiscSlot14BG"
+			],
+			"NumChildren" : 15
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				258.0,
+				258.0
+			],
+			"SizeY" : 700.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				258.0,
+				700.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Panel_BG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "InventoryTabPanel_Misc",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.44999998807907104
+		}
+	},
+	"MiscSlot0" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot0Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot0",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot0BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot0"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot0BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot0Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot0Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot0Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot0Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot0Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot1" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot1Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot1",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot10" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot10Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot10",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot10BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot10"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot10BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot10Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot10Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot10Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot10Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				191.0
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot10Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot11" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot11Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot11",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot11BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot11"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot11BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot11Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot11Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot11Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot11Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				191.0
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot11Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot12" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot12Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot12",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot12BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot12"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot12BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot12Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot12Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot12Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot12Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				191.0
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot12Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot13" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot13Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot13",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot13BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot13"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot13BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot13Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot13Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot13Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot13Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				191.0
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot13Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot14" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot14Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot14",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot14BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot14"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot14BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot14Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot14Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				191.0
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot14Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot14Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				191.0
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot14Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot1BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot1"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot1BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot1Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot1Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot1Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot1Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot1Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot2" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot2Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot2",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot2BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot2"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot2BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot2Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot2Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot2Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot2Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot2Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot3" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot3Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot3",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot3BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot3"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot3BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot3Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot3Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot3Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot3Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot3Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot4" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot4Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot4",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot4BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot4"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot4BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot4Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot4Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot4Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot4Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				294.20001220703125
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot4Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot5" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot5Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot5",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot5BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot5"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot5BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot5Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot5Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot5Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot5Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-103.19999694824219,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot5Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot6" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot6Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot6",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot6BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot6"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot6BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot6Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot6Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot6Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot6Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-51.599994659423828,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot6Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot7" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot7Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot7",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot7BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot7"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot7BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot7Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot7Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot7Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot7Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				7.62939453125e-06,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot7Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot8" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot8Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot8",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot8BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot8"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot8BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot8Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot8Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot8Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot8Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				51.600009918212891,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot8Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	},
+	"MiscSlot9" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot9Cover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Enchant_Weapon_KAA_001",
+				"I_Enchant_Armor_KAA_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UIItemType" : 4,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 1,
+			"UITag" : "MiscSlot9",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.43000000715255737
+		}
+	},
+	"MiscSlot9BG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot9"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot9BG",
+			"UITexType" : 0,
+			"UIType" : 17,
+			"UIZOrder" : 0.43999999761581421
+		}
+	},
+	"MiscSlot9Cover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MiscSlot9Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				40.0,
+				40.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				40.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"ICO_Bind"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot9Cover",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.41999998688697815
+		}
+	},
+	"MiscSlot9Hover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				52.0,
+				52.0
+			],
+			"SizeY" : 52.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				103.20001220703125,
+				242.60000610351562
+			],
+			"Scale" : 
+			[
+				52.0,
+				52.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_MainTab_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "MiscSlot9Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.40999999642372131
+		}
+	}
+}

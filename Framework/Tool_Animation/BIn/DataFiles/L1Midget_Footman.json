@@ -1,0 +1,38 @@
+{
+	"10" : 
+	{
+		"AnimName" : "M_L1Midget_Footman_SK.ao|M_L1Midget_Footman_SkdmgA",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				1.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.2000000476837158,
+					2.0,
+					1.5
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 33.509998321533203,
+			"StartPos" : 30.253000259399414
+		}
+	}
+}

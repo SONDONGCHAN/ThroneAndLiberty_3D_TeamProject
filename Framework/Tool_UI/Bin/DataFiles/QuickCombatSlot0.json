@@ -1,0 +1,361 @@
+{
+	"QuickCombatSlot0" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"QuickCombatSlot0Hover"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				38.0,
+				38.0
+			],
+			"SizeY" : 38.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-271.0,
+				-259.0
+			],
+			"Scale" : 
+			[
+				38.0,
+				38.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Hud_Combat_Empty",
+				"S_WP_SW2_Defense_AA",
+				"S_WP_CR_DefenseAction_Evasion_AA",
+				"S_WP_ST_defenceAction_AA"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 4,
+			"UISlotType" : 3,
+			"UITag" : "QuickCombatSlot0",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"QuickCombatSlot0Frame" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"QuickCombatSlot0FrameKey"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				38.0,
+				38.0
+			],
+			"SizeY" : 38.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-271.0,
+				-259.0
+			],
+			"Scale" : 
+			[
+				38.0,
+				38.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Hud_Combat_SkillFrame"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "QuickCombatSlot0Frame",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"QuickCombatSlot0FrameKey" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				39.0,
+				39.0
+			],
+			"SizeY" : 39.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-271.0,
+				-259.0
+			],
+			"Scale" : 
+			[
+				39.0,
+				39.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Hud_Combat_FrameKey"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "QuickCombatSlot0FrameKey",
+			"UITexType" : 0,
+			"UIType" : 16,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"QuickCombatSlot0Hover" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"QuickCombatSlot0Frame"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-271.0,
+				-259.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Hud_QSlot_CheckHover_S"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "QuickCombatSlot0Hover",
+			"UITexType" : 0,
+			"UIType" : 14,
+			"UIZOrder" : 0.10000000149011612
+		}
+	}
+}

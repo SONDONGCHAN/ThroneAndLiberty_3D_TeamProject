@@ -1,0 +1,2875 @@
+{
+	"TradeCSlot0" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-550.0,
+				-40.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot0",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot1" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-300.0,
+				-40.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot1",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot10" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-300.0,
+				-250.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot10",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot11" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-50.0,
+				-250.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot11",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot12" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				320.0,
+				160.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot12",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot13" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				385.0,
+				160.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot13",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot14" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				450.0,
+				160.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot14",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot15" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				515.0,
+				160.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot15",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot16" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				320.0,
+				95.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot16",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot17" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				385.0,
+				95.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot17",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot18" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				450.0,
+				95.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot18",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot19" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				515.0,
+				95.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot19",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot2" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-50.0,
+				-40.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot2",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot20" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				320.0,
+				30.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot20",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot21" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				385.0,
+				30.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot21",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot22" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				450.0,
+				30.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot22",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot23" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				515.0,
+				30.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot23",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot24" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				320.0,
+				-35.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot24",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot25" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				385.0,
+				-35.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot25",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot26" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				450.0,
+				-35.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot26",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot27" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				515.0,
+				-35.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot27",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot28" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				320.0,
+				-100.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot28",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot29" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				385.0,
+				-100.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot29",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot3" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-550.0,
+				-110.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot3",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot30" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				450.0,
+				-100.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot30",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot31" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				515.0,
+				-100.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot31",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot4" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-300.0,
+				-110.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot4",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot5" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-50.0,
+				-110.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot5",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot6" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-550.0,
+				-180.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot6",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot7" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-300.0,
+				-180.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot7",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot8" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-50.0,
+				-180.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot8",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeCSlot9" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-550.0,
+				-250.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlot9",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeSlotsReady" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"TradeCSlot0",
+				"TradeCSlot1",
+				"TradeCSlot2",
+				"TradeCSlot19",
+				"TradeCSlot3",
+				"TradeCSlot18",
+				"TradeCSlot4",
+				"TradeCSlot5",
+				"TradeCSlot6",
+				"TradeCSlot7",
+				"TradeCSlot8",
+				"TradeCSlot13",
+				"TradeCSlot9",
+				"TradeCSlot12",
+				"TradeCSlot10",
+				"TradeCSlot11",
+				"TradeCSlot14",
+				"TradeCSlot15",
+				"TradeCSlot16",
+				"TradeCSlot17",
+				"TradeCSlot20",
+				"TradeCSlot21",
+				"TradeCSlot22",
+				"TradeCSlot23",
+				"TradeCSlot24",
+				"TradeCSlot25",
+				"TradeCSlot26",
+				"TradeCSlot27",
+				"TradeCSlot28",
+				"TradeCSlot29",
+				"TradeCSlot30",
+				"TradeCSlot31"
+			],
+			"NumChildren" : 32
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlots",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.2800000011920929
+		}
+	}
+}

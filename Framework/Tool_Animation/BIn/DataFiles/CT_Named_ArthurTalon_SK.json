@@ -1,0 +1,326 @@
+{
+	"0" : 
+	{
+		"AnimName" : "CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_BladeDance",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.69999998807907104,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.0,
+					1.3999999761581421,
+					3.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 13.234999656677246,
+			"StartPos" : 0.62999999523162842
+		}
+	},
+	"1" : 
+	{
+		"AnimName" : "CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_BladeDance.001",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.69999998807907104,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					4.0,
+					1.3999999761581421,
+					4.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 34.186000823974609,
+			"StartPos" : 19.475000381469727
+		}
+	},
+	"14" : 
+	{
+		"AnimName" : "CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_Dash",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.69999998807907104,
+				1.5
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.0,
+					1.3999999761581421,
+					3.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 10.62399959564209,
+			"StartPos" : 4.7719998359680176
+		}
+	},
+	"15" : 
+	{
+		"AnimName" : "CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_Dash.001",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.69999998807907104,
+				1.5
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.0,
+					1.3999999761581421,
+					3.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 10.62399959564209,
+			"StartPos" : 4.7719998359680176
+		}
+	},
+	"2" : 
+	{
+		"AnimName" : "CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_BladeDance.002",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					4.0,
+					2.0,
+					4.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 37.555999755859375,
+			"StartPos" : 5.3990001678466797
+		}
+	},
+	"35" : 
+	{
+		"AnimName" : "CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_SwingA",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.69999998807907104,
+				1.25
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.0,
+					1.3999999761581421,
+					2.5
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 12.920000076293945,
+			"StartPos" : 9.6020002365112305
+		}
+	},
+	"36" : 
+	{
+		"AnimName" : "CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_SwingA.001",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.69999998807907104,
+				1.25
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.0,
+					1.3999999761581421,
+					2.5
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 12.920000076293945,
+			"StartPos" : 9.6020002365112305
+		}
+	},
+	"37" : 
+	{
+		"AnimName" : "CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_SwingB",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.69999998807907104,
+				1.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.0,
+					1.3999999761581421,
+					2.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 12.805999755859375,
+			"StartPos" : 9.6949996948242188
+		}
+	},
+	"38" : 
+	{
+		"AnimName" : "CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_SwingB.001",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.69999998807907104,
+				1.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.0,
+					1.3999999761581421,
+					2.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 12.805999755859375,
+			"StartPos" : 9.6949996948242188
+		}
+	}
+}

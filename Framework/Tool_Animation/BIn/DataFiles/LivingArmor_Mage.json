@@ -1,0 +1,110 @@
+{
+	"27" : 
+	{
+		"AnimName" : "M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgC",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				-0.059999998658895493,
+				2.0,
+				11.399999618530273
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					1.0,
+					1.0,
+					20.0
+				]
+			},
+			"TargetFlag" : 2,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 97.936996459960938,
+			"StartPos" : 45.016998291015625
+		}
+	},
+	"28" : 
+	{
+		"AnimName" : "M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgD",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.25,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					10.0,
+					0.5,
+					10.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 69.014999389648438,
+			"StartPos" : 63.611495971679688
+		}
+	},
+	"29" : 
+	{
+		"AnimName" : "M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgE",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.25,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					40.0,
+					0.5,
+					40.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 81.0,
+			"StartPos" : 74.44696044921875
+		}
+	}
+}

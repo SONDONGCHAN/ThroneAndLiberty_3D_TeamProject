@@ -1,0 +1,1324 @@
+{
+	"AbnormalPanel" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"PCBuffSlot0",
+				"PCBuffSlot1",
+				"PCDebuffSlot0",
+				"PCDebuffSlot1"
+			],
+			"NumChildren" : 4
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				200.0,
+				200.0
+			],
+			"SizeY" : 60.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-204.0,
+				296.0
+			],
+			"Scale" : 
+			[
+				200.0,
+				60.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PcInfo_BackGroun_SelectLine"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 7,
+			"UISlotType" : 5,
+			"UITag" : "AbnormalPanel",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCBuffSlot0" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				28.0,
+				28.0
+			],
+			"SizeY" : 28.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-548.0,
+				251.0
+			],
+			"Scale" : 
+			[
+				28.0,
+				28.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Abnormal_Stack_buff"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 8,
+			"UISlotType" : 5,
+			"UITag" : "PCBuffSlot0",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCBuffSlot1" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				28.0,
+				28.0
+			],
+			"SizeY" : 28.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-516.0,
+				251.0
+			],
+			"Scale" : 
+			[
+				28.0,
+				28.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Abnormal_Stack_buff"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 8,
+			"UISlotType" : 5,
+			"UITag" : "PCBuffSlot1",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCDebuffSlot0" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				28.0,
+				28.0
+			],
+			"SizeY" : 28.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-548.0,
+				219.0
+			],
+			"Scale" : 
+			[
+				28.0,
+				28.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Abnormal_Stack_Debuff"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 8,
+			"UISlotType" : 5,
+			"UITag" : "PCDebuffSlot0",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCDebuffSlot1" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				28.0,
+				28.0
+			],
+			"SizeY" : 28.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-516.0,
+				219.0
+			],
+			"Scale" : 
+			[
+				28.0,
+				28.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Abnormal_Stack_Debuff"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 8,
+			"UISlotType" : 5,
+			"UITag" : "PCDebuffSlot1",
+			"UITexType" : 0,
+			"UIType" : 7,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfoGaugeBG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"PCInfoGaugeHP",
+				"PCInfoGaugeMP",
+				"PCInfoGaugeCover"
+			],
+			"NumChildren" : 3
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				200.0,
+				200.0
+			],
+			"SizeY" : 50.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-468.0,
+				287.0
+			],
+			"Scale" : 
+			[
+				200.0,
+				50.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_GaugeBG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 5,
+			"UITag" : "PCInfoGaugeBG",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfoGaugeCover" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				200.0,
+				200.0
+			],
+			"SizeY" : 50.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-468.0,
+				287.0
+			],
+			"Scale" : 
+			[
+				200.0,
+				50.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_GaugeTop"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 5,
+			"UITag" : "PCInfoGaugeCover",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfoGaugeHP" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				0.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				188.0,
+				188.0
+			],
+			"SizeY" : 11.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-471.0,
+				295.0
+			],
+			"Scale" : 
+			[
+				188.0,
+				11.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_HP_Gauge_Normal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 2,
+			"UISlotType" : 5,
+			"UITag" : "PCInfoGaugeHP",
+			"UITexType" : 0,
+			"UIType" : 1,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfoGaugeMP" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				0.0,
+				0.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				188.0,
+				188.0
+			],
+			"SizeY" : 11.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-471.0,
+				278.0
+			],
+			"Scale" : 
+			[
+				188.0,
+				11.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_MP_Gauge_Normal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 2,
+			"UISlotType" : 5,
+			"UITag" : "PCInfoGaugeMP",
+			"UITexType" : 0,
+			"UIType" : 1,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfoIcon" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				78.0,
+				78.0
+			],
+			"SizeY" : 78.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-602.0,
+				299.0
+			],
+			"Scale" : 
+			[
+				78.0,
+				78.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_PortraitSlot",
+				"Tex_PCInfo_PortraitSlot_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 5,
+			"UITag" : "PCInfoIcon",
+			"UITexType" : 0,
+			"UIType" : 2,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfoIconBG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"PCInfoIcon",
+				"PCInfoIconDeco"
+			],
+			"NumChildren" : 2
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				78.0,
+				78.0
+			],
+			"SizeY" : 78.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-602.0,
+				299.0
+			],
+			"Scale" : 
+			[
+				78.0,
+				78.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_PortraitSlotBack"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 5,
+			"UITag" : "PCInfoIconBG",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfoIconDeco" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-579.0,
+				284.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_Portrait_Deco"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 5,
+			"UITag" : "PCInfoIconDeco",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfoLVBG" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-556.0,
+				316.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_LevelBack",
+				"Tex_PCInfo_LevelBack_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 5,
+			"UITag" : "PCInfoLVBG",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfoLVCap" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"PCInfoLVBG"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-556.0,
+				316.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_LevelCap"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 5,
+			"UITag" : "PCInfoLVCap",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"PCInfo_Re_J_2" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"PCInfoGaugeBG",
+				"PCInfoIconBG",
+				"PCInfoLVCap",
+				"AbnormalPanel"
+			],
+			"NumChildren" : 4
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				300.0,
+				300.0
+			],
+			"SizeY" : 100.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-495.0,
+				318.0
+			],
+			"Scale" : 
+			[
+				300.0,
+				100.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_PCInfo_Background",
+				"Tex_PcInfo_BackGroun_SelectLine"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 7,
+			"UISlotType" : 5,
+			"UITag" : "PCInfo",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.10000000149011612
+		}
+	}
+}

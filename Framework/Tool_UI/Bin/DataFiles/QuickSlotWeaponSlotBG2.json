@@ -1,0 +1,267 @@
+{
+	"QuickSlotWeaponSlotBG2" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"QuickSlotWeaponSlotButton2",
+				"QuickSlotWeaponSlotCover2"
+			],
+			"NumChildren" : 2
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				44.0,
+				44.0
+			],
+			"SizeY" : 42.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-27.0,
+				-314.0
+			],
+			"Scale" : 
+			[
+				44.0,
+				42.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Hud_WeaponSwap_Set02_Normal",
+				"Tex_Hud_WeaponSwap_Set02_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "QuickSlotWeaponSlotBG2",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"QuickSlotWeaponSlotButton2" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				37.0,
+				37.0
+			],
+			"SizeY" : 70.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-24.5,
+				-295.0
+			],
+			"Scale" : 
+			[
+				37.0,
+				70.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Hud_WeaponSwap_Btn_Set02",
+				"Tex_Hud_WeaponSwap_Btn_Set02_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "QuickSlotWeaponSlotButton2",
+			"UITexType" : 0,
+			"UIType" : 5,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"QuickSlotWeaponSlotCover2" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				0.60000002384185791
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				28.0,
+				28.0
+			],
+			"SizeY" : 30.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				-24.5,
+				-312.0
+			],
+			"Scale" : 
+			[
+				28.0,
+				30.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Hud_WeaponSlot_BaseSet02"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "QuickSlotWeaponSlotCover2",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.10000000149011612
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"27" : 
+	{
+		"AnimName" : "M_L1Midget_Shaman_SK.ao|M_L1Midget_Shaman_SkdmgC",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				1.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.5,
+					2.0,
+					2.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 33.048000335693359,
+			"StartPos" : 28.368999481201172
+		}
+	}
+}

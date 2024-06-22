@@ -1,0 +1,234 @@
+{
+	"InstanceInteraction" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"Interaction"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				34.0,
+				34.0
+			],
+			"SizeY" : 34.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				34.0,
+				34.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"PartyAsist_BackDeco"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "InteractionPanel",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.20000000298023224
+		}
+	},
+	"Interaction" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					0.0
+				],
+				"InstanceSize" : 
+				[
+					32.0,
+					32.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					0.0
+				],
+				"InstanceSize" : 
+				[
+					40.0,
+					40.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					0.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					41.139999389648438
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					0.0
+				],
+				"InstanceSize" : 
+				[
+					24.0,
+					24.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				32.0,
+				32.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"PartyAsist_BackDeco"
+			],
+			"Mask" : "FluidCircleBoomFX_spritesheet"
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : true,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "Interaction",
+			"UITexType" : 8,
+			"UIType" : 48,
+			"UIZOrder" : 0.18999999761581421
+		}
+	}
+}

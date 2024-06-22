@@ -1,0 +1,117 @@
+//몬스터, 보스 공격별 공격 정리, 콜라이더 정리, 이펙트정리 등//
+********Up9바뀐점: 투사체 ShapeTag 추가, 몬스터들 각각의 공격마다 데미지 추가(플레이어 체력 1000기준, 데미지가 깎이는게 가시적으로 보여야 좋다고 생각하고 포션이 있기때문에 강하게 잡았습니다, 데미지 적힌부분 오른쪽에 괄호열고 적은것은 투사체의 경우 shpaeTag가 같은게 있어서 상태이상으로 잡으면 된다는 뜻입니다), 최종보스 검과 기둥 충격파 제거,
+각 몬스터들 체력 추가, 리빙아머 메이지 작은 장판공격 제거, 유도전기포 추가, 오크 궁수 격노버전 화살과 일반버전 화살 차이(격노버전은 짧은경직), 리빙아머 궁수 특수화살(짧은경직에서 속박(스턴)으로 변경)
+* 필드보스 최종보스는 패링 스택이 특정수로 쌓이면(특정공격만) 긴 Blocked모션(패턴끊김), 패링스택 쌓이기 전에는 짧은 Blocked모션(패턴 안끊김), 패링 특정수로 쌓이면 바로 초기화
+* 일반적인 몬스터는 근접공격이면 거의 다 패링이 가능하나 특정 공격이 패링당할시에만 긴 Blocked모션
+* 플레이어 상태이상 종류: 일반 피격, 짧은 경직, 긴경직, 날라가기(약, 강), 기절, 감전
+* 몬스터 상태이상 종류: 일반피격,  짧은경직, 스턴, 감전, 넘어뜨리기, 짧은 Blocked, 긴Blocked
+* 패링시 밀리는 정도 다른거는 기본적으로 _szMyShapeTag로 판단, 투사체 공격(COL_MONSTERPROJECTILE)은 _ColData의 Projectile의 GetPower로 판단
+* 상태이상 기본적으로 _szMyShapeTag로 판단하고 투사체(COL_MONSTERPROJECTILE)는 _ColData의 Projectile의 GetAbnormal로 판단
+* 몬스터 이름 가져오기: GetModelName()으로 몬스터이름 가져오기
+
+%_szMyShapeTag는 툴로 다 만들고 나면 갱신할 예정								
+%앞에 (E)가 붙으면 이펙트 쓰지만 콜라이더 안정해진거(주로 투사체), (EC)는 콜라이더 만들어져있는거, (EM)은 콜라이더가 따로 필요없는 이펙트
+%몬스터 앞에 (P)가 붙으면 짧은 Blocked, (PL)은 긴 Blocked모션이 나오는거
+%특정 이펙트는 색깔만 바꾸거나 그냥 그대로 돌려쓰기 하는게 좋을듯
+%투사체나 떨어지는 번개같은것은 추후에 콜라이더 붙일예정 - 이펙트 크기 상의해야할듯?, 몬스터 이펙트 디자인 정할때 애매하면 상의 부탁;;
+
+///의견주시면 얼마든지 수정하겠습니다
+
+							패링여부 및 투사체 원거리 방어 가능여부		패링시 밀리는정도(1이 약하고 3이 강함)		상태이상(패링실패시, 없는거는 일반 피격)		콜라이더(자신)				콜라이더(타겟)				_strShapeTag										데미지
+고블린 전사	"L1Midget_Footman"			100
+PL	근접 도끼공격				가능									1								x									COL_MONSTERWEAPON		플레이어, 플레이어패링			"M_L1Midget_Footman_SK.ao|M_L1Midget_Footman_SkdmgA"		100
+	원거리 도끼던지기(투사체)		가능									1								x									COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"Axe_Body"											50
+고블린 샤먼	"L1Midget_Shaman"			100
+이펙트: 떨어지는 번개(E1), 초록색 구형 속박마법(E2)
+PL	근접 스태프공격				가능									1								x									COL_MONSTERWEAPON		플레이어, 플레이어패링			"M_L1Midget_Shaman_SK.ao|M_L1Midget_Shaman_SkdmgC"		100
+E1	번개떨어뜨리기				불가									x								감전									COL_MONSTERPROJECTILE		플레이어, 지형				"Thunder1_Body"										200
+E2	원거리 속박마법(투사체)		불가									x								속박									COL_MONSTERPROJECTILE		플레이어, 지형				"BindMagic2_Body"									50
+고블린 슬링어	"L1Midget_Sling" 				80
+PL	근접 회전공격				가능									1								x									COL_MONSTERWEAPON		플레이어, 플레이어패링			"M_L1Midget_Sling_SK.ao|M_L1Midget_Sling_USkdmgA"			100
+	원거리 돌 던지기(투사체)		가능									1								x									COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"Stone_Body"										50
+고블린 필드보스	"M_L1Midget_Berserker"		500
+그림자 고블린 필드보스					200
+패링 스택5 - 점프 칼내려찍기 패링스택3 근접내려찍기 패링스택2, 근접 검 내려치기 패링스택1
+이펙트: 내려찍을때 바닥에 먼지일어나기작게(E1), 내려찍을때 바닥에 먼지일어나기크게(E2)
+3스택 -> PL
+P,E2M근접 내려찍기1				가능									3								긴경직								COL_MONSTERSKILL			플레이어, 플레이어패링			"M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkdmgD.001"	200
+E1M	근접 내려찍기2(여러번찍기)		불가									x								짧은 경직								COL_MONSTERSKILL			플레이어					"M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkdmgA2.001"	100
+P,E1M근접 검 내려치기				가능									2								짧은 경직								COL_MONSTERSKILL			플레이어, 플레이어패링			"M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkdmgA.001"	100
+E2M	점프 몸통내려찍기			불가									x								날라가기(강)							COL_MONSTERSKILL			플레이어					"M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkmovAE"		300
+P,E2M점프 칼내려찍기				가능									3								날라가기(강)							COL_MONSTERSKILL			플레이어, 플레이어패링			"M_L1Midget_Berserker_SK.ao|M_L1Midget_Berserker_SkmovBE"		400
+	회전공격					불가									x								x									COL_MONSTERWEAPON		플레이어					Tag 존재 x, 무기에 충돌받는걸로							50
+	
+리빙아머 전사	"LivingArmor_Soldier"			150
+이펙트: 파란색 기본오라(E1M), 붉은색 광폭화오라(E2M)
+P	근접 주먹공격				가능									1								x									COL_MONSTERWEAPON		플레이어, 플레이어패링			"M_LivingArmor_Soldier_SK.ao|M_LivingArmor_Soldier_SkdmgC"		50
+PL	근접 검공격				가능									1								x									COL_MONSTERWEAPON		플레이어, 플레이어패링			"M_LivingArmor_Soldier_SK.ao|M_LivingArmor_Soldier_SkdmgB"		100
+리빙아머 궁수	"LivingArmor_Archer"			100
+이펙트: 파란색 기본오라(E1M), 붉은색 광폭화오라(E2M), 하얀색 빛나는 유도화살 이펙트(E1)
+	원거리 화살(투사체)			가능									1								x									COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"Arrow_Body"										50
+E1M	원거리 유도화살(투사체)		가능									3								속박									COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"Arrow_Body"										200(상태이상)
+리빙아머 마법사	"LivingArmor_Mage"			300
+이펙트: 파란색 기본오라(E1M), 붉은색 광폭화오라(E2M), 보라색 기둥 에너지파(E3), 보라색 전기구(E4), 퍼지는 보라색전기구름(E5), 퍼지는 광범위 전기구름(E6)
+E4	원거리 전기포(투사체)			가능									3								감전									COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"ElectricBall_Body"									200(상태이상)
+	유도 전기포(투사체)			가능									1								x									COL_MONSTERPROJECTILE		플레이어, 플레이어패링			"ElectricBall_Body"									30
+E3C	원거리 에너지파				불가									x								날라가기(약)							COL_MONSTERSKILL			플레이어					"M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgC"		300
+E6C	원거리 광범위장판공격			가능									1								감전									COL_MONSTERSKILL			플레이어, 플레이어패링			"M_LivingArmor_Mage_SK.ao|M_LivingArmor_Mage_SkdmgE"		200
+
+오크 전사	"M_Orc_Warrior_001"				150
+이펙트: 붉은색 광폭화오라(E1M)
+P	근접 검공격				가능									1								x									COL_MONSTERWEAPON		플레이어, 플레이어패링			"M_Orc_Warrior_001_SK.ao|M_Orc_Warrior_USkdmgA"			100
+PL	근접 회전검공격				가능									1								x									COL_MONSTERWEAPON		플레이어, 플레이어패링			"M_Orc_Warrior_001_SK.ao|M_Orc_Warrior_USkdmgB"			150
+오크 궁수	"M_Orc_Archer"					100
+이펙트: 붉은색 광폭화오라(E1M)
+PL	근접 활공격				가능									1								x									COL_MONSTERWEAPON		플레이어, 플레이어패링			"M_Orc_Archer_SK.ao|M_Orc_Archer_USkdmgA"				100
+	원거리 화살(투사체)			가능									1								x									COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"Arrow_Body"										50
+	격노 원거리 화살(투사체)		가능									2								짧은경직								COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"Arrow_Body"										100(상태이상)
+
+오크 마법사 "M_Orc_Shaman"				100
+이펙트: 붉은색 광폭화오라(E1M), 불덩어리느낌 화염구(E2), 장판버프(E3)
+PL	근접 스태프공격				가능									1								x									COL_MONSTERWEAPON		플레이어, 플레이어패링			"M_Orc_Shaman_SK.ao|M_Orc_Shaman_USkdmgA"				100
+E2	원거리 화염구2번연속(투사체)	가능									2								짧은 경직								COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"FireBall_Body"										150
+E3C	범위 장판버프				불가									x								x									COL_MONSTERSKILL			몬스터					"M_Orc_Shaman_SK.ao|M_Orc_Shaman_USkdmgB"				
+오크 필드보스	"M_Orc_LowDarkCommander"	500
+그림자 오크 필드보스					200
+패링 스택5 - 돌아서공격 1, 3연격의 마지막 2, 특수연격 마지막 3
+이펙트: 지면강타(일직선장판공격E1), 포효(광역기E2)
+3스택 -> PL
+	근접일반공격				가능									2								짧은 경직								COL_MONSTERSKILL			플레이어, 플레이어패링																		100
+"M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgA.001", "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgA_2.001", "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgA_M.001", "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB.001",
+"M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB.003", "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB_12.001", "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgD", "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgD.002"
+	2연격 마지막				가능									3								긴 경직								COL_MONSTERSKILL			플레이어, 플레이어패링			"M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB_12.003"		200	
+	3연격 마지막				가능									3								긴 경직								COL_MONSTERSKILL			플레이어, 플레이어패링			"M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB.005"		200
+	달려서 박치기				불가									x								날라가기(강)							COL_MONSTERSKILL			플레이어, 플레이어패링			"M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkmovAE"			300
+	돌아서 공격				가능									3								긴 경직								COL_MONSTERSKILL			플레이어, 플레이어패링			"M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB_3.001"		300
+E1C	지면 강타					불가									x								날라가기(약)							COL_MONSTERSKILL			플레이어, 플레이어패링			"M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgD.007"		200
+	특수연격 막타				가능									3								날라가기(강)							COL_MONSTERSKILL			플레이어, 플레이어패링			"M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgD.006"		300
+E2C	포효						불가									x								속박									COL_MONSTERSKILL			플레이어, 플레이어패링			"M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkbufA"			100
+
+최종보스	"M_UndeadArmy_Knight"			1000
+이펙트(있으면 좋을거 같은거 우선 다 적어놓음;;): 검기(붉은색), 속박마법(보라색 구), 1페이즈오라(노랑), 2페이즈오라(붉은색), 점멸(보라색 게이트열고 닫히고), 대쉬(잔상), 범위 장판공격(충격파), 광범위장판공격(큰 충격파), 기둥떨어질때 바닥에 먼지일어나기
+패링 스택5 - 근접 검일반공격 패링스택1 근접 대쉬찌르기 패링스택2
+P	근접 검일반공격				가능									1								짧은 경직								COL_MONSTERWEAPON		플레이어, 플레이어패링																			100
+strShapeTag: "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgA", "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgA.002", "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgA.004", "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB", "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB.002",
+"M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB.004", "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB_M", "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB_M.002", "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgC", "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgC.002",
+"M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgC.003", "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgC.005"
+P,E	근접 대쉬찌르기				가능									3								긴경직								COL_MONSTERSKILL			플레이어, 플레이어패링			"M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_DashAttack_E.001"				200
+E	원거리 참격(투사체)			가능									1								짧은 경직								COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"Slash_Body"														50
+E	원거리 거대참격(투사체)		가능									2								짧은 경직								COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"LSlash_Body"														100
+E	차징슬래쉬(투사체)			불가									x								날라가기(강)							COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"BigSlash_Body"														200
+E	원거리 속박마법(투사체)		불가									x								속박									COL_MONSTERPROJECTILE		플레이어, 플레이어패링, 지형		"BindMagic_Body"													50
+EC	직선속박장판				불가									x								속박									COL_MONSTERSKILL			플레이어					"M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkbufA"						50
+EC	범위 장판 공격				불가									x								날라가기(약)							COL_MONSTERSKILL			플레이어, 지형				"M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_DirectDamage"					200
+EC	광범위 장판공격				불가									x								날라가기(강)							COL_MONSTERSKILL			플레이어, 지형				"M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_DirectDamage_Plus"				1000
+EC	전방지진공격				불가									x								날라가기(강)							COL_MONSTERSKILL			플레이어, 지형				"M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_SkmovD"						300
+E	점멸						불가									x								x															
+
+NPC David	"CT_Named_ArthurTalon_SK"			200
+회전공격1						불가									x								일반피격								COL_MONSTERSKILL			플레이어, 플레이어패링			"CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_BladeDance"					50
+회전공격2						불가									x								일반피격								COL_MONSTERSKILL			플레이어, 플레이어패링			"CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_BladeDance.001"				50
+회전공격3						불가									x								날라가기(강)							COL_MONSTERSKILL			플레이어, 플레이어패링			"CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_BladeDance.002"				100
+대쉬공격1(앞까지)				가능									3								긴경직								COL_MONSTERSKILL			플레이어, 플레이어패링			"CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_Dash"						100
+대쉬공격2(관통)					불가									x								감전									COL_MONSTERSKILL			플레이어, 플레이어패링			"CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_Dash.001"					100
+아래로공격1					불가									x								짧은경직								COL_MONSTERSKILL			플레이어, 플레이어패링			"CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_SwingA"						50
+아래로공격2					가능									2								기절									COL_MONSTERSKILL			플레이어, 플레이어패링			"CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_SwingA.001"					50
+위로공격1						불가									x								짧은경직								COL_MONSTERSKILL			플레이어, 플레이어패링			"CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_SwingB"						50
+위로공격2						가능									2								날라가기(약)							COL_MONSTERSKILL			플레이어, 플레이어패링			"CT_Named_ArthurTalon_SK.ao|CT_Named_ArthurTalon_SwingB.001					50

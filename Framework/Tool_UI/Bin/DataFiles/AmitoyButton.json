@@ -1,0 +1,362 @@
+{
+	"AmitoyButton" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"AmitoyIcon"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				90.0,
+				90.0
+			],
+			"SizeY" : 51.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				29.0,
+				-255.0
+			],
+			"Scale" : 
+			[
+				90.0,
+				51.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Hud_Combat_Amitoy_Normal",
+				"Tex_Hud_Combat_Amitoy_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "AmitoyButton",
+			"UITexType" : 0,
+			"UIType" : 5,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"AmitoyIcon" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"AmitoyTitleBG"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				38.0,
+				38.0
+			],
+			"SizeY" : 38.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				24.0,
+				-251.0
+			],
+			"Scale" : 
+			[
+				38.0,
+				38.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Magicdoll_Guide_1",
+				"I_Magicdoll_Imp_A_Lv5",
+				"l_Magicdoll_Succubee_Lv1",
+				"I_Magicdoll_Spirit_Lv5"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "AmitoyIcon",
+			"UITexType" : 0,
+			"UIType" : 2,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"AmitoyTitleBG" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"AmitoyTitleHealIcon"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				60.0,
+				60.0
+			],
+			"SizeY" : 15.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				26.0,
+				-266.0
+			],
+			"Scale" : 
+			[
+				60.0,
+				15.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Hud_Combat_Amitoy_titleBG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "AmitoyTitleBG",
+			"UITexType" : 0,
+			"UIType" : 12,
+			"UIZOrder" : 0.10000000149011612
+		}
+	},
+	"AmitoyTitleHealIcon" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				22.0,
+				22.0
+			],
+			"SizeY" : 22.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				10.0,
+				-266.0
+			],
+			"Scale" : 
+			[
+				22.0,
+				22.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_Heal_Leaf_001"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "AmitoyTitleHealIcon",
+			"UITexType" : 0,
+			"UIType" : 2,
+			"UIZOrder" : 0.10000000149011612
+		}
+	}
+}

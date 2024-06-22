@@ -1,0 +1,285 @@
+{
+	"InstanceMonsterHPPanel" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"MonsterHP"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				200.0,
+				200.0
+			],
+			"SizeY" : 68.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				200.0,
+				68.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Nameplate_NameBgB4_1N"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "MonsterHPPanel",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.15000000596046448
+		}
+	},
+	"MonsterHP" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				20.0,
+				20.0
+			],
+			"SizeY" : 90.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					28.0
+				],
+				"InstanceSize" : 
+				[
+					20.0,
+					90.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-44.0
+				],
+				"InstanceSize" : 
+				[
+					16.899999618530273,
+					32.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					30.0,
+					-32.0
+				],
+				"InstanceSize" : 
+				[
+					46.0,
+					18.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-30.0,
+					-32.0
+				],
+				"InstanceSize" : 
+				[
+					46.0,
+					18.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-32.0
+				],
+				"InstanceSize" : 
+				[
+					14.0,
+					18.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-23.0
+				],
+				"InstanceSize" : 
+				[
+					135.0,
+					12.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-22.700000762939453
+				],
+				"InstanceSize" : 
+				[
+					125.0,
+					6.5
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-23.0
+				],
+				"InstanceSize" : 
+				[
+					135.0,
+					15.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				20.0,
+				20.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Nameplate_Target_LineN"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 8,
+			"UISlotType" : 6,
+			"UITag" : "MonsterHP",
+			"UITexType" : 8,
+			"UIType" : 42,
+			"UIZOrder" : 0.15000000596046448
+		}
+	}
+}

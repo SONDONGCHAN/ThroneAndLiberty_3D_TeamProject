@@ -1,0 +1,445 @@
+{
+	"InstanceQuestPanel_0" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"QuestInstance"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				198.0,
+				198.0
+			],
+			"SizeY" : 44.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				518.0,
+				108.0
+			],
+			"Scale" : 
+			[
+				198.0,
+				44.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_TABLE_LABEL_BG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "QuestPanel",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.40000000596046448
+		}
+	},
+	"QuestInstance" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				225.0,
+				225.0
+			],
+			"SizeY" : 44.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					518.0,
+					108.0
+				],
+				"InstanceSize" : 
+				[
+					225.0,
+					44.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					604.0,
+					126.0
+				],
+				"InstanceSize" : 
+				[
+					54.0,
+					35.799999237060547
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					444.0,
+					58.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					25.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					424.0,
+					-46.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					25.0
+				]
+			},
+			"InstanceValue12" : 
+			{
+				"InstancePos" : 
+				[
+					518.0,
+					-2.0
+				],
+				"InstanceSize" : 
+				[
+					215.0,
+					68.0
+				]
+			},
+			"InstanceValue13" : 
+			{
+				"InstancePos" : 
+				[
+					424.0,
+					18.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					25.0
+				]
+			},
+			"InstanceValue14" : 
+			{
+				"InstancePos" : 
+				[
+					424.0,
+					18.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					25.0
+				]
+			},
+			"InstanceValue15" : 
+			{
+				"InstancePos" : 
+				[
+					444.0,
+					-2.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					25.0
+				]
+			},
+			"InstanceValue16" : 
+			{
+				"InstancePos" : 
+				[
+					518.0,
+					-66.0
+				],
+				"InstanceSize" : 
+				[
+					215.0,
+					68.0
+				]
+			},
+			"InstanceValue17" : 
+			{
+				"InstancePos" : 
+				[
+					424.0,
+					-46.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					25.0
+				]
+			},
+			"InstanceValue18" : 
+			{
+				"InstancePos" : 
+				[
+					444.0,
+					-66.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					25.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					413.0,
+					108.0
+				],
+				"InstanceSize" : 
+				[
+					55.5,
+					55.5
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					413.0,
+					108.0
+				],
+				"InstanceSize" : 
+				[
+					43.0,
+					43.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					604.0,
+					126.0
+				],
+				"InstanceSize" : 
+				[
+					33.0,
+					33.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					453.0,
+					108.0
+				],
+				"InstanceSize" : 
+				[
+					22.0,
+					22.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					478.0,
+					108.0
+				],
+				"InstanceSize" : 
+				[
+					22.0,
+					22.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					518.0,
+					62.0
+				],
+				"InstanceSize" : 
+				[
+					215.0,
+					68.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					424.0,
+					78.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					25.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					424.0,
+					78.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					25.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				444.0,
+				-66.0
+			],
+			"Scale" : 
+			[
+				225.0,
+				225.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse": [
+				"Tex_UI_Deco_Frame_BG",
+				"Tex_HUD_PanelClosed_Nomal",
+				"Tex_EventPanel_Frame_Normal",
+				"Tex_Mainmenu_Contract_Normal",
+				"Tex_HUD_Panel_Close_Hover",
+				"Key_Alphabet_H",
+				"Key_Alphabet_H",
+				"TEX_TABLE_LABEL_BG",
+				"Tex_CodexAdventure_Normal",
+				"Tex_CodexAdventure_Normal",
+				"Tex_CodexAdventure_Normal",
+				"Tex_ConMarker_Codex_Appendix",
+				"TEX_TABLE_LABEL_BG",
+				"Tex_ConMarker_Codex_Appendix",
+				"Tex_ConMarker_Codex_Appendix",
+				"Tex_ConMarker_Codex_Appendix",
+				"TEX_TABLE_LABEL_BG",
+				"Tex_ConMarker_Codex_Appendix",
+				"Tex_ConMarker_Codex_Appendix"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.40000000596046448,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 10,
+			"UISlotType" : 6,
+			"UITag" : "QuestInstance",
+			"UITexType" : 8,
+			"UIType" : 46,
+			"UIZOrder" : 0.38999998569488525
+		}
+	}
+}

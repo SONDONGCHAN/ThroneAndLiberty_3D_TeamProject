@@ -1,0 +1,100 @@
+{
+	"BossHP" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				90.0,
+				90.0
+			],
+			"SizeY" : 110.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					-155.0,
+					17.0
+				],
+				"Scale" : 
+				[
+					90.0,
+					110.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					0.0
+				],
+				"Scale" : 
+				[
+					266.0,
+					27.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					0.0
+				],
+				"Scale" : 
+				[
+					266.0,
+					27.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_HUD_Target_Boss"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "BossHP",
+			"UIType" : 12,
+			"UIZOrder" : 0.34000000357627869
+		}
+	}
+}

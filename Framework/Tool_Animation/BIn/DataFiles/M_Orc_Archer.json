@@ -1,0 +1,38 @@
+{
+	"45" : 
+	{
+		"AnimName" : "M_Orc_Archer_SK.ao|M_Orc_Archer_USkdmgA",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.30000001192092896,
+				1.5,
+				1.5
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.0,
+					2.0,
+					1.5
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 60.570999145507812,
+			"StartPos" : 58.562000274658203
+		}
+	}
+}

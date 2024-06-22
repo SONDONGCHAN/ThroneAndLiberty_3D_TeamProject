@@ -1,0 +1,113 @@
+{
+	"OptionABGs" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				741.0,
+				741.0
+			],
+			"SizeY" : 564.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					0.0
+				],
+				"Scale" : 
+				[
+					741.0,
+					564.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					210.0
+				],
+				"Scale" : 
+				[
+					700.0,
+					106.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					190.0
+				],
+				"Scale" : 
+				[
+					714.0,
+					52.0
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					-40.0
+				],
+				"Scale" : 
+				[
+					714.0,
+					400.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"IMG_Journal_BG_G"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "OptionABGs",
+			"UIType" : 62,
+			"UIZOrder" : 0.30000001192092896
+		}
+	}
+}

@@ -1,0 +1,92 @@
+			Scale		/ Translation
+QuickSlotPanel : 580, 100 / -24, -278
+
+	QuickSlotBackGround : 275, 100 / 137.5, -285
+		QuickSlotPreset : 18, 48 / 254.5, -303.5
+
+	QuickSlotBackGroundR : 275, 100 / -185, -285
+		QuickSlotLockButton : 18, 48 / -304, -303.5
+		QuickSlotLockIconButton : 14, 21 / -297, -303
+
+	QuickSlotWeaponFrame : 48, 86 / -24, -292.5
+		QuickSlotFrameBG : 54, 70 / -24, -297
+
+QuickSlotWeaponSlotBG : 60, 58 / -28, -288
+	QuickSlotWeaonSlotButton : 52, 98 / -24.5, -261
+	QuickSlotWeaponSlotCover : 40, 42 / -24.5, -284
+	QuickSlotWeaponSlotCF : 40, 42 / -24.5, -285
+
+QuickSlotWeaponSlotBG2 : 44, 42 / -27, -314
+	QuickSlotWeaponSlotButton2 : 37, 70 / -24.5, -295
+	QuickSlotWeaponSlotCover2 : 28, 30 / -24.5, -312
+
+QuickMainSlot0 : 41, 41 / -272, -303.5
+	QuickMainSlot0Hover : 60, 60 /
+	QuickMainSlot0Frame : 41, 41 /
+	QuickMainSlot0CoolTime : 38, 38
+QuickMainSlot1 : 41, 41 / -231, -303.5
+	QuickMainSlot1Hover : 60, 60 /
+	QuickMainSlot1Frame : 41, 41 /
+	QuickMainSlot1CoolTime : 38, 38
+QuickMainSlot2 : 41, 41 / -190, -303.5
+QuickMainSlot3 : 41, 41 / -149, -303.5
+QuickMainSlot4 : 41, 41 / -108, -303.5
+QuickMainSlot5 : 41, 41 / -67, -303.5
+
+QuickMainSlot6 : 41, 41 / 19, -303.5
+QuickMainSlot7 : 41, 41 / 60, -303.5
+QuickMainSlot8 : 41, 41 / 101, -303.5
+QuickMainSlot9 : 41, 41 / 142, -303.5
+QuickMainSlot10 : 41, 41 / 183, -303.5
+QuickMainSlot11 : 41, 41 / 224, -303.5
+
+QuickSlotSubBG_C : 120, 50 / -231, -258.5
+QuickSlotSubBG_R : 60, 50 / -162, -258.5
+	QuickCombatSlot0 : 38, 38 / -271, -259
+		QuickCombatSlot0Hover : 56, 56 / -271, -259
+		QuickCombatSlot0Frame : 38, 38 / -271, -259
+		QuickCombatSlot0FrameKey : 39, 39 / -271, -259
+	QuickCombatSlot1 : 38, 38 / -232, -259
+	QuickCombatSlot2 : 39, 39 / -193, -259 -> Only Empty
+	QuickCombatSlot3 : 39, 39 / -154, -259
+	
+QuickSlotSubBG_C2 : 120, 50 / 148.5, -258.5
+	QuickFixedslot3 : 39, 39 / 225, -258
+		QuickFixedSlot3Hover : 56, 56
+		QuickFixedSlot3Frame : 39, 39
+		QuickFixedSlot3CoolTime : 39, 39
+	QuickFixedSlot2 : 39, 39 / 186, -258
+	QuickFixedSlot1 : 39, 39 / 147, -258
+	QuickFixedSlot0 : 39, 39 / 108, -258
+
+StellaPanel : 90, 20 / -74, -268
+	StellaMainButton : 60, 33 / -62, -264
+	StellaMainButtonIcon : 14, 10.5 / -78.5, -264
+	StellaMainButtonStellaIcon : 26, 26 / -48, -264
+
+		QuickSlotStellaListBG : 100, 80 / -78, -229
+			StellaButton0 : 60, 33 / -62, -233
+			StellaButton0StellaIcon : 30, 30 / -48, -233
+			StellaButton1 : 60, 33 / -62, -202
+			StellaButton1Icon : 14, 14 / -78.5, -202
+			StellaButton1StellaIcon : 30, 30 / -48, -202
+			StellaButton2 : 60, 33 / -62, -171
+			StellaButton2Icon : 14, 14 / -78.5, -171
+			StellaButton2StellaIcon : 30, 30 / -48, -171
+
+
+AmitoyButton : 90, 51 / 29, -255
+	AmitoyIcon : 38, 38 / 24, -251
+	AmitoyTitleBG : 60, 15 / 26, -266
+	AmitoyTitleHealIcon : 22, 22 / 10, -266
+
+
+
+
+InventoryPanel : 348, 560 / 0, 80
+	InventoryScrollBG : 258, 700 / 0, 0 -> -120 / visibleSizeY = 540
+		InventoryScrollLine : 13, 346.6 / 134, 194
+		InventoryScroll : 13, 90 / 136, 310
+			InventoryTabPanel : 258, 700 / 0, 0
+				InventoryTabIcon : 20, 20 / -112, 332
+				Inventory Slot - -102, 294 / -52, 294 / -2, 294 (위치만)

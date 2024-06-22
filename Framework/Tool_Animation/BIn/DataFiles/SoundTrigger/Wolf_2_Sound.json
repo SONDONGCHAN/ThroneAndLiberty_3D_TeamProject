@@ -1,0 +1,117 @@
+{
+	"0" : 
+	{
+		"AnimName" : "T_RUN_Wolf_Base_S_SK.ao|T_Run_Wolf_Base_S_Act_GrowUp_LvUp",
+		"SoundName" : 
+		[
+			"Player_Wolf_Loar_2"
+		],
+		"TrackPos" : 
+		[
+			25.562000274658203
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"2" : 
+	{
+		"AnimName" : "T_RUN_Wolf_Base_S_SK.ao|T_Run_Wolf_S_Mov_JumpE",
+		"SoundName" : 
+		[
+			"Player_Wolf_Land"
+		],
+		"TrackPos" : 
+		[
+			0.0
+		],
+		"Volume" : 
+		[
+			0.33000001311302185
+		]
+	},
+	"4" : 
+	{
+		"AnimName" : "T_RUN_Wolf_Base_S_SK.ao|T_Run_Wolf_S_Mov_JumpRun_Normal",
+		"SoundName" : 
+		[
+			"Player_Wolf_Land",
+			"Player_Wolf_Run"
+		],
+		"TrackPos" : 
+		[
+			0.0,
+			12.989999771118164
+		],
+		"Volume" : 
+		[
+			0.34000000357627869,
+			0.34000000357627869
+		]
+	},
+	"5" : 
+	{
+		"AnimName" : "T_RUN_Wolf_Base_S_SK.ao|T_Run_Wolf_S_Mov_JumpS",
+		"SoundName" : 
+		[
+			"Player_Wolf_Jump"
+		],
+		"TrackPos" : 
+		[
+			0.0
+		],
+		"Volume" : 
+		[
+			0.34000000357627869
+		]
+	},
+	"6" : 
+	{
+		"AnimName" : "T_RUN_Wolf_Base_S_SK.ao|T_Run_Wolf_S_Mov_Run_Fast",
+		"SoundName" : 
+		[
+			"Player_Wolf_Sprint"
+		],
+		"TrackPos" : 
+		[
+			1.9670000076293945
+		],
+		"Volume" : 
+		[
+			0.20000000298023224
+		]
+	},
+	"7" : 
+	{
+		"AnimName" : "T_RUN_Wolf_Base_S_SK.ao|T_Run_Wolf_S_Mov_Run_Normal",
+		"SoundName" : 
+		[
+			"Player_Wolf_Run"
+		],
+		"TrackPos" : 
+		[
+			2.0480000972747803
+		],
+		"Volume" : 
+		[
+			0.20000000298023224
+		]
+	},
+	"9" : 
+	{
+		"AnimName" : "T_RUN_Wolf_Base_S_SK.ao|T_Run_Wolf_S_SKILL_Howling",
+		"SoundName" : 
+		[
+			"Player_Wolf_Loar_1"
+		],
+		"TrackPos" : 
+		[
+			9.9910001754760742
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	}
+}

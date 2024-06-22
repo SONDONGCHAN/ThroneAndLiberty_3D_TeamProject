@@ -1,0 +1,650 @@
+{
+	"18" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_SkmovD",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.0,
+				25.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					30.0,
+					1.0,
+					50.0
+				]
+			},
+			"TargetFlag" : 2,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 64.075996398925781,
+			"StartPos" : 48.194999694824219
+		}
+	},
+	"3" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_DashAttack_E.001",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.25999999046325684,
+				1.2999999523162842,
+				2.8599998950958252
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.5,
+					2.5999999046325684,
+					4.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 100.0,
+			"StartPos" : 1.5379999876022339
+		}
+	},
+	"43" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkbufA",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.25,
+				24.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					6.0,
+					0.5,
+					50.0
+				]
+			},
+			"TargetFlag" : 2,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 50.631000518798828,
+			"StartPos" : 29.488000869750977
+		}
+	},
+	"46" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkbufB.001",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 1,
+			"OffSetPos" : 
+			[
+				0.0,
+				3.0,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.0,
+					6.0,
+					3.0
+				]
+			},
+			"TargetFlag" : 0,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 50.709999084472656,
+			"StartPos" : 18.826000213623047
+		}
+	},
+	"51" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgA",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.64999997615814209,
+				3.119999885559082
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					1.2999999523162842,
+					1.2999999523162842,
+					2.5999999046325684
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 29.642999649047852,
+			"StartPos" : 28.47599983215332
+		}
+	},
+	"53" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgA.002",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.64999997615814209,
+				3.5099999904632568
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					1.2999999523162842,
+					1.2999999523162842,
+					2.5999999046325684
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 9.4600000381469727,
+			"StartPos" : 8.5710000991821289
+		}
+	},
+	"55" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgA.004",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.64999997615814209,
+				3.6400001049041748
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					1.2999999523162842,
+					1.2999999523162842,
+					2.5999999046325684
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 10.668999671936035,
+			"StartPos" : 9.5670003890991211
+		}
+	},
+	"56" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.9500000476837158,
+				1.9500000476837158
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					5.1999998092651367,
+					3.9000000953674316,
+					3.9000000953674316
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 31.905000686645508,
+			"StartPos" : 28.820999145507812
+		}
+	},
+	"58" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB.002",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.9500000476837158,
+				1.9500000476837158
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					5.1999998092651367,
+					4.5,
+					4.5
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 10.21399974822998,
+			"StartPos" : 6.6519999504089355
+		}
+	},
+	"60" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB.004",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.64999997615814209,
+				2.5999999046325684,
+				2.2100000381469727
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.25,
+					5.1999998092651367,
+					4.5500001907348633
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 3.809999942779541,
+			"StartPos" : 2.0380001068115234
+		}
+	},
+	"61" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB_M",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.9500000476837158,
+				2.2100000381469727
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					5.8499999046325684,
+					3.9000000953674316,
+					3.9000000953674316
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 32.28900146484375,
+			"StartPos" : 27.718000411987305
+		}
+	},
+	"63" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgB_M.002",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.9500000476837158,
+				2.2100000381469727
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					5.8499999046325684,
+					3.9000000953674316,
+					3.9000000953674316
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 8.0889997482299805,
+			"StartPos" : 2.2669999599456787
+		}
+	},
+	"64" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgC",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.64999997615814209,
+				2.5999999046325684,
+				2.2100000381469727
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.25,
+					5.1999998092651367,
+					4.5500001907348633
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 41.791999816894531,
+			"StartPos" : 39.810001373291016
+		}
+	},
+	"66" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgC.002",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.64999997615814209,
+				2.5999999046325684,
+				2.2100000381469727
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.25,
+					5.1999998092651367,
+					4.5500001907348633
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 3.809999942779541,
+			"StartPos" : 2.0380001068115234
+		}
+	},
+	"67" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgC.003",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.64999997615814209,
+				3.0,
+				2.2100000381469727
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.25,
+					5.1999998092651367,
+					4.5500001907348633
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 3.809999942779541,
+			"StartPos" : 2.0380001068115234
+		}
+	},
+	"69" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_USkdmgC.005",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.64999997615814209,
+				2.5999999046325684,
+				2.2100000381469727
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.25,
+					5.1999998092651367,
+					4.5500001907348633
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 3.8059999942779541,
+			"StartPos" : 1.9859999418258667
+		}
+	},
+	"7" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_DirectDamage",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.19499999284744263,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					26.0,
+					0.64999997615814209,
+					26.0
+				]
+			},
+			"TargetFlag" : 3,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 39.409000396728516,
+			"StartPos" : 32.213001251220703
+		}
+	},
+	"9" : 
+	{
+		"AnimName" : "M_UndeadArmy_Knight_SK.ao|M_UndeadArmy_Knight_DirectDamage_Plus",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.32499998807907104,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					260.0,
+					0.64999997615814209,
+					260.0
+				]
+			},
+			"TargetFlag" : 3,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 174.08200073242188,
+			"StartPos" : 32.4739990234375
+		}
+	}
+}

@@ -1,0 +1,2310 @@
+{
+	"TradeABottomBGs" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				1280.0,
+				1280.0
+			],
+			"SizeY" : 360.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-180.0
+				],
+				"InstanceSize" : 
+				[
+					1280.0,
+					360.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					0.0
+				],
+				"InstanceSize" : 
+				[
+					640.0,
+					720.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					-210.0,
+					290.0
+				],
+				"InstanceSize" : 
+				[
+					840.0,
+					148.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-320.0,
+					272.0
+				],
+				"InstanceSize" : 
+				[
+					415.0,
+					56.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				1280.0,
+				360.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse": [
+				"Tex_Common_NPC_Bottom_C", // Bottom
+				"Tex_Common_NPC_Bottom_Side_R", // Right
+				"Tex_NPC_Title_BG", // Up
+				"TEX_SmallTab_H56_Combined" // Tab
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 13,
+			"UISlotType" : 6,
+			"UITag" : "TradeABottomBGs",
+			"UITexType" : 8,
+			"UIType" : 54,
+			"UIZOrder" : 0.30000001192092896
+		}
+	},
+	"TradeAllInstancePanel" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"TradeABottomBGs",
+				"TradeBSlotBGs",
+				"TradeCSlots",
+				"TradeDDecoBGs",
+				"TradeEItemTabs",
+				"TradeFSlotHovers"
+			],
+			"NumChildren" : 6
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				10.0,
+				10.0
+			],
+			"SizeY" : 10.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				10.0,
+				10.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_NPC_Bottom_C"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "TradeAllPanel",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.30000001192092896
+		}
+	},
+	"TradeBSlotBGs" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				250.0,
+				250.0
+			],
+			"SizeY" : 74.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-460.0,
+					-40.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-210.0,
+					-40.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					-210.0,
+					-250.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					40.0,
+					-250.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue12" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue13" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue14" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue15" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue16" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue17" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue18" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue19" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					40.0,
+					-40.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue20" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue21" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue22" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue23" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue24" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue25" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue26" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue27" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue28" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue29" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-460.0,
+					-110.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue30" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue31" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					-210.0,
+					-110.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					40.0,
+					-110.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					-460.0,
+					-180.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					-210.0,
+					-180.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					40.0,
+					-180.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					-460.0,
+					-250.0
+				],
+				"InstanceSize" : 
+				[
+					250.0,
+					74.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				250.0,
+				74.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse": [
+				"Tex_Common_Table_Back_Slot_B", // 0 ~ 11 Left
+				"BG_ItemGrade_01" // 12 ~ 31 Right
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 13,
+			"UISlotType" : 6,
+			"UITag" : "TradeBSlotBGs",
+			"UITexType" : 8,
+			"UIType" : 54,
+			"UIZOrder" : 0.28999999165534973
+		}
+	},
+	"TradeCSlots" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				56.0,
+				56.0
+			],
+			"SizeY" : 56.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-550.0,
+					-40.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-300.0,
+					-40.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					-300.0,
+					-250.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					-50.0,
+					-250.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue12" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue13" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue14" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue15" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue16" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue17" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue18" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue19" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					-50.0,
+					-40.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue20" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue21" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue22" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue23" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue24" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue25" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue26" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue27" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue28" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue29" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-550.0,
+					-110.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue30" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue31" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					-300.0,
+					-110.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					-50.0,
+					-110.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					-550.0,
+					-180.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					-300.0,
+					-180.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					-50.0,
+					-180.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					-550.0,
+					-250.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				56.0,
+				56.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"I_ManaSteel_004" // 0 ~ 11 Left, 12 ~ 31 Right
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 13,
+			"UISlotType" : 6,
+			"UITag" : "TradeCSlots",
+			"UITexType" : 8,
+			"UIType" : 55,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"TradeDDecoBGs" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				109.0,
+				109.0
+			],
+			"SizeY" : 260.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-565.0,
+					235.0
+				],
+				"InstanceSize" : 
+				[
+					109.0,
+					260.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-565.0,
+					10.0
+				],
+				"InstanceSize" : 
+				[
+					32.0,
+					34.819999694824219
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					167.5
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					92.0
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			},
+			"InstanceValue12" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					15.5
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			},
+			"InstanceValue13" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					-60.5
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			},
+			"InstanceValue14" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					-136.5
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			},
+			"InstanceValue15" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					-212.5
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			},
+			"InstanceValue16" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					-288.5
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			},
+			"InstanceValue17" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					-364.5
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			},
+			"InstanceValue18" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					325.0
+				],
+				"InstanceSize" : 
+				[
+					137.0,
+					24.0
+				]
+			},
+			"InstanceValue19" : 
+			{
+				"InstancePos" : 
+				[
+					490.0,
+					-167.5
+				],
+				"InstanceSize" : 
+				[
+					137.0,
+					24.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					310.0,
+					220.0
+				],
+				"InstanceSize" : 
+				[
+					32.0,
+					34.819999694824219
+				]
+			},
+			"InstanceValue20" : 
+			{
+				"InstancePos" : 
+				[
+					590.0,
+					310.0
+				],
+				"InstanceSize" : 
+				[
+					68.0,
+					68.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					523.5,
+					225.0
+				],
+				"InstanceSize" : 
+				[
+					60.0,
+					60.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					310.0,
+					-170.0
+				],
+				"InstanceSize" : 
+				[
+					32.0,
+					34.819999694824219
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					418.0,
+					-180.0
+				],
+				"InstanceSize" : 
+				[
+					318.0,
+					106.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					418.0,
+					-240.0
+				],
+				"InstanceSize" : 
+				[
+					300.0,
+					50.400001525878906
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					418.0,
+					-310.0
+				],
+				"InstanceSize" : 
+				[
+					200.0,
+					74.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					320.0
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					230.0,
+					243.5
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					76.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				109.0,
+				260.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse": [
+				"Tex_NPC_Title_Flag", // 0 Left Top Flag
+				"Tex_UI_TEXT_Deco", // 1 ~ 2, 4 Left Center Deco Icon, Right Top Deco Icon, Right Bottom Deco Icon
+				"Tex_BTN_NoneLine_01_Normal_Clear", // 3 Right Top Clear Button
+				"Tex_BTN_NoneLine_01_Normal_ClearHover", // 3 Right Top Clear Button Hover
+				"Tex_Common_Title_DecoBack_S_01", // 5 Right Bottom Deco Line
+				"Tex_Common_Title_Text_Frame2", // 6 Right Bottom Inc, Dec Button BG
+				"Tex_BTN_TextBox_02_Normal", // 7 Right Bottom Buy Button
+				"TEX_Contents_TITLE_V_Deco", // 8 ~ 17 Blend Deco
+				"Tex_Common_Amount_Box_003_Aden", // 18, 19 Gold Amount Box
+				"Tex_HUD_BTN_IconL_03_Normal", // 20 Close Button
+				"Tex_HUD_BTN_IconL_03_Hover" // 20 Close Button Hover
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 13,
+			"UISlotType" : 6,
+			"UITag" : "TradeDDecoBGs",
+			"UITexType" : 8,
+			"UIType" : 54,
+			"UIZOrder" : 0.27000001072883606
+		}
+	},
+	"TradeEItemTabs" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				160.0,
+				160.0
+			],
+			"SizeY" : 68.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-390.0,
+					273.5
+				],
+				"InstanceSize" : 
+				[
+					160.0,
+					68.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-245.5,
+					273.5
+				],
+				"InstanceSize" : 
+				[
+					160.0,
+					68.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				160.0,
+				68.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_BTN_TextBox_01_Normal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 13,
+			"UISlotType" : 6,
+			"UITag" : "TradeEItemTabs",
+			"UITexType" : 8,
+			"UIType" : 56,
+			"UIZOrder" : 0.25999999046325684
+		}
+	},
+	"TradeFSlotHovers" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				154.0,
+				154.0
+			],
+			"SizeY" : 68.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-390.0,
+					273.0
+				],
+				"InstanceSize" : 
+				[
+					154.0,
+					68.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-245.0,
+					273.0
+				],
+				"InstanceSize" : 
+				[
+					154.0,
+					68.0
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					39.0,
+					-179.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					-461.0,
+					-249.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue12" : 
+			{
+				"InstancePos" : 
+				[
+					-211.0,
+					-249.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue13" : 
+			{
+				"InstancePos" : 
+				[
+					39.0,
+					-249.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue14" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue15" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue16" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue17" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue18" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue19" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					-461.0,
+					-39.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue20" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue21" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue22" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue23" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue24" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue25" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					30.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue26" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue27" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue28" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue29" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					-35.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-211.0,
+					-39.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue30" : 
+			{
+				"InstancePos" : 
+				[
+					320.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue31" : 
+			{
+				"InstancePos" : 
+				[
+					385.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue32" : 
+			{
+				"InstancePos" : 
+				[
+					450.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue33" : 
+			{
+				"InstancePos" : 
+				[
+					515.0,
+					-100.0
+				],
+				"InstanceSize" : 
+				[
+					74.0,
+					74.0
+				]
+			},
+			"InstanceValue34" : 
+			{
+				"InstancePos" : 
+				[
+					418.0,
+					-310.0
+				],
+				"InstanceSize" : 
+				[
+					194.0,
+					74.0
+				]
+			},
+			"InstanceValue35" : 
+			{
+				"InstancePos" : 
+				[
+					350.0,
+					-237.0
+				],
+				"InstanceSize" : 
+				[
+					42.0,
+					42.0
+				]
+			},
+			"InstanceValue36" : 
+			{
+				"InstancePos" : 
+				[
+					486.0,
+					-237.0
+				],
+				"InstanceSize" : 
+				[
+					42.0,
+					42.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					39.0,
+					-39.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					-461.0,
+					-109.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					-211.0,
+					-109.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					39.0,
+					-109.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					-461.0,
+					-179.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					-211.0,
+					-179.5
+				],
+				"InstanceSize" : 
+				[
+					262.0,
+					84.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				154.0,
+				68.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse": [
+				"Tex_SeasonPass_PassPurchaseBTN_Hover", // 0 ~ 13 Left Tab & Slots, 34
+				"Tex_Customizing_BoxSlot_Hover", // 14 ~ 33 Right Slots
+				"Tex_BTN_NoneLine_01_Normal_Minus", // 35 Left Minus Button
+				"Tex_BTN_NoneLine_01_Normal_MinusHover", // 35 Left Minus Button Hover
+				"Tex_BTN_NoneLine_01_Normal_Plus", // 36 Right Inc Button
+				"Tex_BTN_NoneLine_01_Normal_PlusHover" // 36 Right Inc Button Hover
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 13,
+			"UISlotType" : 6,
+			"UITag" : "TradeFSlotHovers",
+			"UITexType" : 8,
+			"UIType" : 57,
+			"UIZOrder" : 0.25
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"44" : 
+	{
+		"AnimName" : "M_Orc_Archer_SK.ao|M_Orc_Archer_USkbufA",
+		"SoundName" : 
+		[
+			"OA_Fury"
+		],
+		"TrackPos" : 
+		[
+			63.610881805419922
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"45" : 
+	{
+		"AnimName" : "M_Orc_Archer_SK.ao|M_Orc_Archer_USkdmgA",
+		"SoundName" : 
+		[
+			"OA_Att2"
+		],
+		"TrackPos" : 
+		[
+			46.158000946044922
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"46" : 
+	{
+		"AnimName" : "M_Orc_Archer_SK.ao|M_Orc_Archer_USkdmgB",
+		"SoundName" : 
+		[
+			"OA_Att1",
+			"OA_ArrowFire"
+		],
+		"TrackPos" : 
+		[
+			43.387001037597656,
+			43.749000549316406
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	}
+}

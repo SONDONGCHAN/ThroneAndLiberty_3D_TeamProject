@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="99. Defines">
+      <UniqueIdentifier>{551df361-c822-4729-b3e3-9905520e4dc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Default">
+      <UniqueIdentifier>{3619ac2f-9307-44d4-94f1-6f300c43fa63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96. ImGui">
+      <UniqueIdentifier>{896f4a75-47db-4ce3-9abc-84bf9ecaaad0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96. ImGui\00. Default">
+      <UniqueIdentifier>{12fb07b9-c47b-42a7-934c-8ff34a588ce5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96. ImGui\01. Manager">
+      <UniqueIdentifier>{91caa7f2-9f4e-456b-8a1c-b319dfe2a0f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MainApp">
+      <UniqueIdentifier>{68ac12e5-6223-42ca-bad7-c50f767de847}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels">
+      <UniqueIdentifier>{65268c97-d37c-41be-a253-143ac40175f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject">
+      <UniqueIdentifier>{c13ec466-7d3d-46b3-9327-d0e74afb7774}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\Camera">
+      <UniqueIdentifier>{f8815b1d-08a8-4b0d-86a0-0e32961042fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96. ImGui\02. Windows">
+      <UniqueIdentifier>{3bd76e24-1afe-412d-aed9-9359e5fd06c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\Test">
+      <UniqueIdentifier>{82d747bf-4e3a-4e77-9257-c8cdddab7432}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\Effect">
+      <UniqueIdentifier>{58da6276-9797-448e-976f-7791479c9956}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\Model">
+      <UniqueIdentifier>{6474c041-e919-474f-ad63-aff4690cfcf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\Effect\EffectMgr">
+      <UniqueIdentifier>{59d89f62-93d8-41a0-846f-d657064e15c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\01. Logo">
+      <UniqueIdentifier>{eea9fef1-5d79-4ee8-af93-33a9815b7b86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\00. Loading">
+      <UniqueIdentifier>{19671989-cd48-481f-a263-9199bd9419a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\00. Loading\Loader">
+      <UniqueIdentifier>{6d8ab60f-7db0-469f-9674-5c936804eead}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\PartObject">
+      <UniqueIdentifier>{a24fe2b1-4646-4f07-bf96-e334a6267c9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\PartObject\Weapon">
+      <UniqueIdentifier>{f4291351-252b-4259-bef5-b1015c5be75b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_Effect.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ImGuiMgr.h">
+      <Filter>96. ImGui\01. Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MainApp.h">
+      <Filter>00. MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_Defines.h">
+      <Filter>99. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelLogo.h">
+      <Filter>01. Levels\01. Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CameraFree.h">
+      <Filter>02. GameObject\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui.h">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui_impl_dx11.h">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui_impl_win32.h">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui_internal.h">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imstb_rectpack.h">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imstb_textedit.h">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imstb_truetype.h">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\WindowMesh.h">
+      <Filter>96. ImGui\02. Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TestModel.h">
+      <Filter>02. GameObject\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect.h">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EffectMesh.h">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EffectTexture.h">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\WindowPlay.h">
+      <Filter>96. ImGui\02. Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\WindowModel.h">
+      <Filter>96. ImGui\02. Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AnimModel.h">
+      <Filter>02. GameObject\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EffectMgr.h">
+      <Filter>02. GameObject\Effect\EffectMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelLoading.h">
+      <Filter>01. Levels\00. Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Loader.h">
+      <Filter>01. Levels\00. Loading\Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TestEffectMesh.h">
+      <Filter>02. GameObject\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\WindowParticle.h">
+      <Filter>96. ImGui\02. Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TestParticle.h">
+      <Filter>02. GameObject\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ParticleSystem.h">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EffectGroup.h">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Weapon.h">
+      <Filter>02. GameObject\PartObject\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PartObject.h">
+      <Filter>02. GameObject\PartObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AnimEffect.h">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+    <Image Include="Tool_Effect.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool_Effect.rc">
+      <Filter>98. Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tool_Effect.cpp">
+      <Filter>98. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ImGuiMgr.cpp">
+      <Filter>96. ImGui\01. Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MainApp.cpp">
+      <Filter>00. MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelLogo.cpp">
+      <Filter>01. Levels\01. Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CameraFree.cpp">
+      <Filter>02. GameObject\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui.cpp">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_demo.cpp">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_draw.cpp">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_impl_dx11.cpp">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_impl_win32.cpp">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_tables.cpp">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_widgets.cpp">
+      <Filter>96. ImGui\00. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\WindowMesh.cpp">
+      <Filter>96. ImGui\02. Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TestModel.cpp">
+      <Filter>02. GameObject\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect.cpp">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EffectMesh.cpp">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EffectTexture.cpp">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\WindowPlay.cpp">
+      <Filter>96. ImGui\02. Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\WindowModel.cpp">
+      <Filter>96. ImGui\02. Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\AnimModel.cpp">
+      <Filter>02. GameObject\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EffectMgr.cpp">
+      <Filter>02. GameObject\Effect\EffectMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelLoading.cpp">
+      <Filter>01. Levels\00. Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Loader.cpp">
+      <Filter>01. Levels\00. Loading\Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TestEffectMesh.cpp">
+      <Filter>02. GameObject\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\WindowParticle.cpp">
+      <Filter>96. ImGui\02. Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TestParticle.cpp">
+      <Filter>02. GameObject\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ParticleSystem.cpp">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EffectGroup.cpp">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Weapon.cpp">
+      <Filter>02. GameObject\PartObject\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PartObject.cpp">
+      <Filter>02. GameObject\PartObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\AnimEffect.cpp">
+      <Filter>02. GameObject\Effect</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_Deferred.hlsl" />
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_EffectMesh.hlsl" />
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_HDR.hlsl" />
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_UI.hlsl" />
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxAnim.hlsl" />
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxMesh.hlsl" />
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxNorTex.hlsl" />
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPointInstance.hlsl" />
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPosTex.hlsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Bin\ShaderFiles\Shader_Defines.hlsli" />
+  </ItemGroup>
+</Project>

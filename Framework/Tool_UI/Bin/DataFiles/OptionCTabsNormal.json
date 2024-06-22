@@ -1,0 +1,87 @@
+{
+	"OptionCTabsNormal" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				160.0,
+				160.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					-260.0,
+					130.0
+				],
+				"Scale" : 
+				[
+					160.0,
+					40.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					-260.0,
+					80.0
+				],
+				"Scale" : 
+				[
+					160.0,
+					40.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_SubTab_S_UnCheck"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "OptionCTab0",
+			"UIType" : 12,
+			"UIZOrder" : 0.2800000011920929
+		}
+	}
+}

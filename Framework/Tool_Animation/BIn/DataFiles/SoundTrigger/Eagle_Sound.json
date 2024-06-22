@@ -1,0 +1,326 @@
+{
+	"0" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_Base_S_Act_GrowUp_LvUp",
+		"SoundName" : 
+		[
+			"Player_Eagle_Loar"
+		],
+		"TrackPos" : 
+		[
+			37.4739990234375
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"10" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Fast_R_Start",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_3",
+			"Player_Eagle_Wing_3"
+		],
+		"TrackPos" : 
+		[
+			6.0170001983642578,
+			20.197000503540039
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"11" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Fast_to_Normal",
+		"SoundName" : 
+		[
+			"Player_Eagle_Fast_To_Normal"
+		],
+		"TrackPos" : 
+		[
+			3.5869998931884766
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"12" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_FastB",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_1",
+			"Player_Eagle_Wing_1",
+			"Player_Eagle_Wing_1"
+		],
+		"TrackPos" : 
+		[
+			8.310999870300293,
+			22.694000244140625,
+			41.308998107910156
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5,
+			0.5
+		]
+	},
+	"13" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_FastB_L",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_1",
+			"Player_Eagle_Wing_1"
+		],
+		"TrackPos" : 
+		[
+			8.3950004577636719,
+			22.811000823974609
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"14" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_FastB_R",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_1",
+			"Player_Eagle_Wing_1"
+		],
+		"TrackPos" : 
+		[
+			8.175999641418457,
+			22.375
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"18" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Land_Loop_Move",
+		"SoundName" : 
+		[
+			"Player_Eagle_to_Human"
+		],
+		"TrackPos" : 
+		[
+			4.7410001754760742
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"2" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Dive_Land",
+		"SoundName" : 
+		[
+			"Player_Eagle_to_Human"
+		],
+		"TrackPos" : 
+		[
+			0.25099998712539673
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"21" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Normal_L_Start",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_3"
+		],
+		"TrackPos" : 
+		[
+			8.430999755859375
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"23" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Normal_R_Start",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_3"
+		],
+		"TrackPos" : 
+		[
+			8.3000001907348633
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"25" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Normal_to_Dive",
+		"SoundName" : 
+		[
+			"Player_Eagle_Normal_To_Fast"
+		],
+		"TrackPos" : 
+		[
+			3.6779999732971191
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"26" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Normal_to_Fast",
+		"SoundName" : 
+		[
+			"Player_Eagle_Normal_To_Fast",
+			"Player_Eagle_Loar"
+		],
+		"TrackPos" : 
+		[
+			4.2810001373291016,
+			5.4019999504089355
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"27" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_NormalB",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_2",
+			"Player_Eagle_Wing_2"
+		],
+		"TrackPos" : 
+		[
+			10.479999542236328,
+			28.518999099731445
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"28" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_NormalB_L",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_2",
+			"Player_Eagle_Wing_2"
+		],
+		"TrackPos" : 
+		[
+			10.425000190734863,
+			28.145000457763672
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"29" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_NormalB_R",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_2",
+			"Player_Eagle_Wing_2"
+		],
+		"TrackPos" : 
+		[
+			10.692999839782715,
+			27.98900032043457
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"31" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_UISelect_S",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_4",
+			"Player_Eagle_Wing_4"
+		],
+		"TrackPos" : 
+		[
+			10.050000190734863,
+			27.91200065612793
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"5" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Dive_to_Normal",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_4",
+			"Player_Eagle_Wing_4"
+		],
+		"TrackPos" : 
+		[
+			4.8810000419616699,
+			17.826000213623047
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"8" : 
+	{
+		"AnimName" : "T_GLD_Eagle_S_SK.ao|T_GLD_Eagle_S_Mov_Gliding_Fast_L_Start",
+		"SoundName" : 
+		[
+			"Player_Eagle_Wing_3",
+			"Player_Eagle_Wing_3"
+		],
+		"TrackPos" : 
+		[
+			6.3810000419616699,
+			20.797000885009766
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	}
+}

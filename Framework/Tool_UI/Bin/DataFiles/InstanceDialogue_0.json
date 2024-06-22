@@ -1,0 +1,245 @@
+{
+	"Dialogue": {
+		"Children": {
+			"NumChildren": 0
+		},
+		"InstanceDesc": {
+			"Center": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color": [
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration": 0.0,
+			"IsLoop": false,
+			"LifeTime": [
+				0.0,
+				0.0
+			],
+			"Pivot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size": [
+				400.0,
+				400.0
+			],
+			"SizeY": 100.0,
+			"Speed": [
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues": {
+			"InstanceValue0": {
+				"InstancePos": [
+					0.0,
+					-250.0
+				],
+				"InstanceSize": [
+					400.0,
+					100.0
+				]
+			},
+			"InstanceValue1": {
+				"InstancePos": [
+					0.0,
+					-200.0
+				],
+				"InstanceSize": [
+					412.0,
+					9.0
+				]
+			},
+			"InstanceValue2": {
+				"InstancePos": [
+					250.0,
+					-178.0
+				],
+				"InstanceSize": [
+					189.0,
+					67.370002746582031
+				]
+			},
+			"InstanceValue3": {
+				"InstancePos": [
+					250.0,
+					-190.0
+				],
+				"InstanceSize": [
+					189.0,
+					44.0
+				]
+			},
+			"InstanceValue4": {
+				"InstancePos": [
+					200.0,
+					-185.0
+				],
+				"InstanceSize": [
+					16.0,
+					16.0
+				]
+			},
+			"InstanceValue5": {
+				"InstancePos": [
+					175.0,
+					-185.0
+				],
+				"InstanceSize": [
+					36.0,
+					36.0
+				]
+			},
+			"InstanceValue6": {
+				"InstancePos": [
+					0.0,
+					-182.0
+				],
+				"InstanceSize": [
+					24.0,
+					24.0
+				]
+			},
+			"InstanceValue7": {
+				"InstancePos": [
+					0.0,
+					-230.0
+				],
+				"InstanceSize": [
+					24.0,
+					24.0
+				]
+			},
+			"InstanceValue8": {
+				"InstancePos": [
+					223.0,
+					-185.0
+				],
+				"InstanceSize": [
+					16.0,
+					16.0
+				]
+			}
+		},
+		"SRT": {
+			"Pos": [
+				223.0,
+				-185.0
+			],
+			"Scale": [
+				400.0,
+				100.0
+			]
+		},
+		"Textures": {
+			"Diffuse": [
+				"Tex_Common_Title_DecoBack_Bottom", // Content BG
+				"Tex_Dialouge_Name_TitleLine", // TitleLine
+				"Tex_Common_ListFocus", // InteractionBG0
+				"Tex_MainMenu_TopListHover_Center", // InteractionBG1
+				"Tex_HUD_Panel_Close_Hover", // InteractionArrow
+				"Key_Alphabet_F", // InteractionKey
+				"Key_Alphabet_F", // DialogueContent
+				"Key_Alphabet_F", // DialogueInteractionText
+				"Key_Alphabet_F" // DialogueTargetName
+			]
+		},
+		"UIDesc": {
+			"UIDiscardAlpha": 0.0,
+			"UIIsMasked": false,
+			"UIIsNoised": false,
+			"UILayer": 1,
+			"UIPassIndex": 10,
+			"UISlotType": 6,
+			"UITag": "Dialogue",
+			"UITexType": 8,
+			"UIType": 49,
+			"UIZOrder": 0.18999999761581421
+		}
+	},
+	"InstanceDialogue_0": {
+		"Children": {
+			"ChildrenTag": [
+				"Dialogue"
+			],
+			"NumChildren": 1
+		},
+		"InstanceDesc": {
+			"Center": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color": [
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration": 0.0,
+			"IsLoop": false,
+			"LifeTime": [
+				0.0,
+				0.0
+			],
+			"Pivot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size": [
+				48.0,
+				48.0
+			],
+			"SizeY": 48.0,
+			"Speed": [
+				0.0,
+				0.0
+			]
+		},
+		"SRT": {
+			"Pos": [
+				0.0,
+				0.0
+			],
+			"Scale": [
+				48.0,
+				48.0
+			]
+		},
+		"Textures": {
+			"Diffuse": [
+				"TEX_IconBox_BTN_BG_None_Normal"
+			]
+		},
+		"UIDesc": {
+			"UIDiscardAlpha": 0.10000000149011612,
+			"UIIsMasked": false,
+			"UIIsNoised": false,
+			"UILayer": 1,
+			"UIPassIndex": 7,
+			"UISlotType": 6,
+			"UITag": "DialoguePanel",
+			"UITexType": 0,
+			"UIType": 11,
+			"UIZOrder": 0.20999999344348907
+		}
+	}
+}

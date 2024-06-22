@@ -1,0 +1,74 @@
+{
+	"26" : 
+	{
+		"AnimName" : "M_LivingArmor_Soldier_SK.ao|M_LivingArmor_Soldier_SkdmgB",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.5,
+				1.6000000238418579
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.7000000476837158,
+					2.5,
+					2.2000000476837158
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 24.461000442504883,
+			"StartPos" : 23.395000457763672
+		}
+	},
+	"27" : 
+	{
+		"AnimName" : "M_LivingArmor_Soldier_SK.ao|M_LivingArmor_Soldier_SkdmgC",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.5,
+				1.6000000238418579
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					1.7999999523162842,
+					1.0,
+					1.0
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 31.566999435424805,
+			"StartPos" : 28.576000213623047
+		}
+	}
+}

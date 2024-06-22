@@ -1,0 +1,139 @@
+{
+	"CraftBSlots" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				290.0,
+				290.0
+			],
+			"SizeY" : 74.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					-342.0,
+					192.0
+				],
+				"Scale" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					-342.0,
+					124.0
+				],
+				"Scale" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					-342.0,
+					56.0
+				],
+				"Scale" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					-342.0,
+					-12.0
+				],
+				"Scale" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"SRT4" : 
+			{
+				"Pos" : 
+				[
+					-342.0,
+					-80.0
+				],
+				"Scale" : 
+				[
+					290.0,
+					74.0
+				]
+			},
+			"SRT5" : 
+			{
+				"Pos" : 
+				[
+					-342.0,
+					-148.0
+				],
+				"Scale" : 
+				[
+					290.0,
+					74.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_Table_Back"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "CraftBSlotBG0",
+			"UIType" : 12,
+			"UIZOrder" : 0.28999999165534973
+		}
+	}
+}

@@ -1,0 +1,599 @@
+{
+	"245" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_ST_Skl_S_CounterMove_ActionSkill",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 32,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.25,
+				1.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.0,
+					1.5,
+					1.0
+				]
+			},
+			"TargetFlag" : 14336,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 61.929000854492188,
+			"StartPos" : 2.6619999408721924
+		}
+	},
+	"360" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_CM_SW2_DashAttack",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				1.7000000476837158
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					1.0,
+					2.0,
+					3.0
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 12.822999954223633,
+			"StartPos" : 4.5560002326965332
+		}
+	},
+	"369" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_ActionSkill",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 32,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.25,
+				1.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.0,
+					1.5,
+					1.0
+				]
+			},
+			"TargetFlag" : 14336,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 27.610000610351562,
+			"StartPos" : 1.3509999513626099
+		}
+	},
+	"370" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_ActionSkill_ContextSkill",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				2.0,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					20.0,
+					5.0,
+					20.0
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 52.219001770019531,
+			"StartPos" : 41.830001831054688
+		}
+	},
+	"375" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_BasicAttack_1",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				1.25
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.0,
+					2.0,
+					2.5
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 9.8809995651245117,
+			"StartPos" : 7.5789999961853027
+		}
+	},
+	"376" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_BasicAttack_2",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				1.25
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.0,
+					1.5,
+					2.5
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 9.7220001220703125,
+			"StartPos" : 6.689000129699707
+		}
+	},
+	"377" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_BasicAttack_3",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.5,
+				1.25
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					3.0,
+					3.0,
+					2.5
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 12.546999931335449,
+			"StartPos" : 10.482999801635742
+		}
+	},
+	"389" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_GaiaCrash_Legend",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				4.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					4.0,
+					2.0,
+					8.0
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 38.2239990234375,
+			"StartPos" : 29.556999206542969
+		}
+	},
+	"394" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_MainAttack",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				1.25
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.5,
+					2.0,
+					2.5
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 6.7059998512268066,
+			"StartPos" : 2.4539999961853027
+		}
+	},
+	"395" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_MainAttack2",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				1.25
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.5,
+					2.0,
+					2.5
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 7.3810000419616699,
+			"StartPos" : 4.0139999389648438
+		}
+	},
+	"397" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_MainAttack3",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				1.5
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.5,
+					2.0,
+					3.0
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 12.048000335693359,
+			"StartPos" : 6.2859997749328613
+		}
+	},
+	"403" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_PowerAttack",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.25,
+				1.5
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.0,
+					2.5,
+					3.0
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 31.687000274658203,
+			"StartPos" : 27.559000015258789
+		}
+	},
+	"405" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_SpinAttack_1",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"SphereRadious" : 2.3999998569488525
+			},
+			"TargetFlag" : 1024,
+			"Type" : 2
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 15.277999877929688,
+			"StartPos" : 6.2399997711181641
+		}
+	},
+	"406" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_SpinAttack_2",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"SphereRadious" : 2.3999998569488525
+			},
+			"TargetFlag" : 1024,
+			"Type" : 2
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 12.810000419616699,
+			"StartPos" : 5.0830001831054688
+		}
+	},
+	"407" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_SpinAttack_3",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.0,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"SphereRadious" : 2.4999997615814209
+			},
+			"TargetFlag" : 1024,
+			"Type" : 2
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 23.028999328613281,
+			"StartPos" : 6.439000129699707
+		}
+	},
+	"410" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_SW2_Skl_S_UpperAttack",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 8,
+			"OffSetPos" : 
+			[
+				0.0,
+				2.0,
+				1.5
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.0,
+					4.0,
+					4.0
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 10.47599983215332,
+			"StartPos" : 5.7529997825622559
+		}
+	},
+	"42" : 
+	{
+		"AnimName" : "Armature|P_Hu_M_CR_CR_Act_DefenseAction_Stdalt",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 32,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.25,
+				1.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					2.0,
+					1.5,
+					1.0
+				]
+			},
+			"TargetFlag" : 14336,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 37.823001861572266,
+			"StartPos" : 1.7120000123977661
+		}
+	}
+}

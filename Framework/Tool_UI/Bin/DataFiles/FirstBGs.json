@@ -1,0 +1,100 @@
+{
+	"FirstBGs" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				2000.0,
+				2000.0
+			],
+			"SizeY" : 2000.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					-29.0,
+					-6.0
+				],
+				"Scale" : 
+				[
+					2000.0,
+					2000.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					-29.0,
+					-6.0
+				],
+				"Scale" : 
+				[
+					1280.0,
+					720.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					-9.0,
+					-56.0
+				],
+				"Scale" : 
+				[
+					1280.0,
+					720.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Panel_BG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 12,
+			"UISlotType" : 6,
+			"UITag" : "CraftABGs",
+			"UIType" : 50,
+			"UIZOrder" : 0.31999999284744263
+		}
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"0" : 
+	{
+		"At" : 
+		[
+			21.0,
+			-25.0,
+			308.0
+		],
+		"Eye" : 
+		[
+			21.0,
+			-25.0,
+			312.0
+		],
+		"FadeInfo" : 
+		{
+			"FadeDuration" : 1.0,
+			"FadeFlag" : 1,
+			"FadeTime" : 0.0
+		},
+		"LerpTime" : 1.5,
+		"ShakeInfo" : 
+		{
+			"Duration" : 3.0,
+			"LocDesc" : 
+			{
+				"Amplitude" : 
+				[
+					0.10000000149011612,
+					0.029999999329447746,
+					0.0
+				],
+				"BlendInOut" : 
+				[
+					0.0,
+					0.0
+				],
+				"Frequency" : 
+				[
+					1.5,
+					0.75,
+					0.0
+				],
+				"InOutWeight" : 
+				[
+					1.0,
+					1.0
+				],
+				"ShakeFunc" : 0,
+				"isOffSetRand" : false
+			},
+			"ShakeFlags" : 2,
+			"StartTime" : 0.0
+		}
+	},
+	"1" : 
+	{
+		"At" : 
+		[
+			21.0,
+			-25.0,
+			306.0
+		],
+		"Eye" : 
+		[
+			21.0,
+			-25.0,
+			310.0
+		],
+		"FadeInfo" : 
+		{
+			"FadeDuration" : 0.5,
+			"FadeFlag" : 2,
+			"FadeTime" : 0.99000000953674316
+		},
+		"LerpTime" : 1.5
+	},
+	"2" : 
+	{
+		"At" : 
+		[
+			21.0,
+			-25.0,
+			304.0
+		],
+		"Eye" : 
+		[
+			21.0,
+			-25.0,
+			308.0
+		],
+		"LerpTime" : 0.0
+	}
+}

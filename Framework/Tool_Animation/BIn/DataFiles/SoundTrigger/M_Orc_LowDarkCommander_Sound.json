@@ -1,0 +1,269 @@
+{
+	"26" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkbufA",
+		"SoundName" : 
+		[
+			"DC_FURY"
+		],
+		"TrackPos" : 
+		[
+			26.333999633789062
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"29" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgA.001",
+		"SoundName" : 
+		[
+			"DC_SFX_Swing1"
+		],
+		"TrackPos" : 
+		[
+			0.0
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"31" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgA_2.001",
+		"SoundName" : 
+		[
+			"DC_SFX_Swing2"
+		],
+		"TrackPos" : 
+		[
+			0.0
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"33" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgA_M.001",
+		"SoundName" : 
+		[
+			"DC_SFX_Swing3"
+		],
+		"TrackPos" : 
+		[
+			0.0
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"35" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB.001",
+		"SoundName" : 
+		[
+			"DC_SFX_Swing1"
+		],
+		"TrackPos" : 
+		[
+			0.0
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"37" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB.003",
+		"SoundName" : 
+		[
+			"DC_Dash",
+			"DC_SFX_Swing2"
+		],
+		"TrackPos" : 
+		[
+			0.041999999433755875,
+			0.083999998867511749
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"39" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB.005",
+		"SoundName" : 
+		[
+			"DC_ATT1",
+			"DC_SFX_Swing3"
+		],
+		"TrackPos" : 
+		[
+			0.0,
+			0.23199999332427979
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"41" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB_12.001",
+		"SoundName" : 
+		[
+			"DC_SFX_Swing1"
+		],
+		"TrackPos" : 
+		[
+			0.0
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"43" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB_12.003",
+		"SoundName" : 
+		[
+			"DC_SpecialCombo1",
+			"DC_SFX_Swing2"
+		],
+		"TrackPos" : 
+		[
+			0.0,
+			0.061000000685453415
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"45" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgB_3.001",
+		"SoundName" : 
+		[
+			"DC_ATT1",
+			"DC_SFX_Swing3"
+		],
+		"TrackPos" : 
+		[
+			0.0,
+			0.125
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"46" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgD",
+		"SoundName" : 
+		[
+			"DC_SpecialCombo1",
+			"DC_SFX_Swing1"
+		],
+		"TrackPos" : 
+		[
+			6.0320000648498535,
+			6.0770001411437988
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"48" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgD.002",
+		"SoundName" : 
+		[
+			"DC_SFX_Swing2"
+		],
+		"TrackPos" : 
+		[
+			0.0
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"52" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgD.006",
+		"SoundName" : 
+		[
+			"DC_SpecialCombo2",
+			"DC_SFX_Swing3",
+			"DC_SFX_Smash"
+		],
+		"TrackPos" : 
+		[
+			0.0,
+			0.32199999690055847,
+			9.1680002212524414
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5,
+			0.5
+		]
+	},
+	"53" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkdmgD.007",
+		"SoundName" : 
+		[
+			"DC_ATT1",
+			"DC_SFX_Swing3",
+			"DC_SFX_Quake"
+		],
+		"TrackPos" : 
+		[
+			10.314999580383301,
+			10.777999877929688,
+			18.047000885009766
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5,
+			0.5
+		]
+	},
+	"55" : 
+	{
+		"AnimName" : "M_Orc_LowDarkCommander_SK.ao|M_Orc_LowDarkCommander_SkmovAE",
+		"SoundName" : 
+		[
+			"DC_Dash"
+		],
+		"TrackPos" : 
+		[
+			0.0
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	}
+}

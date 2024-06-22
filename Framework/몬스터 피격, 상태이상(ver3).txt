@@ -1,0 +1,80 @@
+
+@ 일반 피격 있으면 넣고, 없으면 짧은 경직 으로 대체.
+@ 감전 상태이상 추후에 넣을 예정. 이거 고려해서 하면 좋을듯.
+@ Projectile도 아직 없지만, 크로스보우와 스태프에서 넣을 예정.
+@ [ 일반피격 < 짧은경직 < 긴경직 < 스턴 < 감전 < 넘어뜨리기 ] 순서로 강한 판정.
+@ 강한 판정의 상태이상이 적용 중일떄, 이 판정보다 약한판정의 공격은 데미지만 들어오고 상태이상은 변하지 않게 
+@ 더 강한 판정의 상태이상이 피격되면, 상태이상 변경
+
+기술명 : 		상태이상,		MyCol,				TargetCol,			_strShapeTag 순서
+
+[양손검]				
+
+기본 콤보 1 :	일반피격,		COL_PLAYERWEAPON,		COL_MONSTER 		Armature|P_Hu_M_SW2_Skl_S_BasicAttack_1	5
+기본 콤보 2 : 	일반피격,		COL_PLAYERWEAPON,		COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_BasicAttack_2	5
+기본 콤보 3 : 	일반피격,		COL_PLAYERWEAPON,		COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_BasicAttack_3	5
+기본 콤보 4 : 	넘어뜨리기,	COL_PLAYERWEAPON,		COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_PowerAttack		10
+
+용맹한 난타 1 :	일반피격, 		COL_PLAYERSKILL,			COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_MainAttack	7
+용맹한 난타 2 :	일반피격, 		COL_PLAYERSKILL,			COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_MainAttack2	7
+용맹한 난타 3 :	짧은경직, 		COL_PLAYERSKILL,			COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_MainAttack3	11
+
+쐐기 돌진 : 	짧은경직, 		COL_PLAYERSKILL,			COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_CM_SW2_DashAttack	10
+
+대지 가르기 : 	스턴, 		COL_PLAYERSKILL,			COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_GaiaCrash_Legend	25
+
+승천 베기 : 	넘어뜨리기, 	COL_PLAYERSKILL,			COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_UpperAttack		20
+
+섬멸 회오리 1 :  	짧은경직,  	COL_PLAYERSKILL,			COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_SpinAttack_1		6
+섬멸 회오리 2 :  	짧은경직,  	COL_PLAYERSKILL,			COL_MONSTER,		Armature|P_Hu_M_SW2_Skl_S_SpinAttack_2		6
+섬멸 회오리 3 :  	짧은경직,  	COL_PLAYERSKILL,			COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_SpinAttack_3		6
+(회오리는 1-2-3-1-2 순으로 재생)
+
+필살기 	 :  	넘어뜨리기,	COL_PLAYERSKILL,			COL_MONSTER, 		Armature|P_Hu_M_SW2_Skl_S_ActionSkill_ContextSkill	100
+
+[크로스보우]
+
+@ 크로스 보우는 전부 PlayerProjectile로 처리했음
+
+MyCol : COL_PLAYERPROJECTILE
+TargetCol : COL_MONSTER
+
+상태이상 : _ColData에서 PlayerProjectile 객체포인터 받아서 GetAbnormal()로 처리
+
+{ PlayerProjAbnormal 종류 }
+PLAYER_PJ_A_NORMAL	// 일반 피격
+PLAYER_PJ_A_STIFF_SHORT	// 짧은 경직
+PLAYER_PJ_A_STIFF_LONG	// 긴 경직
+PLAYER_PJ_A_STUN,		// 기절
+PLAYER_PJ_A_SHOCK	// 감전
+PLAYER_PJ_A_DOWN	// 넘어뜨리기
+
+기본콤보 1 	일반 피격 		Player_Arrow_Basic	-> 5
+기본콤보 2 	일반 피격		Player_Arrow_Basic
+기본콤보 3 	일반 피격 		Player_Arrow_Basic
+기본콤보 4 	짧은 경직 		Player_Arrow_Basic	-> 상태이상 받아와서 처리하기
+
+록온 기본콤보 1	일반 피격 		Player_Arrow_Basic
+록온 기본콤보 2 	일반 피격 		Player_Arrow_Basic
+록온 기본콤보 3 	일반 피격 		Player_Arrow_Basic
+록온 기본콤보 4 	일반 피격 		Player_Arrow_Basic
+
+스킬1 		일반 피격x6 	Player_Arrow_Basic
+스킬2 		일반 피격 일곱갈래 	Player_Arrow_Basic
+스킬3 버프 추가타	일반 피격		Player_Arrow_Curve
+스킬4 		감전		Player_Arrow_Electric
+스킬5 		일반 피격		Player_Arrow_FuriousFire
+
+[스태프]
+
+@상태이상은 크로스 보우와 동일
+
+기본콤보 1 	일반 피격		Player_Magic_Bullet	8
+기본콤보 2 	일반 피격		Player_Magic_Bullet	8
+기본콤보 3 	짧은 경직		Player_Magic_Bullet	8
+
+스킬1 		짧은 경직 x 5	Player_Spell_FireBall_Explosion	5
+스킬2		짧은 경직		Player_Spell_IceSpear				10
+스킬3 		스턴		Player_Spell_FireBlast				20
+스킬4 		감전		Player_Spell_LightnigJudgment		30
+스킬5 		넘어뜨리기 	Player_Spell_Meteor			50

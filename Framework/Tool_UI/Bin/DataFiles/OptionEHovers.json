@@ -1,0 +1,152 @@
+{
+	"OptionEHovers" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				152.0,
+				152.0
+			],
+			"SizeY" : 69.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					-218.0,
+					192.0
+				],
+				"Scale" : 
+				[
+					152.0,
+					69.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					-71.0,
+					192.0
+				],
+				"Scale" : 
+				[
+					152.0,
+					69.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					77.0,
+					192.0
+				],
+				"Scale" : 
+				[
+					152.0,
+					69.0
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					224.0,
+					192.0
+				],
+				"Scale" : 
+				[
+					152.0,
+					69.0
+				]
+			},
+			"SRT4" : 
+			{
+				"Pos" : 
+				[
+					-260.0,
+					132.0
+				],
+				"Scale" : 
+				[
+					163.0,
+					59.5
+				]
+			},
+			"SRT5" : 
+			{
+				"Pos" : 
+				[
+					-260.0,
+					82.0
+				],
+				"Scale" : 
+				[
+					163.0,
+					59.5
+				]
+			},
+			"SRT6" : 
+			{
+				"Pos" : 
+				[
+					345.0,
+					255.0
+				],
+				"Scale" : 
+				[
+					42.0,
+					42.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Lobby_WorldServer_BTN_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "OptionEHovers",
+			"UIType" : 64,
+			"UIZOrder" : 0.25999999046325684
+		}
+	}
+}

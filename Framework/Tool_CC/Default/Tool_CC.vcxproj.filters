@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="98.Default">
+      <UniqueIdentifier>{59b94e78-e7bc-4e24-87e0-cd437b2a5018}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Defines">
+      <UniqueIdentifier>{c6da5fc4-4d3b-4dc3-b968-052d71a159cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.MainTool">
+      <UniqueIdentifier>{3fb5c651-dd27-4a4d-a4d4-bd20acc4dcdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Level">
+      <UniqueIdentifier>{1520cf20-8ec8-4f71-868b-7f389e176236}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject">
+      <UniqueIdentifier>{aba0b9a5-cee5-4a28-9ef6-0405625e2c3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\00.Camera">
+      <UniqueIdentifier>{890f35cb-65ff-4cf4-b221-8699b2b9348e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\01.Map">
+      <UniqueIdentifier>{b51c7acc-013e-4149-a317-a9da74f0af21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97.ShaderFiles">
+      <UniqueIdentifier>{04fba3d4-1b7f-4a92-b3d1-e904b06bf2a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\02.ColliderFrame">
+      <UniqueIdentifier>{3ef4b9e6-7e16-47e0-93e1-5163d4a79417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96.ImGui">
+      <UniqueIdentifier>{bc7fbac5-eabd-4fef-85ec-f539b4ffeb4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96.ImGui\header">
+      <UniqueIdentifier>{1994abc0-20be-4043-bd06-ec26067019b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96.ImGui\cpp">
+      <UniqueIdentifier>{c254e37f-a024-4d8c-80f7-996f213f54cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\01.Map\EnvObj">
+      <UniqueIdentifier>{b07d7a01-0c45-4d35-9161-0f4cd9be3560}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\01.Map\Terrain">
+      <UniqueIdentifier>{53f1e30b-0455-4f31-aa65-1b61b432d643}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\03.TestObj">
+      <UniqueIdentifier>{9a0c4d15-f92a-4a6a-a96f-1954f307230f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\04.CameraKeyFrame">
+      <UniqueIdentifier>{14b4ba7a-146b-47c3-8bfa-49d8a29b6f29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_CC.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Tool_CC_Define.h">
+      <Filter>99.Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MainTool.h">
+      <Filter>00.MainTool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelEditor.h">
+      <Filter>01.Level</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Camera_Direction.h">
+      <Filter>02.GameObject\00.Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ColliderFrame.h">
+      <Filter>02.GameObject\02.ColliderFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui_impl_dx11.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui_impl_win32.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui_internal.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui_stdlib.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\ImGuizmo.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imstb_rectpack.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imstb_textedit.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imstb_truetype.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imconfig.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGui\imgui.h">
+      <Filter>96.ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Map.h">
+      <Filter>02.GameObject\01.Map</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TestObject.h">
+      <Filter>02.GameObject\03.TestObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Terrain.h">
+      <Filter>02.GameObject\01.Map\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EnvironmentObject.h">
+      <Filter>02.GameObject\01.Map\EnvObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CameraKeyFrame.h">
+      <Filter>02.GameObject\04.CameraKeyFrame</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>98.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool_CC.cpp">
+      <Filter>98.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MainTool.cpp">
+      <Filter>00.MainTool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelEditor.cpp">
+      <Filter>01.Level</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Camera_Direction.cpp">
+      <Filter>02.GameObject\00.Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ColliderFrame.cpp">
+      <Filter>02.GameObject\02.ColliderFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\ImGuizmo.cpp">
+      <Filter>96.ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui.cpp">
+      <Filter>96.ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_demo.cpp">
+      <Filter>96.ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_draw.cpp">
+      <Filter>96.ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_impl_dx11.cpp">
+      <Filter>96.ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_impl_win32.cpp">
+      <Filter>96.ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_stdlib.cpp">
+      <Filter>96.ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_tables.cpp">
+      <Filter>96.ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGui\imgui_widgets.cpp">
+      <Filter>96.ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Map.cpp">
+      <Filter>02.GameObject\01.Map</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EnvironmentObject.cpp">
+      <Filter>02.GameObject\01.Map\EnvObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Terrain.cpp">
+      <Filter>02.GameObject\01.Map\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TestObject.cpp">
+      <Filter>02.GameObject\03.TestObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CameraKeyFrame.cpp">
+      <Filter>02.GameObject\04.CameraKeyFrame</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>98.Default</Filter>
+    </Image>
+    <Image Include="Tool_CC.ico">
+      <Filter>98.Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool_CC.rc">
+      <Filter>98.Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

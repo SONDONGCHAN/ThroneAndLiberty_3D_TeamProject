@@ -1,0 +1,74 @@
+{
+	"58" : 
+	{
+		"AnimName" : "M_Orc_Shaman_SK.ao|M_Orc_Shaman_USkdmgA",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 2048,
+			"OffSetPos" : 
+			[
+				0.0,
+				1.5,
+				1.5
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					4.0,
+					3.0,
+					2.5
+				]
+			},
+			"TargetFlag" : 34,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 31.201999664306641,
+			"StartPos" : 28.444999694824219
+		}
+	},
+	"59" : 
+	{
+		"AnimName" : "M_Orc_Shaman_SK.ao|M_Orc_Shaman_USkdmgB",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 4096,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"BoxSize" : 
+				[
+					50.0,
+					100.0,
+					50.0
+				]
+			},
+			"TargetFlag" : 1024,
+			"Type" : 1
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 71.555999755859375,
+			"StartPos" : 62.21099853515625
+		}
+	}
+}

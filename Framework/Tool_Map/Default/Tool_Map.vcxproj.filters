@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00. MainApp">
+      <UniqueIdentifier>{282f155f-d106-4241-a7fc-d9603cf6553a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Tools">
+      <UniqueIdentifier>{3156adb6-56d6-4728-845f-9ff771e1960a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Tools\00. Manager">
+      <UniqueIdentifier>{294e6d45-48c0-4452-bf76-8d2ef63725d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Levels">
+      <UniqueIdentifier>{eb04d43b-8cca-463d-ba7e-a25aa7c34ed8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Levels\00. Loading">
+      <UniqueIdentifier>{428f36dd-150c-468b-83d8-c2f4b65c22e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Levels\01. Atelier">
+      <UniqueIdentifier>{32897d8e-8ad7-4229-b524-83cad3f9e154}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Objects">
+      <UniqueIdentifier>{8ef58f59-353e-4dea-b523-1aaa7fb2ae2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Default">
+      <UniqueIdentifier>{5a9b7071-5125-4c7b-bc2b-9a4a047cbf6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Defines">
+      <UniqueIdentifier>{8264ea8c-baae-4b38-b2e7-1d95ac9b1ff3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Default\ImGui">
+      <UniqueIdentifier>{87101d16-ce32-42c7-bcae-9cbcd625ab0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Levels\00. Loading\Loader">
+      <UniqueIdentifier>{1b0e5cb2-13e4-4ede-956c-1476832595f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Objects\01. CameraFree">
+      <UniqueIdentifier>{8447b5a5-6d15-4e55-97f8-5bd6e16c1709}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Tools\02. TerrainTool">
+      <UniqueIdentifier>{828f6283-e032-4c07-8335-0f0c4db42d4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Tools\03. ObjectTool">
+      <UniqueIdentifier>{5d9b2d7a-8eb2-4106-87fa-0b9590d5486a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Tools\01. MapTool">
+      <UniqueIdentifier>{4d87663b-d62a-47bc-b199-be8c3368fa2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Objects\01. Terrain">
+      <UniqueIdentifier>{0ef497e9-1c57-4066-9919-36b5b34e051a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Objects\02. EnvironmentObject">
+      <UniqueIdentifier>{7ccb038f-d512-43a4-9918-37c90af5eb82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Objects\02. EnvironmentObject\00. GroupObject">
+      <UniqueIdentifier>{a234a7e7-ae93-43bc-afd5-7f7acd4c4dcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Objects\03. Area">
+      <UniqueIdentifier>{738ed788-c564-45b9-b95f-21ebf5c348b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Objects\04. Map">
+      <UniqueIdentifier>{fa8dad94-62ac-4de6-9370-2f4075a1b850}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_Map.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MainApp.h">
+      <Filter>00. MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Tool_Defines.h">
+      <Filter>99. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Tool_Macro.h">
+      <Filter>99. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Loader.h">
+      <Filter>02. Levels\00. Loading\Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelLoading.h">
+      <Filter>02. Levels\00. Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelAtelier.h">
+      <Filter>02. Levels\01. Atelier</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMgr.h">
+      <Filter>01. Tools\00. Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TerrainTool.h">
+      <Filter>01. Tools\02. TerrainTool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CameraFree.h">
+      <Filter>03. Objects\01. CameraFree</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\imconfig.h">
+      <Filter>98. Default\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\imgui.h">
+      <Filter>98. Default\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\imgui_impl_dx11.h">
+      <Filter>98. Default\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\imgui_impl_win32.h">
+      <Filter>98. Default\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\imgui_internal.h">
+      <Filter>98. Default\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ImGuizmo.h">
+      <Filter>98. Default\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\imstb_rectpack.h">
+      <Filter>98. Default\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\imstb_textedit.h">
+      <Filter>98. Default\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\imstb_truetype.h">
+      <Filter>98. Default\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ObjectTool.h">
+      <Filter>01. Tools\03. ObjectTool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Terrain.h">
+      <Filter>03. Objects\01. Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EnvironmentObject.h">
+      <Filter>03. Objects\02. EnvironmentObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MapTool.h">
+      <Filter>01. Tools\01. MapTool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\GroupObject.h">
+      <Filter>03. Objects\02. EnvironmentObject\00. GroupObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Area.h">
+      <Filter>03. Objects\03. Area</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Map.h">
+      <Filter>03. Objects\04. Map</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+    <Image Include="Tool_Map.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tool_Map.cpp">
+      <Filter>98. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MainApp.cpp">
+      <Filter>00. MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Loader.cpp">
+      <Filter>02. Levels\00. Loading\Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelLoading.cpp">
+      <Filter>02. Levels\00. Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelAtelier.cpp">
+      <Filter>02. Levels\01. Atelier</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolMgr.cpp">
+      <Filter>01. Tools\00. Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TerrainTool.cpp">
+      <Filter>01. Tools\02. TerrainTool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CameraFree.cpp">
+      <Filter>03. Objects\01. CameraFree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\imgui.cpp">
+      <Filter>98. Default\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\imgui_demo.cpp">
+      <Filter>98. Default\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\imgui_draw.cpp">
+      <Filter>98. Default\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\imgui_impl_dx11.cpp">
+      <Filter>98. Default\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\imgui_impl_win32.cpp">
+      <Filter>98. Default\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\imgui_tables.cpp">
+      <Filter>98. Default\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\imgui_widgets.cpp">
+      <Filter>98. Default\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ImGuizmo.cpp">
+      <Filter>98. Default\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ObjectTool.cpp">
+      <Filter>01. Tools\03. ObjectTool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Terrain.cpp">
+      <Filter>03. Objects\01. Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EnvironmentObject.cpp">
+      <Filter>03. Objects\02. EnvironmentObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MapTool.cpp">
+      <Filter>01. Tools\01. MapTool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\GroupObject.cpp">
+      <Filter>03. Objects\02. EnvironmentObject\00. GroupObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Area.cpp">
+      <Filter>03. Objects\03. Area</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Map.cpp">
+      <Filter>03. Objects\04. Map</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool_Map.rc">
+      <Filter>98. Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

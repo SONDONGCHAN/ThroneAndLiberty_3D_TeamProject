@@ -1,0 +1,178 @@
+{
+	"DialogueInstanceInfo" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				400.0,
+				400.0
+			],
+			"SizeY" : 100.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					-250.0
+				],
+				"Scale" : 
+				[
+					400.0,
+					100.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					-200.0
+				],
+				"Scale" : 
+				[
+					412.0,
+					9.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					250.0,
+					-178.0
+				],
+				"Scale" : 
+				[
+					189.0,
+					67.370002746582031
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					250.0,
+					-190.0
+				],
+				"Scale" : 
+				[
+					189.0,
+					44.0
+				]
+			},
+			"SRT4" : 
+			{
+				"Pos" : 
+				[
+					200.0,
+					-185.0
+				],
+				"Scale" : 
+				[
+					16.0,
+					16.0
+				]
+			},
+			"SRT5" : 
+			{
+				"Pos" : 
+				[
+					175.0,
+					-185.0
+				],
+				"Scale" : 
+				[
+					36.0,
+					36.0
+				]
+			},
+			"SRT6" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					-182.0
+				],
+				"Scale" : 
+				[
+					24.0,
+					24.0
+				]
+			},
+			"SRT7" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					-230.0
+				],
+				"Scale" : 
+				[
+					24.0,
+					24.0
+				]
+			},
+			"SRT8" : 
+			{
+				"Pos" : 
+				[
+					223.0,
+					-185.0
+				],
+				"Scale" : 
+				[
+					16.0,
+					16.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Common_Title_DecoBack_Bottom"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "Dialogue",
+			"UIType" : 49,
+			"UIZOrder" : 0.18999999761581421
+		}
+	}
+}

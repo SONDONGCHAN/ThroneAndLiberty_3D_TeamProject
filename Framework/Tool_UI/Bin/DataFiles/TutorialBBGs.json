@@ -1,0 +1,113 @@
+{
+	"TutorialBBGs" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				80.0,
+				80.0
+			],
+			"SizeY" : 29.079999923706055,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					-55.0,
+					60.0
+				],
+				"Scale" : 
+				[
+					80.0,
+					29.079999923706055
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					-77.0,
+					20.0
+				],
+				"Scale" : 
+				[
+					29.079999923706055,
+					29.079999923706055
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					-77.0,
+					-20.0
+				],
+				"Scale" : 
+				[
+					29.079999923706055,
+					29.079999923706055
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					-77.0,
+					-60.0
+				],
+				"Scale" : 
+				[
+					29.079999923706055,
+					29.079999923706055
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Key_Space"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "TutorialBBGs",
+			"UIType" : 68,
+			"UIZOrder" : 0.14000000059604645
+		}
+	}
+}

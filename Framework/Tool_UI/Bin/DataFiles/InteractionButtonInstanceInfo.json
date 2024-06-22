@@ -1,0 +1,112 @@
+{
+	"InteractionButtonInstanceInfo" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				32.0,
+				32.0
+			],
+			"SizeY" : 32.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					0.0
+				],
+				"Scale" : 
+				[
+					32.0,
+					32.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					0.0
+				],
+				"Scale" : 
+				[
+					40.0,
+					40.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					0.0
+				],
+				"Scale" : 
+				[
+					48.0,
+					41.139999389648438
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					0.0
+				],
+				"Scale" : 
+				[
+					24.0,
+					24.0
+				]
+			}
+		},
+		"Textures": {
+			"Diffuse": [
+				"PartyAsist_BackDeco"
+			],
+			"Mask": "FluidCircleBoomFX_spritesheet"
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : true,
+			"UIIsNoised" : false,
+			"UILayer" : 0,
+			"UIPassIndex" : 11,
+			"UISlotType" : 6,
+			"UITag" : "Interaction",
+			"UIType" : 48,
+			"UIZOrder" : 0.18999999761581421
+		}
+	}
+}

@@ -1,0 +1,857 @@
+{
+	"112": {
+		"AnimName": "Armature|P_HU_M_CR_CR_Mov_Run_Fast",
+		"SoundName": [
+			"Player_Step_Sand_2",
+			"Player_Step_Sand_2"
+		],
+		"TrackPos": [
+			2.4001142978668213,
+			11.414999961853027
+		],
+		"Volume": [
+			0.30000007152557373,
+			0.30000007152557373
+		]
+	},
+	"145": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Skl_D_ArmorBreakShot",
+		"SoundName": [
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			11.267000198364258,
+			12.434000015258789
+		],
+		"Volume": [
+			0.5,
+			0.5
+		]
+	},
+	"147": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Skl_S_Shot2",
+		"SoundName": [
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			4.3280000686645508,
+			10.479999542236328
+		],
+		"Volume": [
+			0.5,
+			0.5
+		]
+	},
+	"152": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Skl_D_SlowBindShot",
+		"SoundName": [
+			"Player_CrossBow_Skill4_Start",
+			"Player_CrossBow_Skill4_End"
+		],
+		"TrackPos": [
+			9.5030002593994141,
+			12.362000465393066
+		],
+		"Volume": [
+			0.5,
+			0.5
+		]
+	},
+	"159": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Skl_S_Shot1",
+		"SoundName": [
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			14.199000358581543
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"161": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Skl_S_Shot2",
+		"SoundName": [
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			9.1619997024536133
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"162": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Skl_S_Shot2_M",
+		"SoundName": [
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			8.2679996490478516
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"163": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Skl_S_Shot3",
+		"SoundName": [
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			13.140999794006348
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"164": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Skl_S_Shot3_M",
+		"SoundName": [
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			14.305999755859375
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"165": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Skl_S_SlowBindShot",
+		"SoundName": [
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			24.052999496459961
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"178": {
+		"AnimName": "Armature|P_Hu_M_ST_Abn_stun",
+		"SoundName": [
+			"Player_Hit_Voice_3"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"18": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Abn_CrowdSurfingL",
+		"SoundName": [
+			"Player_Hit_Voice_2"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"193": {
+		"AnimName": "Armature|P_Hu_M_ST_Act_Unsheathe_Lsh",
+		"SoundName": [
+			"Player_Wp_Change_Staff"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.64999997615814209
+		]
+	},
+	"198": {
+		"AnimName": "Armature|P_Hu_M_ST_Mov_jumpE",
+		"SoundName": [
+			"Player_Jump_End"
+		],
+		"TrackPos": [
+			0.69499999284744263
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"206": {
+		"AnimName": "Armature|P_Hu_M_ST_Mov_jumpS",
+		"SoundName": [
+			"Player_Jump_Start"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"207": {
+		"AnimName": "Armature|P_Hu_M_ST_Mov_JumpS_Normal1",
+		"SoundName": [
+			"Player_Jump_Start"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"22": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Abn_KdwnbLoop",
+		"SoundName": [
+			"Player_Hit_Voice_1"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"222": {
+		"AnimName": "Armature|P_Hu_M_ST_Mov_run_Fast",
+		"SoundName": [
+			"Player_Step_Sand_2",
+			"Player_Step_Sand_2"
+		],
+		"TrackPos": [
+			6.3949999809265137,
+			15.319000244140625
+		],
+		"Volume": [
+			0.30000007152557373,
+			0.30000007152557373
+		]
+	},
+	"230": {
+		"AnimName": "Armature|P_Hu_M_ST_Skl_B_IceSpear",
+		"SoundName": [
+			"Player_Staff_Skill_2"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"234": {
+		"AnimName": "Armature|P_Hu_M_ST_Skl_Counter_Move_Fast_Start",
+		"SoundName": [
+			"Player_Rolling_ST"
+		],
+		"TrackPos": [
+			2.0390000343322754
+		],
+		"Volume": [
+			0.40000000596046448
+		]
+	},
+	"237": {
+		"AnimName": "Armature|P_Hu_M_ST_Skl_S_BasicAttack_1",
+		"SoundName": [
+			"Player_Staff_Base_1"
+		],
+		"TrackPos": [
+			14.972000122070312
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"239": {
+		"AnimName": "Armature|P_Hu_M_ST_Skl_S_BasicAttack_2",
+		"SoundName": [
+			"Player_Staff_Base_2"
+		],
+		"TrackPos": [
+			7.0219998359680176
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"240": {
+		"AnimName": "Armature|P_Hu_M_ST_Skl_S_BasicAttack_3",
+		"SoundName": [
+			"Player_Staff_Base_3"
+		],
+		"TrackPos": [
+			14.079999923706055
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"25": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Abn_Kdwnbstart_SLE",
+		"SoundName": [
+			"Player_Hit_Voice_1"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"264": {
+		"AnimName": "Armature|P_Hu_M_ST_Skl_S_WideAreaAttack_3",
+		"SoundName": [
+			"Player_Staff_Skill_1_Start"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.80000001192092896
+		]
+	},
+	"268": {
+		"AnimName": "Armature|P_Hu_M_ST_Skl_S_WideAreaPowerAttack",
+		"SoundName": [
+			"Player_Staff_Skill_5_Start"
+		],
+		"TrackPos": [
+			10.258000373840332
+		],
+		"Volume": [
+			0.69999998807907104
+		]
+	},
+	"274": {
+		"AnimName": "Armature|P_Hu_M_SW2_Abn_Blocked",
+		"SoundName": [
+			"Player_Hit_Voice_2"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"279": {
+		"AnimName": "Armature|P_Hu_M_SW2_Abn_CrowdSurfingL",
+		"SoundName": [
+			"Player_Hit_Voice_2"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"283": {
+		"AnimName": "Armature|P_Hu_M_SW2_Abn_KdwnbLoop",
+		"SoundName": [
+			"Player_Hit_Voice_1"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"286": {
+		"AnimName": "Armature|P_Hu_M_SW2_Abn_Kdwnbstart_SLE",
+		"SoundName": [
+			"Player_Hit_Voice_1"
+		],
+		"TrackPos": [
+			3.0429999828338623
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"294": {
+		"AnimName": "Armature|P_Hu_M_SW2_Abn_Stun",
+		"SoundName": [
+			"Player_Hit_Voice_3"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"313": {
+		"AnimName": "Armature|P_Hu_M_SW2_Act_Unsheathe_Rsh",
+		"SoundName": [
+			"Player_Wp_Change_Sword"
+		],
+		"TrackPos": [
+			5.9809999465942383
+		],
+		"Volume": [
+			0.86000001430511475
+		]
+	},
+	"32": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_Abn_Stun",
+		"SoundName": [
+			"Player_Hit_Voice_3"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"324": {
+		"AnimName": "Armature|P_Hu_M_SW2_Mov_JumpE",
+		"SoundName": [
+			"Player_Jump_End"
+		],
+		"TrackPos": [
+			0.69499999284744263
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"333": {
+		"AnimName": "Armature|P_Hu_M_SW2_Mov_JumpS",
+		"SoundName": [
+			"Player_Jump_Start"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"334": {
+		"AnimName": "Armature|P_Hu_M_SW2_Mov_JumpS_Fast",
+		"SoundName": [
+			"Player_Jump_Start"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"349": {
+		"AnimName": "Armature|P_Hu_M_SW2_Mov_Run_Fast",
+		"SoundName": [
+			"Player_Step_Sand_2",
+			"Player_Step_Sand_2"
+		],
+		"TrackPos": [
+			5.7090001106262207,
+			14.729999542236328
+		],
+		"Volume": [
+			0.30000007152557373,
+			0.30000007152557373
+		]
+	},
+	"360": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_CM_SW2_DashAttack",
+		"SoundName": [
+			"Player_Sword_Skill_2"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"361": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_CM_SW2_Tumbling",
+		"SoundName": [
+			"Player_Rolling_SW_CB"
+		],
+		"TrackPos": [
+			1.812000036239624
+		],
+		"Volume": [
+			0.50999999046325684
+		]
+	},
+	"370": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_ActionSkill_ContextSkill",
+		"SoundName": [
+			"Player_Sword_SupremeSkill_2",
+			"Player_Sword_SupremeSkill_3",
+			"Player_Sword_SupremeSkill_5",
+			"Player_Sword_SupremeSkill_4"
+		],
+		"TrackPos": [
+			31.063999176025391,
+			31.336999893188477,
+			41.132999420166016,
+			42.090000152587891
+		],
+		"Volume": [
+			0.5,
+			0.5,
+			0.5,
+			0.5
+		]
+	},
+	"375": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_BasicAttack_1",
+		"SoundName": [
+			"Player_Sword_Combo_Basic"
+		],
+		"TrackPos": [
+			5.1690001487731934
+		],
+		"Volume": [
+			0.20000000298023224
+		]
+	},
+	"376": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_BasicAttack_2",
+		"SoundName": [
+			"Player_Sword_Combo_Basic"
+		],
+		"TrackPos": [
+			3.7760000228881836
+		],
+		"Volume": [
+			0.20000000298023224
+		]
+	},
+	"377": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_BasicAttack_3",
+		"SoundName": [
+			"Player_Sword_Combo_Basic"
+		],
+		"TrackPos": [
+			8.5030002593994141
+		],
+		"Volume": [
+			0.20000000298023224
+		]
+	},
+	"382": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_DamageReceive",
+		"SoundName": [
+			"Player_Sword_SupremeSkill_1"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.8
+		]
+	},
+	"389": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_GaiaCrash_Legend",
+		"SoundName": [
+			"Player_Sword_Skill_3_Start",
+			"Player_Sword_Skill_3_End"
+		],
+		"TrackPos": [
+			5.7960000038146973,
+			29.575000762939453
+		],
+		"Volume": [
+			0.5,
+			0.5
+		]
+	},
+	"394": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_MainAttack",
+		"SoundName": [
+			"Player_Sword_Skill_1_Basic"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.20000000298023224
+		]
+	},
+	"395": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_MainAttack2",
+		"SoundName": [
+			"Player_Sword_Skill_1_Basic"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.20000000298023224
+		]
+	},
+	"397": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_MainAttack3",
+		"SoundName": [
+			"Player_Sword_Skill_1_Basic",
+			"Player_Sword_Skill_1_Final"
+		],
+		"TrackPos": [
+			0.0,
+			7.3390002250671387
+		],
+		"Volume": [
+			0.20000000298023224,
+			0.30000001192092896
+		]
+	},
+	"403": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_PowerAttack",
+		"SoundName": [
+			"Player_Sword_Combo_Basic",
+			"Player_Sword_Combo_Basic"
+		],
+		"TrackPos": [
+			4.6760001182556152,
+			26.188999176025391
+		],
+		"Volume": [
+			0.20000000298023224,
+			0.30000001192092896
+		]
+	},
+	"405": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_SpinAttack_1",
+		"SoundName": [
+			"Player_Sword_Skill_5_1"
+		],
+		"TrackPos": [
+			5.7870001792907715
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"406": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_SpinAttack_2",
+		"SoundName": [
+			"Player_Sword_Skill_5_2"
+		],
+		"TrackPos": [
+			2.124000072479248
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"407": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_SpinAttack_3",
+		"SoundName": [
+			"Player_Sword_Skill_5_3"
+		],
+		"TrackPos": [
+			6.0370001792907715
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"410": {
+		"AnimName": "Armature|P_Hu_M_SW2_Skl_S_UpperAttack",
+		"SoundName": [
+			"Player_Sword_Skill_4"
+		],
+		"TrackPos": [
+			5.1640000343322754
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"412": {
+		"AnimName": "Armature|P_Hu_M_Und_Act_CM_CR_ActionSkill_Move_N",
+		"SoundName": [
+			"Player_Rolling_SW_CB"
+		],
+		"TrackPos": [
+			3.0929999351501465
+		],
+		"Volume": [
+			0.50999999046325684
+		]
+	},
+	"416": {
+		"AnimName": "Armature|P_Hu_M_Und_Act_Wolf_SmallToMedium_M",
+		"SoundName": [
+			"Player_Step_Stone",
+			"Player_Step_Stone"
+		],
+		"TrackPos": [
+			6.8949999809265137,
+			15.029999732971191
+		],
+		"Volume": [
+			0.05000000074505806,
+			0.05000000074505806
+		]
+	},
+	"425": {
+		"AnimName": "Armature|P_Hu_M_Und_Skl_Wireskill_ALL",
+		"SoundName": [
+			"Player_Rope_Shoot",
+			"Player_Rope_Move",
+			"Player_Rope_Land"
+		],
+		"TrackPos": [
+			2.5250000953674316,
+			15.180999755859375,
+			51.889999389648438
+		],
+		"Volume": [
+			0.5,
+			0.5,
+			0.5
+		]
+	},
+	"56": {
+		"AnimName": "Armature|P_HU_M_CR_CR_Act_Unsheathe_Lwst_Rwst",
+		"SoundName": [
+			"Player_Wp_Change_CrossBow"
+		],
+		"TrackPos": [
+			3.187000036239624
+		],
+		"Volume": [
+			0.64999997615814209
+		]
+	},
+	"64": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_BM_Weapon_Attack3",
+		"SoundName": [
+			"Player_CrossBow_Skill3_Start"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.69999998807907104
+		]
+	},
+	"68": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_D_BasicShot_PowerUp",
+		"SoundName": [
+			"Player_CrossBow_Skill2_Start"
+		],
+		"TrackPos": [
+			6.6020002365112305
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"74": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_D_RapidShot",
+		"SoundName": [
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			5.940000057220459,
+			8.4160003662109375,
+			12.51099967956543,
+			15.081999778747559,
+			19.082000732421875,
+			22.129999160766602
+		],
+		"Volume": [
+			0.5,
+			0.5,
+			0.5,
+			0.5,
+			0.5,
+			0.5
+		]
+	},
+	"81": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_FuriousFire_Loop",
+		"SoundName": [
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic",
+			"Player_CrossBow_Basic"
+		],
+		"TrackPos": [
+			0.12399999797344208,
+			2.5969998836517334,
+			6.2160000801086426,
+			9.5600004196166992,
+			13.270000457763672,
+			15.713000297546387
+		],
+		"Volume": [
+			0.5,
+			0.5,
+			0.5,
+			0.5,
+			0.5,
+			0.5
+		]
+	},
+	"82": {
+		"AnimName": "Armature|P_Hu_M_CR_CR_FuriousFire_Start",
+		"SoundName": [
+			"Player_CrossBow_Skill5_Start"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.80000001192092896
+		]
+	},
+	"88": {
+		"AnimName": "Armature|P_HU_M_CR_CR_Mov_JumpE",
+		"SoundName": [
+			"Player_Jump_End"
+		],
+		"TrackPos": [
+			0.69499999284744263
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"96": {
+		"AnimName": "Armature|P_HU_M_CR_CR_Mov_JumpS",
+		"SoundName": [
+			"Player_Jump_Start"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	},
+	"97": {
+		"AnimName": "Armature|P_HU_M_CR_CR_Mov_JumpS_Fast",
+		"SoundName": [
+			"Player_Jump_Start"
+		],
+		"TrackPos": [
+			0.0
+		],
+		"Volume": [
+			0.5
+		]
+	}
+}

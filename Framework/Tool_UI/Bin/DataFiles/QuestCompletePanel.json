@@ -1,0 +1,337 @@
+{
+	"QuestCompleteInstance" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				100.0,
+				100.0
+			],
+			"SizeY" : 100.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					250.0
+				],
+				"InstanceSize" : 
+				[
+					100.0,
+					100.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					250.0
+				],
+				"InstanceSize" : 
+				[
+					54.0,
+					54.0
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					112.5
+				],
+				"InstanceSize" : 
+				[
+					40.0,
+					40.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					112.5
+				],
+				"InstanceSize" : 
+				[
+					40.0,
+					40.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					235.0
+				],
+				"InstanceSize" : 
+				[
+					426.0,
+					10.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					160.0
+				],
+				"InstanceSize" : 
+				[
+					425.0,
+					150.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					215.0
+				],
+				"InstanceSize" : 
+				[
+					360.0,
+					48.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					195.0
+				],
+				"InstanceSize" : 
+				[
+					360.0,
+					1.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					-60.0,
+					180.0
+				],
+				"InstanceSize" : 
+				[
+					20.0,
+					20.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					60.0,
+					180.0
+				],
+				"InstanceSize" : 
+				[
+					20.0,
+					20.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					155.0
+				],
+				"InstanceSize" : 
+				[
+					20.0,
+					20.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					140.0
+				],
+				"InstanceSize" : 
+				[
+					280.0,
+					3.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				112.5
+			],
+			"Scale" : 
+			[
+				100.0,
+				100.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"IMG_Boutique_circle_Nomal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 14,
+			"UISlotType" : 6,
+			"UITag" : "QuestCompleteInstance",
+			"UITexType" : 8,
+			"UIType" : 58,
+			"UIZOrder" : 0.31999999284744263
+		}
+	},
+	"QuestCompletePanel" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"QuestCompleteInstance"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				50.0,
+				50.0
+			],
+			"SizeY" : 50.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				50.0,
+				50.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Nameplate_SlotL_Target"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "QuestCompleteBGs",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.33000001311302185
+		}
+	}
+}

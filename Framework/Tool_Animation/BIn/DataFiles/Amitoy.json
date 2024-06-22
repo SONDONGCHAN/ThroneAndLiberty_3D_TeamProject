@@ -1,0 +1,33 @@
+{
+	"4" : 
+	{
+		"AnimName" : "MD_IceGolem_LV5_SK.ao|MD_IceGolem_Und_act_Heal",
+		"ShapeInfo" : 
+		{
+			"MyFlag" : 1048576,
+			"OffSetPos" : 
+			[
+				0.0,
+				0.5,
+				0.0
+			],
+			"OffSetRot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			{
+				"SphereRadious" : 2.0000002384185791
+			},
+			"TargetFlag" : 1,
+			"Type" : 2
+		},
+		"TrackPos" : 
+		{
+			"EndPos" : 25.996999740600586,
+			"StartPos" : 7.1579999923706055
+		}
+	}
+}

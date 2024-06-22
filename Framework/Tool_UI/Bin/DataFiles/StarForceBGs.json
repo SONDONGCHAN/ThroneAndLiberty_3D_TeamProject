@@ -1,0 +1,165 @@
+{
+	"StarForceBGs" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				376.0,
+				376.0
+			],
+			"SizeY" : 200.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					0.0
+				],
+				"Scale" : 
+				[
+					376.0,
+					200.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					10.0
+				],
+				"Scale" : 
+				[
+					240.0,
+					46.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					10.0
+				],
+				"Scale" : 
+				[
+					120.0,
+					46.0
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					10.0
+				],
+				"Scale" : 
+				[
+					46.0,
+					46.0
+				]
+			},
+			"SRT4" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					10.0
+				],
+				"Scale" : 
+				[
+					248.0,
+					56.0
+				]
+			},
+			"SRT5" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					-55.0
+				],
+				"Scale" : 
+				[
+					165.0,
+					74.0
+				]
+			},
+			"SRT6" : 
+			{
+				"Pos" : 
+				[
+					143.0,
+					10.0
+				],
+				"Scale" : 
+				[
+					40.0,
+					56.0
+				]
+			},
+			"SRT7" : 
+			{
+				"Pos" : 
+				[
+					-143.0,
+					10.0
+				],
+				"Scale" : 
+				[
+					40.0,
+					56.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Lobby_WorldServer_BTN_Normal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 17,
+			"UISlotType" : 6,
+			"UITag" : "StarForceBGs",
+			"UIType" : 61,
+			"UIZOrder" : 0.31999999284744263
+		}
+	}
+}

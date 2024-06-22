@@ -1,0 +1,56 @@
+{
+	"21" : 
+	{
+		"AnimName" : "M_Orc_Warrior_001_SK.ao|M_Orc_Warrior_socslogan",
+		"SoundName" : 
+		[
+			"OS_Fury"
+		],
+		"TrackPos" : 
+		[
+			36.909999847412109
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"50" : 
+	{
+		"AnimName" : "M_Orc_Warrior_001_SK.ao|M_Orc_Warrior_USkdmgA",
+		"SoundName" : 
+		[
+			"OS_Att1",
+			"OS_Blade"
+		],
+		"TrackPos" : 
+		[
+			18.135000228881836,
+			19.844999313354492
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"51" : 
+	{
+		"AnimName" : "M_Orc_Warrior_001_SK.ao|M_Orc_Warrior_USkdmgB",
+		"SoundName" : 
+		[
+			"OS_Att2",
+			"OS_Blade"
+		],
+		"TrackPos" : 
+		[
+			18.042999267578125,
+			23.999000549316406
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	}
+}

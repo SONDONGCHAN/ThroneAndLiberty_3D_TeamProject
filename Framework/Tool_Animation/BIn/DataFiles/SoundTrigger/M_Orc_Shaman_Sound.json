@@ -1,0 +1,56 @@
+{
+	"58" : 
+	{
+		"AnimName" : "M_Orc_Shaman_SK.ao|M_Orc_Shaman_USkdmgA",
+		"SoundName" : 
+		[
+			"OSH_Attack2",
+			"OSH_Staff"
+		],
+		"TrackPos" : 
+		[
+			27.570999145507812,
+			28.60099983215332
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"59" : 
+	{
+		"AnimName" : "M_Orc_Shaman_SK.ao|M_Orc_Shaman_USkdmgB",
+		"SoundName" : 
+		[
+			"OSH_Buff"
+		],
+		"TrackPos" : 
+		[
+			58.887001037597656
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"60" : 
+	{
+		"AnimName" : "M_Orc_Shaman_SK.ao|M_Orc_Shaman_USkdmgC",
+		"SoundName" : 
+		[
+			"OSH_Attack1",
+			"OSH_Attack1"
+		],
+		"TrackPos" : 
+		[
+			9.805999755859375,
+			58.700000762939453
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	}
+}

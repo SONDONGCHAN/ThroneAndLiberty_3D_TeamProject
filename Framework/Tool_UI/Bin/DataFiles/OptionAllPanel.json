@@ -1,0 +1,1328 @@
+{
+	"OptionABGs" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"OptionBTabs"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				741.0,
+				741.0
+			],
+			"SizeY" : 564.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					0.0
+				],
+				"InstanceSize" : 
+				[
+					741.0,
+					564.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					210.0
+				],
+				"InstanceSize" : 
+				[
+					700.0,
+					106.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					190.0
+				],
+				"InstanceSize" : 
+				[
+					714.0,
+					52.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-40.0
+				],
+				"InstanceSize" : 
+				[
+					714.0,
+					400.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				741.0,
+				564.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"IMG_Journal_BG_G"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "OptionABGs",
+			"UITexType" : 8,
+			"UIType" : 62,
+			"UIZOrder" : 0.30000001192092896
+		}
+	},
+	"OptionAllPanel" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"OptionABGs",
+				"OptionEHovers"
+			],
+			"NumChildren" : 2
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				50.0,
+				50.0
+			],
+			"SizeY" : 50.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				50.0,
+				50.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_SubTab_S_UnCheck"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "OptionAllPanel",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.31000000238418579
+		}
+	},
+	"OptionBTabs" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"OptionCTabs"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				144.0,
+				144.0
+			],
+			"SizeY" : 48.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-218.0,
+					190.0
+				],
+				"InstanceSize" : 
+				[
+					144.0,
+					48.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-71.0,
+					190.0
+				],
+				"InstanceSize" : 
+				[
+					144.0,
+					48.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					77.0,
+					190.0
+				],
+				"InstanceSize" : 
+				[
+					144.0,
+					48.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					224.0,
+					190.0
+				],
+				"InstanceSize" : 
+				[
+					144.0,
+					48.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				144.0,
+				48.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_SubTab_S_UnCheck"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "OptionBTabs",
+			"UITexType" : 8,
+			"UIType" : 63,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"OptionCTabs" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"OptionDBGs",
+				"OptionFSliders",
+				"OptionGCheckButtons"
+			],
+			"NumChildren" : 3
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				160.0,
+				160.0
+			],
+			"SizeY" : 40.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-260.0,
+					130.0
+				],
+				"InstanceSize" : 
+				[
+					160.0,
+					40.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-260.0,
+					80.0
+				],
+				"InstanceSize" : 
+				[
+					160.0,
+					40.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				160.0,
+				40.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_SubTab_S_UnCheck"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "OptionCTabs",
+			"UITexType" : 8,
+			"UIType" : 63,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"OptionDBGs" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				465.0,
+				465.0
+			],
+			"SizeY" : 1.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					60.0,
+					120.0
+				],
+				"InstanceSize" : 
+				[
+					465.0,
+					1.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-30.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					256.0,
+					40.0
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-190.0
+				],
+				"InstanceSize" : 
+				[
+					122.0,
+					9.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-235.0
+				],
+				"InstanceSize" : 
+				[
+					122.0,
+					9.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					-30.0,
+					50.0
+				],
+				"InstanceSize" : 
+				[
+					256.0,
+					40.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					-30.0,
+					5.0
+				],
+				"InstanceSize" : 
+				[
+					256.0,
+					40.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					-30.0,
+					-40.0
+				],
+				"InstanceSize" : 
+				[
+					256.0,
+					40.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					-30.0,
+					-85.0
+				],
+				"InstanceSize" : 
+				[
+					256.0,
+					40.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					-30.0,
+					-130.0
+				],
+				"InstanceSize" : 
+				[
+					256.0,
+					40.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					-30.0,
+					-175.0
+				],
+				"InstanceSize" : 
+				[
+					256.0,
+					40.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					-30.0,
+					-220.0
+				],
+				"InstanceSize" : 
+				[
+					256.0,
+					40.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-145.0
+				],
+				"InstanceSize" : 
+				[
+					122.0,
+					9.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				465.0,
+				1.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Deco_Line01"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "OptionDBGs",
+			"UITexType" : 8,
+			"UIType" : 62,
+			"UIZOrder" : 0.2800000011920929
+		}
+	},
+	"OptionEHovers" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				152.0,
+				152.0
+			],
+			"SizeY" : 69.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					-218.0,
+					192.0
+				],
+				"InstanceSize" : 
+				[
+					152.0,
+					69.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					-71.0,
+					192.0
+				],
+				"InstanceSize" : 
+				[
+					152.0,
+					69.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					77.0,
+					192.0
+				],
+				"InstanceSize" : 
+				[
+					152.0,
+					69.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					224.0,
+					192.0
+				],
+				"InstanceSize" : 
+				[
+					152.0,
+					69.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					-260.0,
+					132.0
+				],
+				"InstanceSize" : 
+				[
+					163.0,
+					59.5
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					-260.0,
+					82.0
+				],
+				"InstanceSize" : 
+				[
+					163.0,
+					59.5
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					345.0,
+					255.0
+				],
+				"InstanceSize" : 
+				[
+					42.0,
+					42.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				152.0,
+				69.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Lobby_WorldServer_BTN_Hover"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "OptionEHovers",
+			"UITexType" : 8,
+			"UIType" : 64,
+			"UIZOrder" : 0.25999999046325684
+		}
+	},
+	"OptionFSliders" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				122.0,
+				122.0
+			],
+			"SizeY" : 9.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-145.0
+				],
+				"InstanceSize" : 
+				[
+					122.0,
+					9.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-145.0
+				],
+				"InstanceSize" : 
+				[
+					21.0,
+					21.0
+				]
+			},
+			"InstanceValue10" : 
+			{
+				"InstancePos" : 
+				[
+					111.0,
+					-220.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					40.0
+				]
+			},
+			"InstanceValue11" : 
+			{
+				"InstancePos" : 
+				[
+					289.0,
+					-220.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					40.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-190.0
+				],
+				"InstanceSize" : 
+				[
+					122.0,
+					9.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-190.0
+				],
+				"InstanceSize" : 
+				[
+					21.0,
+					21.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-235.0
+				],
+				"InstanceSize" : 
+				[
+					122.0,
+					9.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-235.0
+				],
+				"InstanceSize" : 
+				[
+					21.0,
+					21.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					111.0,
+					-130.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					40.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					289.0,
+					-130.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					40.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					111.0,
+					-175.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					40.0
+				]
+			},
+			"InstanceValue9" : 
+			{
+				"InstancePos" : 
+				[
+					289.0,
+					-175.0
+				],
+				"InstanceSize" : 
+				[
+					25.0,
+					40.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				122.0,
+				9.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_UI_Option_Progress_Fill"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "OptionFSliders",
+			"UITexType" : 8,
+			"UIType" : 65,
+			"UIZOrder" : 0.23999999463558197
+		}
+	},
+	"OptionGCheckButtons" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				36.0,
+				36.0
+			],
+			"SizeY" : 36.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					95.0
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					36.0
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					50.0
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					36.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					5.0
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					36.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-40.0
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					36.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					200.0,
+					-85.0
+				],
+				"InstanceSize" : 
+				[
+					36.0,
+					36.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				36.0,
+				36.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_UI_Check_Off_Normal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 18,
+			"UISlotType" : 6,
+			"UITag" : "OptionGCheckButtons",
+			"UITexType" : 8,
+			"UIType" : 66,
+			"UIZOrder" : 0.23000000417232513
+		}
+	}
+}

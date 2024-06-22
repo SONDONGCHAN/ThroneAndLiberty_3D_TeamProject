@@ -1,0 +1,298 @@
+{
+	"ItemToolTipInstance" : 
+	{
+		"Children" : 
+		{
+			"ChildrenTag" : 
+			[
+				"ToolTipInstance"
+			],
+			"NumChildren" : 1
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				50.0,
+				50.0
+			],
+			"SizeY" : 50.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				0.0,
+				0.0
+			],
+			"Scale" : 
+			[
+				50.0,
+				50.0
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEX_Contents_TITLE_Deco"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 7,
+			"UISlotType" : 6,
+			"UITag" : "ToolTipABGs",
+			"UITexType" : 0,
+			"UIType" : 11,
+			"UIZOrder" : 0.20000000298023224
+		}
+	},
+	"ToolTipInstance" : 
+	{
+		"Children" : 
+		{
+			"NumChildren" : 0
+		},
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Pivot" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Range" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				240.0,
+				240.0
+			],
+			"SizeY" : 189.46000671386719,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"InstanceUIValues" : 
+		{
+			"InstanceValue0" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					0.0
+				],
+				"InstanceSize" : 
+				[
+					240.0,
+					189.46000671386719
+				]
+			},
+			"InstanceValue1" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue2" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					100.0
+				],
+				"InstanceSize" : 
+				[
+					56.0,
+					56.0
+				]
+			},
+			"InstanceValue3" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					100.0
+				],
+				"InstanceSize" : 
+				[
+					48.0,
+					48.0
+				]
+			},
+			"InstanceValue4" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					40.0
+				],
+				"InstanceSize" : 
+				[
+					240.0,
+					52.0
+				]
+			},
+			"InstanceValue5" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-7.0
+				],
+				"InstanceSize" : 
+				[
+					240.0,
+					52.0
+				]
+			},
+			"InstanceValue6" : 
+			{
+				"InstancePos" : 
+				[
+					0.0,
+					-64.0
+				],
+				"InstanceSize" : 
+				[
+					240.0,
+					52.0
+				]
+			},
+			"InstanceValue7" : 
+			{
+				"InstancePos" : 
+				[
+					-75.0,
+					75.0
+				],
+				"InstanceSize" : 
+				[
+					90.0,
+					28.0
+				]
+			},
+			"InstanceValue8" : 
+			{
+				"InstancePos" : 
+				[
+					75.0,
+					75.0
+				],
+				"InstanceSize" : 
+				[
+					90.0,
+					28.0
+				]
+			}
+		},
+		"SRT" : 
+		{
+			"Pos" : 
+			[
+				75.0,
+				75.0
+			],
+			"Scale" : 
+			[
+				240.0,
+				189.46000671386719
+			]
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"TEXN_ToolTip_Nomal_BG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 15,
+			"UISlotType" : 6,
+			"UITag" : "ToolTipInstance",
+			"UITexType" : 8,
+			"UIType" : 59,
+			"UIZOrder" : 0.20000000298023224
+		}
+	}
+}

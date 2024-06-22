@@ -1,0 +1,56 @@
+{
+	"25" : 
+	{
+		"AnimName" : "M_LivingArmor_Archer_SK.ao|M_LivingArmor_Archer_SkdmgA",
+		"SoundName" : 
+		[
+			"LA_Fury"
+		],
+		"TrackPos" : 
+		[
+			52.380001068115234
+		],
+		"Volume" : 
+		[
+			0.5
+		]
+	},
+	"26" : 
+	{
+		"AnimName" : "M_LivingArmor_Archer_SK.ao|M_LivingArmor_Archer_SkdmgB",
+		"SoundName" : 
+		[
+			"LA_Att1",
+			"LA_ArrowFire"
+		],
+		"TrackPos" : 
+		[
+			24.791000366210938,
+			25.079999923706055
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	},
+	"27" : 
+	{
+		"AnimName" : "M_LivingArmor_Archer_SK.ao|M_LivingArmor_Archer_SkdmgC",
+		"SoundName" : 
+		[
+			"LA_Att2",
+			"LA_ArrowFireMagic"
+		],
+		"TrackPos" : 
+		[
+			83.531997680664062,
+			85.267997741699219
+		],
+		"Volume" : 
+		[
+			0.5,
+			0.5
+		]
+	}
+}

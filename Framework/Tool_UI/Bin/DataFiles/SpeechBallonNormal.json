@@ -1,0 +1,139 @@
+{
+	"SpeechBallonNormal" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				96.0,
+				96.0
+			],
+			"SizeY" : 38.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					42.0
+				],
+				"Scale" : 
+				[
+					96.0,
+					38.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					21.5
+				],
+				"Scale" : 
+				[
+					280.0,
+					13.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					-23.5
+				],
+				"Scale" : 
+				[
+					15.0,
+					18.0
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					-73.0,
+					-18.0
+				],
+				"Scale" : 
+				[
+					130.0,
+					6.0
+				]
+			},
+			"SRT4" : 
+			{
+				"Pos" : 
+				[
+					72.5,
+					-18.0
+				],
+				"Scale" : 
+				[
+					130.0,
+					6.0
+				]
+			},
+			"SRT5" : 
+			{
+				"Pos" : 
+				[
+					0.0,
+					0.0
+				],
+				"Scale" : 
+				[
+					280.0,
+					30.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_Dialouge_SpeechB_TitleBG"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 0,
+			"UISlotType" : 6,
+			"UITag" : "SpeechBallonBG0",
+			"UIType" : 12,
+			"UIZOrder" : 0.20000000298023224
+		}
+	}
+}

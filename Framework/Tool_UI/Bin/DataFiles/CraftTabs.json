@@ -1,0 +1,113 @@
+{
+	"CraftTabs" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				64.0,
+				64.0
+			],
+			"SizeY" : 64.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					-220.0,
+					257.5
+				],
+				"Scale" : 
+				[
+					64.0,
+					64.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					-70.0,
+					257.5
+				],
+				"Scale" : 
+				[
+					64.0,
+					64.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					80.0,
+					257.5
+				],
+				"Scale" : 
+				[
+					64.0,
+					64.0
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					230.0,
+					257.5
+				],
+				"Scale" : 
+				[
+					64.0,
+					64.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"Tex_BTNIcon_Level_01_Normal"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.10000000149011612,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 12,
+			"UISlotType" : 6,
+			"UITag" : "CraftFTabs",
+			"UIType" : 52,
+			"UIZOrder" : 0.25
+		}
+	}
+}

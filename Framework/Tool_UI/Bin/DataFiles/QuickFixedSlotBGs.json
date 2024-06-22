@@ -1,0 +1,119 @@
+{
+	"QuickFixedSlotBGs" : 
+	{
+		"InstanceDesc" : 
+		{
+			"Center" : 
+			[
+				0.0,
+				0.0,
+				0.0
+			],
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"Duration" : 0.0,
+			"IsLoop" : false,
+			"LifeTime" : 
+			[
+				0.0,
+				0.0
+			],
+			"Size" : 
+			[
+				39.0,
+				39.0
+			],
+			"SizeY" : 39.0,
+			"Speed" : 
+			[
+				0.0,
+				0.0
+			]
+		},
+		"SRTs" : 
+		{
+			"SRT0" : 
+			{
+				"Pos" : 
+				[
+					108.0,
+					-258.0
+				],
+				"Scale" : 
+				[
+					39.0,
+					39.0
+				]
+			},
+			"SRT1" : 
+			{
+				"Pos" : 
+				[
+					147.0,
+					-258.0
+				],
+				"Scale" : 
+				[
+					39.0,
+					39.0
+				]
+			},
+			"SRT2" : 
+			{
+				"Pos" : 
+				[
+					186.0,
+					-258.0
+				],
+				"Scale" : 
+				[
+					39.0,
+					39.0
+				]
+			},
+			"SRT3" : 
+			{
+				"Pos" : 
+				[
+					225.0,
+					-258.0
+				],
+				"Scale" : 
+				[
+					39.0,
+					39.0
+				]
+			}
+		},
+		"Textures" : 
+		{
+			"Diffuse" : 
+			[
+				"BG_ItemGrade_01",
+				"BG_ItemGrade_02",
+				"BG_ItemGrade_03",
+				"BG_ItemGrade_04",
+				"BG_ItemGrade_05",
+				"BG_ItemGrade_06",
+				"BG_ItemGrade_07"
+			]
+		},
+		"UIDesc" : 
+		{
+			"UIDiscardAlpha" : 0.0,
+			"UIIsMasked" : false,
+			"UIIsNoised" : false,
+			"UILayer" : 1,
+			"UIPassIndex" : 4,
+			"UISlotType" : 6,
+			"UITag" : "QuickFixedSlot0BG",
+			"UIType" : 35,
+			"UIZOrder" : 0.10000000149011612
+		}
+	}
+}

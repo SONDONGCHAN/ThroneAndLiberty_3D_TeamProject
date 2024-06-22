@@ -1,0 +1,91 @@
+{
+	"0" : 
+	{
+		"AnimName" : "MD_IceGolem_LV5_SK.ao|MD_IceGolem_Und_abn_stun",
+		"SoundName" : 
+		[
+			"AmitoyStun"
+		],
+		"TrackPos" : 
+		[
+			0.26800000667572021
+		],
+		"Volume" : 
+		[
+			0.40000000596046448
+		]
+	},
+	"12" : 
+	{
+		"AnimName" : "MD_IceGolem_LV5_SK.ao|MD_Icegolem_Und_Mov_run_Fast",
+		"SoundName" : 
+		[
+			"AmitoyRun",
+			"AmitoyRun"
+		],
+		"TrackPos" : 
+		[
+			4.0130000114440918,
+			10.012999534606934
+		],
+		"Volume" : 
+		[
+			0.40000000596046448,
+			0.40000000596046448
+		]
+	},
+	"13" : 
+	{
+		"AnimName" : "MD_IceGolem_LV5_SK.ao|MD_IceGolem_Und_Mov_run_normal",
+		"SoundName" : 
+		[
+			"AmitoyWalk",
+			"AmitoyWalk"
+		],
+		"TrackPos" : 
+		[
+			5.0850000381469727,
+			23.027000427246094
+		],
+		"Volume" : 
+		[
+			0.30000001192092896,
+			0.30000001192092896
+		]
+	},
+	"14" : 
+	{
+		"AnimName" : "MD_IceGolem_LV5_SK.ao|MD_Icegolem_Und_soc_alam",
+		"SoundName" : 
+		[
+			"Kirby-Giggle Hi",
+			"Kirby-i"
+		],
+		"TrackPos" : 
+		[
+			10.034000396728516,
+			55.883998870849609
+		],
+		"Volume" : 
+		[
+			0.30000001192092896,
+			0.30000001192092896
+		]
+	},
+	"4" : 
+	{
+		"AnimName" : "MD_IceGolem_LV5_SK.ao|MD_IceGolem_Und_act_Heal",
+		"SoundName" : 
+		[
+			"Kirby-ooyeah!"
+		],
+		"TrackPos" : 
+		[
+			7.9149999618530273
+		],
+		"Volume" : 
+		[
+			0.30000001192092896
+		]
+	}
+}

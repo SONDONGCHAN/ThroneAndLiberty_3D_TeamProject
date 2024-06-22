@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{82ebc981-029c-4547-ac09-44f73bfbf0cd}</ProjectGuid>
+    <RootNamespace>ToolUI</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <OutDir>..\Bin\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutDir>..\Bin\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>../Public/;../Private/;../../Reference/Headers/;../../Reference/Headers/DirectXTK/;../../Reference/Headers/Effects11/;../../Reference/Headers/Physics/;../Default/;../ImGui/;../ImGui/ImGuizmo/</AdditionalIncludeDirectories>
+      <AdditionalOptions>/MP %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>Engine.lib;d3d11.lib;jsoncpp.lib;DirectXTKd.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>../ThirdPartyLib/;../../Reference/Librarys/</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>../Public/;../Private/;../../Reference/Headers/;../../Reference/Headers/DirectXTK/;../../Reference/Headers/Effects11/;../../Reference/Headers/Physics/;../Default/;../ImGui/;../ImGui/ImGuizmo/</AdditionalIncludeDirectories>
+      <AdditionalOptions>/MP %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>Engine.lib;d3d11.lib;jsoncpp.lib;DirectXTKd.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>../ThirdPartyLib/;../../Reference/Librarys/</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Imgui\imconfig.h" />
+    <ClInclude Include="..\Imgui\imgui.h" />
+    <ClInclude Include="..\Imgui\imgui_impl_dx11.h" />
+    <ClInclude Include="..\Imgui\imgui_impl_win32.h" />
+    <ClInclude Include="..\Imgui\imgui_internal.h" />
+    <ClInclude Include="..\ImGui\imgui_stdlib.h" />
+    <ClInclude Include="..\Imgui\imstb_rectpack.h" />
+    <ClInclude Include="..\Imgui\imstb_textedit.h" />
+    <ClInclude Include="..\Imgui\imstb_truetype.h" />
+    <ClInclude Include="..\Public\ImGuiMgr.h" />
+    <ClInclude Include="..\Public\LevelDev.h" />
+    <ClInclude Include="..\Public\ToolFreeCamera.h" />
+    <ClInclude Include="..\Public\ToolMain.h" />
+    <ClInclude Include="..\Public\ToolUIBackGround.h" />
+    <ClInclude Include="..\Public\ToolUIBar.h" />
+    <ClInclude Include="..\Public\ToolUIBase.h" />
+    <ClInclude Include="..\Public\ToolUIBG.h" />
+    <ClInclude Include="..\Public\ToolUIButton.h" />
+    <ClInclude Include="..\Public\ToolUICoolTime.h" />
+    <ClInclude Include="..\Public\ToolUICover.h" />
+    <ClInclude Include="..\Public\ToolUICraftBG.h" />
+    <ClInclude Include="..\Public\ToolUICraftHover.h" />
+    <ClInclude Include="..\Public\ToolUICraftResult.h" />
+    <ClInclude Include="..\Public\ToolUICraftSlot.h" />
+    <ClInclude Include="..\Public\ToolUIHover.h" />
+    <ClInclude Include="..\Public\ToolUIIcon.h" />
+    <ClInclude Include="..\Public\ToolUIInstance.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceAbnormalSlot.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceBossAbnormal.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceBossHP.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceCraftTab.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceDialogue.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceInteraction.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceItemBG.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceItemCoolTime.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceItemHover.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceItemIcon.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceItemSlot.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceParring.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceQuest.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceQuestIndicator.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceQuickBG.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceQuickSlot.h" />
+    <ClInclude Include="..\Public\ToolUIInstanceWorldHP.h" />
+    <ClInclude Include="..\Public\ToolUIItemBackGround.h" />
+    <ClInclude Include="..\Public\ToolUIItemHover.h" />
+    <ClInclude Include="..\Public\ToolUIItemIcon.h" />
+    <ClInclude Include="..\Public\ToolUIItemTab.h" />
+    <ClInclude Include="..\Public\ToolUIItemToolTip.h" />
+    <ClInclude Include="..\Public\ToolUILockOn.h" />
+    <ClInclude Include="..\Public\ToolUIMgr.h" />
+    <ClInclude Include="..\Public\ToolUINormalText.h" />
+    <ClInclude Include="..\Public\ToolUIOptionBG.h" />
+    <ClInclude Include="..\Public\ToolUIOptionCheckBox.h" />
+    <ClInclude Include="..\Public\ToolUIOptionHover.h" />
+    <ClInclude Include="..\Public\ToolUIOptionSlider.h" />
+    <ClInclude Include="..\Public\ToolUIOptionTab.h" />
+    <ClInclude Include="..\Public\ToolUIPanel.h" />
+    <ClInclude Include="..\Public\ToolUIQuestComplete.h" />
+    <ClInclude Include="..\Public\ToolUIScroll.h" />
+    <ClInclude Include="..\Public\ToolUISlider.h" />
+    <ClInclude Include="..\Public\ToolUISlot.h" />
+    <ClInclude Include="..\Public\ToolUISpeechBallon.h" />
+    <ClInclude Include="..\Public\ToolUIStarForce.h" />
+    <ClInclude Include="..\Public\ToolUIText.h" />
+    <ClInclude Include="..\Public\ToolUITradeBG.h" />
+    <ClInclude Include="..\Public\ToolUITradeHover.h" />
+    <ClInclude Include="..\Public\ToolUITradeSlot.h" />
+    <ClInclude Include="..\Public\ToolUITradeTab.h" />
+    <ClInclude Include="..\Public\ToolUITutorial.h" />
+    <ClInclude Include="..\Public\ToolUIUV.h" />
+    <ClInclude Include="..\Public\ToolUIVisible.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Tool_Defines.h" />
+    <ClInclude Include="Tool_UI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Imgui\imgui.cpp" />
+    <ClCompile Include="..\Imgui\imgui_demo.cpp" />
+    <ClCompile Include="..\Imgui\imgui_draw.cpp" />
+    <ClCompile Include="..\Imgui\imgui_impl_dx11.cpp" />
+    <ClCompile Include="..\Imgui\imgui_impl_win32.cpp" />
+    <ClCompile Include="..\ImGui\imgui_stdlib.cpp" />
+    <ClCompile Include="..\Imgui\imgui_tables.cpp" />
+    <ClCompile Include="..\Imgui\imgui_widgets.cpp" />
+    <ClCompile Include="..\Private\ImGuiMgr.cpp" />
+    <ClCompile Include="..\Private\LevelDev.cpp" />
+    <ClCompile Include="..\Private\ToolFreeCamera.cpp" />
+    <ClCompile Include="..\Private\ToolMain.cpp" />
+    <ClCompile Include="..\Private\ToolUIBackGround.cpp" />
+    <ClCompile Include="..\Private\ToolUIBar.cpp" />
+    <ClCompile Include="..\Private\ToolUIBase.cpp" />
+    <ClCompile Include="..\Private\ToolUIBG.cpp" />
+    <ClCompile Include="..\Private\ToolUIButton.cpp" />
+    <ClCompile Include="..\Private\ToolUICoolTime.cpp" />
+    <ClCompile Include="..\Private\ToolUICover.cpp" />
+    <ClCompile Include="..\Private\ToolUICraftBG.cpp" />
+    <ClCompile Include="..\Private\ToolUICraftHover.cpp" />
+    <ClCompile Include="..\Private\ToolUICraftResult.cpp" />
+    <ClCompile Include="..\Private\ToolUICraftSlot.cpp" />
+    <ClCompile Include="..\Private\ToolUIHover.cpp" />
+    <ClCompile Include="..\Private\ToolUIIcon.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstance.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceAbnormalSlot.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceBossAbnormal.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceBossHP.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceCraftTab.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceDialogue.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceInteraction.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceItemBG.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceItemCoolTime.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceItemHover.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceItemIcon.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceItemSlot.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceParring.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceQuest.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceQuestIndicator.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceQuickBG.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceQuickSlot.cpp" />
+    <ClCompile Include="..\Private\ToolUIInstanceWorldHP.cpp" />
+    <ClCompile Include="..\Private\ToolUIItemBackGround.cpp" />
+    <ClCompile Include="..\Private\ToolUIItemHover.cpp" />
+    <ClCompile Include="..\Private\ToolUIItemIcon.cpp" />
+    <ClCompile Include="..\Private\ToolUIItemTab.cpp" />
+    <ClCompile Include="..\Private\ToolUIItemToolTip.cpp" />
+    <ClCompile Include="..\Private\ToolUILockOn.cpp" />
+    <ClCompile Include="..\Private\ToolUIMgr.cpp" />
+    <ClCompile Include="..\Private\ToolUINormalText.cpp" />
+    <ClCompile Include="..\Private\ToolUIOptionBG.cpp" />
+    <ClCompile Include="..\Private\ToolUIOptionCheckBox.cpp" />
+    <ClCompile Include="..\Private\ToolUIOptionHover.cpp" />
+    <ClCompile Include="..\Private\ToolUIOptionSlider.cpp" />
+    <ClCompile Include="..\Private\ToolUIOptionTab.cpp" />
+    <ClCompile Include="..\Private\ToolUIPanel.cpp" />
+    <ClCompile Include="..\Private\ToolUIQuestComplete.cpp" />
+    <ClCompile Include="..\Private\ToolUIScroll.cpp" />
+    <ClCompile Include="..\Private\ToolUISlider.cpp" />
+    <ClCompile Include="..\Private\ToolUISlot.cpp" />
+    <ClCompile Include="..\Private\ToolUISpeechBallon.cpp" />
+    <ClCompile Include="..\Private\ToolUIStarForce.cpp" />
+    <ClCompile Include="..\Private\ToolUIText.cpp" />
+    <ClCompile Include="..\Private\ToolUITradeBG.cpp" />
+    <ClCompile Include="..\Private\ToolUITradeHover.cpp" />
+    <ClCompile Include="..\Private\ToolUITradeSlot.cpp" />
+    <ClCompile Include="..\Private\ToolUITradeTab.cpp" />
+    <ClCompile Include="..\Private\ToolUITutorial.cpp" />
+    <ClCompile Include="..\Private\ToolUIUV.cpp" />
+    <ClCompile Include="..\Private\ToolUIVisible.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Tool_UI.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico" />
+    <Image Include="Tool_UI.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool_UI.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
